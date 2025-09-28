@@ -10,6 +10,23 @@
         padding: 10px;
         font-size: 14px;
     }
+
+    /* Default light mode styles */
+    body {
+        background-color: #ffffff;
+        color: #333333;
+    }
+
+    /* Dark mode styles */
+    @media (prefers-color-scheme: dark) {
+        body {
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+        .dialogue-box {
+            color: #e0e0e0;
+        }
+    }
 </style>
 </head>
 <body>
