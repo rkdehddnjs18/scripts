@@ -31,13 +31,11 @@ cd unrpyc
 # 2. 필요한 빌드 도구 설치 (Linux의 경우)
 sudo apt install build-essential
 
-# 3. pip, setuptools, wheel 최신 버전으로 업데이트
-python -m pip install --upgrade pip setuptools wheel
+# 3. pip, setuptools wheel twine check-wheel-contents 최신 버전으로 업데이트
+python -m pip install --upgrade setuptools wheel twine check-wheel-contents
 
 # 4. unrpyc 설치
 pip install . --no-cache-dir
-# 또는
-pip install unrpyc --no-cache-dir
 ```
 
 ### 3. `pyinstaller` 설치 (선택 사항)
@@ -45,8 +43,6 @@ pip install unrpyc --no-cache-dir
 
 ```bash
 pip install pyinstaller --no-warn-script-location
-# 또는 sudo 권한이 필요한 경우
-sudo pip install pyinstaller --no-warn-script-location
 ```
 
 `unrpyc.py`를 실행 파일로 변환:
@@ -71,7 +67,6 @@ sudo chmod 755 /usr/local/bin/unrpyc
 unrpa -mp "./_workspace" scripts.rpa
 
 # 다른 .rpa 파일도 동일하게 추출
-unrpa -mp "./_workspace" e1_images.rpa
 unrpa -mp "./_workspace" ep1_images.rpa
 ```
 
@@ -85,9 +80,6 @@ unrpyc script.rpyc
 # 디컴파일된 파일을 특정 디렉토리(예: 'xxx')에 저장
 mkdir xxx
 unrpyc script.rpyc xxx
-
-# 디컴파일된 파일에 번역 태그를 추가 (예: 한국어)
-unrpyc script.rpyc -t korean
 ```
 
 ### 3. 대화 스크립트 추출 (grep)
@@ -96,9 +88,6 @@ unrpyc script.rpyc -t korean
 ```bash
 # 단일 .rpy 파일에서 대화 추출
 grep -E '^\s*[a-zA-Z]+\s*\".*?\"$' e1.rpy > e1.txt
-
-# 현재 디렉토리의 모든 .rpy 파일에서 대화 추출
-for file in *.rpy; do grep -E '^\s*[a-zA-Z]+\s*\".*?\"$' "$file" > "${file%.rpy}.txt"; done
 
 # 하위 디렉토리 포함 모든 .rpy 파일에서 대화 추출
 find . -name "*.rpy" -exec bash -c 'grep -E "^\\s*[a-zA-Z]+\\s*\\\"[^\\]*\\\"$" "$0" > "$(basename "$0" .rpy).txt"' {} \;
@@ -123,15 +112,11 @@ sed -i 's/^\(\s*\)m /\1Me: /' *.txt
 sed -i 's/^\(\s*\)j /\1Jane: /' *.txt
 sed -i 's/^\(\s*\)em /\1Emily: /' *.txt
 sed -i 's/^\(\s*\)k /\1Kiara: /' *.txt
-sed -i 's/^\(\s*\)n /\1Narator: /' *.txt
+sed -i 's/^\(\s*\)n /\1Narr: /' *.txt
 sed -i 's/^\(\s*\)nao /\1Naomi: /' *.txt
 sed -i 's/^\(\s*\)v /\1Violet: /' *.txt
 sed -i 's/^\(\s*\)b /\1Belle: /' *.txt
 sed -i 's/^\(\s*\)s /\1Stacy: /' *.txt
-
-# 'Narator'를 'Narr'로 변경 (오타 수정)
-sed -i 's/Narator/Narr/' *.txt
-sed -i 's/Narator:/Narr:/' *.txt
 
 # 캐릭터 이름 뒤에 탭 추가 (정렬을 위해)
 sed -i 's/^\(\s*\w\+:\) /\1\t/' *.txt
@@ -145,11 +130,6 @@ sed -i 's/\\n/ /g' *.txt
 # 이스케이프된 큰따옴표 '\"'를 일반 큰따옴표 '"'로 대체
 sed -i 's/\\"/"/g' *.txt
 ```
-
-### 5. Git Workflow
-프로젝트 변경 사항을 관리하고 GitHub에 푸시하는 방법입니다.
-
-
 
 ## License
 이 프로젝트는 `LICENSE` 파일에 명시된 라이선스를 따릅니다.
