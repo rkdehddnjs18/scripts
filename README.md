@@ -107,6 +107,7 @@ sed -i 's/"$//' *.txt
 sed -i 's/^\(\s*\w\+\) \"/\1 /' *.txt
 
 # 캐릭터 약어를 전체 이름으로 변경 (예: 'mo' -> 'Eve:')
+sed -i 's/\[m!t\]/Dennis/' *
 sed -i 's/^\(\s*\)mo /\1Eve: /' *.txt
 sed -i 's/^\(\s*\)m /\1Me: /' *.txt
 sed -i 's/^\(\s*\)j /\1Jane: /' *.txt
@@ -123,11 +124,6 @@ sed -i 's/^\(\s*noname\) /\1:\t/' *.txt
 sed -i 's/^\(\s*svi\) /\1:\t/' *.txt
 sed -i 's/^\(\s*voice\) /\1:\t/' *.txt
 
-      2 hint
-      4 noname
-     18 svi
-     33 tut
-      1 voice
 
 # 캐릭터 이름 뒤에 탭 추가 (정렬을 위해)
 sed -i 's/^\(\s*\w\+:\) /\1\t/' *.txt
