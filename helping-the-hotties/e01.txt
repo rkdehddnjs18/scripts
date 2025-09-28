@@ -1,1331 +1,1331 @@
-n "Still hesitant, you make your way towards the house."
-m "(So many memories here...)"
-m "(Bad ones... But I can't lie... Some good ones too.)"
-m "(Do I knock? Or just go in?)"
-m "(Maybe it would be better if...)"
-n "Suddenly, the door bursts open."
-em "[m!t]!"
-m "Hi..."
-n "She jumps you, almost making you lose your balance."
-em "Oh, how I missed you!"
-m "Missed you too, Em..."
-em "Awww!"
-n "A few seconds pass while neither of you says anything."
-m "Would you mind climbing down now?"
-em "Nope, not yet!"
-n "You did have your reason for asking..."
-n "Emily's breasts were pressed hard against your chest."
-m "You've really grown."
-em "I did?"
-m "Yeah, and you're heavy."
-n "Hearing this, she gets off."
-em "Hey! That's no way to talk to a lady."
-m "Oh? So now you're a lady?"
-em "Yeah... Not really..."
-em "Never mind. Come in!"
-n "For a split second, you hesitate..."
-n "But Emily grabs your hand."
-n "And pulls you inside."
-em "Aaaand..."
-m "And?"
-em "How's college?"
-m "Oh. Good, I guess..."
-em "Must be better than good, since you haven't shown your face around here in a while."
-m "You see, I..."
-k "Look what the cat dragged in."
-m "Hi, Kiara."
-k "Hey."
-tut "This game features something called \"x-ray\"."
-tut "Use your cursor to highlight and press the left mouse button in the upper left corner."
-tut "This will enter an \"x-ray mode\". You can leave it by pressing anywhere on the screen."
-tut "Try it yourself."
-m "Didn't know you're back at camp."
-k "Didn't think I would be."
-k "Anyway, nice to see you, [m!t]."
-m "You too."
-k "We'll talk later. Gotta go prepare the cabins."
-m "Sure."
-m "(Not even a hug... Well, that's kind of to be expected, since...)"
-n "Something else grabs your attention."
-em "Anyone at college catch your eye?"
-m "Huh?"
-em "College? Hot girls?"
-m "Hahaha, sure... There are some hot ones out there."
-m "But, I'm kinda seeing someone."
-em "You are?! Who?!"
-em "What's her name?!"
-em "How old is she?!"
-em "Are you taking classes together?!"
-em "Is she hot?"
-em "Do you have a picture of her?!"
-em "What am I even talking about? Of course you do!"
-em "Why haven’t you already shown me?!"
-m "Could I unpack first?"
-em "Right... Silly me."
-em "Sorry, I just get so excited!"
-m "Some things never change, I guess. (Still, she did grow up so much.)"
-em "Guess not. *Giggle*"
-em "Oh right, that reminds me!"
-em "Eve said you should unpack once you arrive and she'll come and find you."
-em "Here's the key to your room."
-em "You better get going. So we still have time to hang out afterwards."
-m "Sounds good to me!"
-tut "This game features navigation."
-tut "Use your cursor to highlight interactable objects like doors, items or characters."
-tut "To interact with them, simply press the left mouse button."
-tut "The game also has a HINT system. If you get stuck, click on question mark in the upper right corner to see what you need to do next."
-tut "To use the map during free roam mode, click on the compass icon below the other icons in the sidebar on the right side of the screen."
-tut "Upon clicking the compass icon, the map of your current location will appear on the screen."
-m "Where did I put the key?"
-            m "Oh! Here it is!"
-            m "Hmm, I can’t find it. Maybe if I–"
-            m "Oh, it’s unlocked!"
-n "As you open the door..."
-n "An overwhelming sense of nostalgia washes over you."
-m "Heh...(It's still the same.)"
-m "(So many memories...)"
-m "(It almost feels good being back.)"
-m "(Almost...)"
-m "Jane?"
-n "You open the message. Only to find a hot, nude selfie from Jane."
-j "*Still in bed. Wish you were here.*"
-m "*Damn! Girl! You need to warn me before sending something like this."
-j "*I do?*"
-m "*Yes.*"
-j "*Okay. Warning!*"
-n "As any man would, you start the video..."
-n "Immediately, you feel your pants tighten."
-n "Though, as luck would have it..."
-n "The door suddenly opens."
-mo "I heard you were back home!"
-mo "But I had to see for myself."
-n "As fast as you can, you put down the phone."
-m "Hi, Eve.(Shit!)"
-mo "Stand up, silly! Give me a hug!"
-n "You stand up to give her a hug"
-n "She comes in to hug you, but you try your best she doesn’t feel your crotch."
-mo "It's good to see you, [m!t]."
-mo "So good to see you."
-m "Yeah, good to see you too, Eve."
-mo "Oh, how you've grown."
-m "Yeah... You too, Eve."
-mo "Ha-ha. Still funny as always."
-m "*Chuckle* You know me."
-mo "Oh, how I missed you!"
-n "Without giving you a chance to react, she hugs you... Hard."
-n "As she presses against you, she feels your bulge."
-mo "Oh! I see you've grown in other places too?"
-mo "*Chuckle* Happy to see me?"
-n "Instantly, you pull away."
-m "Eve!"
-mo "What? I'm just joking."
-m "I know, but still...(She's always been like this.)"
-m "(Not sure why she gets such a kick out of messing with me like this...)"
-mo "Hahaha! You were always so cute when embarrassed."
-mo "Although, there's nothing to be embarrassed about."
-m "Yeah... Yeah... I know the talk. \"It's normal at my age\"... Blah, blah, blah..."
-mo "I wasn't talking about that... I was talking about the size."
-m "Eve! (She seriously doesn't know how to let it go.)"
-mo "Hahahah! Just joking! Calm down."
-mo "Jeez! Since when did you get so {i}\"stiff\"{/i}?"
-m "Will you stop it?!"
-mo "*Chuckle* Okay, okay. I'll stop."
-m "*Sigh* Thank you."
-mo "No, thank you for letting me feel it."
-m "HEY! You said you'll stop. (Not sure why I even believed her...)"
-mo "That was the last one. I promise."
-m "Good."
-mo "This is the best thing to do in awkward situations like this."
-n "Knowing what follows, you sit on the bed..."
-mo "If we didn't make a joke out of it, you would've been thinking whether I felt it or not."
-mo "And I would've been thinking, \"Why does [m!t] have an erection?\""
-mo "That means we'd both be thinking about your... Ahmm... And that's {i}a lot{/i} more awkward."
-mo "It would leave a scar on your young, impressionable brain."
-mo "Not a big one, but... For the next couple of days, you would be thinking, \"Did Eve feel my erection?\""
-mo "It would go through your head every time you saw me. You'd be confused, even worried, about it."
-mo "This way..."
-m "Eve, stop it."
-m "I get it!"
-m "You don't need to over-analyze me, or this situation."
-mo "Oh, right! Sorry! Work habit..."
-m "I know."
-mo "Thank you for coming on such short notice."
-m "It's okay."
-mo "I know I probably ruined your summer..."
-mo "But, I really needed you here."
-m "So, what's going on?"
-mo "As I mentioned on the phone, things are going to be different this year."
-m "What \"things\"?"
-mo "The patients."
-m "What, you're no longer taking in fappers and bullies?"
-mo "No, we graduated to serial killers."
-m "WHAT?!"
-mo "*Chuckles* I'm joking, [m!t]."
-m "That wasn't really funny."
-mo "*Chuckle* Best I let you unpack."
-mo "We can talk more during dinner."
-m "Sure."
-mo "Okay. I need to get back to work, anyway."
-mo "See you later."
-m "Later, Eve."
-n "As she leaves, you turn towards your luggage..."
-tut "Panties are a form of collectable item scattered across the camp in various locations. Some are easier to spot..."
-tut "while others will be hidden away in hard to see places."
-tut "Collecting panties will unlock special images in the gallery, so keep your eyes open for them in each scene!"
-m "(I should finally unpack.)"
-m "(And I gotta make sure not to forget about Jane's text...)"
-n "Around 20 minutes later..."
-m "(All done. Now to help Kiara finish setting up.)"
-hint "Go to the camp area."
-m "Need help?"
-k "I'm doing the last cabin."
-m "So, yes or no?"
-k "Sure, why not."
-m "Say..."
-k "Huh?"
-m "Eve mentioned something..."
-k "What?"
-m "That she's taking in different patients this time around?"
-m "You know anything about that?"
-k "Hmmm, she didn't tell me anything."
-m "Nothing?"
-k "Nope. She's probably screwing with you."
-k "It's always the same guys since my first year here."
-k "Delinquent boys and wannabe bad-asses."
-m "So... Your type, right?"
-k "*Chuckle* Maybe..."
-m "You always loved it when they arrived."
-m "Me, on the other hand..."
-k "So what if they didn't like you?"
-k "Can you blame them?"
-k "They were jealous."
-m "So that's why they screwed with me?"
-k "Umm, I guess..."
-k "It wasn't so bad..."
-m "Maybe for you! The \"hot girl\" in camp no one could touch."
-k "Hmm, that {i}is{/i} true, but..."
-m "They're the reason I hate this place from the bottom of my soul."
-k "No, you don't..."
-m "Wanna bet?"
-k "How about you just help me clean this cabin?"
-m "Yay... Making beds for animals. Wooo-hoo..."
-    n "Still unhappy, you decide to help her..."
-    n "Still unhappy, you help her, and about twenty minutes later..."
-k "Pheew! That should be it!"
-m "Yeah..."
-n "With the cabin prepared, you two walk out."
-m "*Sigh* Fuck this..."
-k "You aren't a kid anymore."
-k "You can hold your ground now."
-m "You don't need to tell me that."
-k "Then why are you bitching about it all the time?"
-m "Damn. Ice-cold..."
-k "You really don't wanna be here, huh?"
-m "Yeah, I really don't."
-k "This year won't be so bad."
-k "I have a feeling the guys will be nice."
-m "I bet you do. (Nice and hot, maybe...)"
-k "You trying to say something?"
-m "Nope."
-k "You sure about that?"
-m "Positive."
-k "Oh, shit..."
-m "What is it?"
-k "I forgot The Guidelines in the house."
-m "I'll go get them."
-k "Don't forget, you need to put two in each cabin."
-m "I remember, Kiara."
-k "*Chuckle* Sorry for doubting you."
-k "Anyway, I think I left them on the kitchen table."
-m "Got it."
-hint "Get the guidelines from the kitchen table."
-m "Here they are."
-em "Hey, [m!t]!"
-m "Huh?"
-em "Wanna go for a swim?"
-m "Oh, umm... I have to--"
-em "Come on! It's such a nice day!"
-m "I have to get these--"
-em "Oh, come on..."
-em "Pretty please? I wanna try on my new bikini!"
-m "I can't right--"
-em "Trust me, you need a swim after such a long trip. *Giggle*"
-m "*Sigh* Fine, let's go for a swim. (The lake {i}did{/i} look refreshing.)"
-em "Yaaay!"
-m "But, just a quick dip."
-em "Sure."
-m "Let me go get my trunks."
-em "Hurry up."
-m "Yeah, yeah."
-n "Going upstairs, you rummage through your stuff and pull out your trunks."
-n "Putting them on, you rush back downstairs..."
-em "Ready?"
-m "Yeah, let's go."
-em "Weee!"
-n "Together, you make your way towards the lake."
-em "Hey! Kiara's here too!"
-m "(Is she now?)"
-em "Kiara! Put on some clothes!"
-m "(Topless?!)"
-em "Show off!"
-em "Come on, [m!t], let's go."
-n "You and Emily make your way towards the small dock."
-k "What are you two doing here?"
-em "Going for a swim."
-em "What are {i}you{/i} doing topless?"
-k "Getting a tan."
-m "Makes sense."
-em "Maybe you should be a bit more careful?"
-k "What do you care, you little brat."
-em "UGH!!! I told you not to call me that!"
-em "I'm not a kid anymore! I'm nineteen!"
-k "Not being a kid doesn't mean you're not still a brat."
-em "UGHH!!!"
-m "How about we all calm down a little, huh?"
-k "I {i}am{/i} calm."
-n "Saying this, Kiara lies back down on her stomach."
-em "Hmph!"
-n "Not feeling the need to intervene anymore, you start running..."
-n "And jump into the lake."
-m "Ahhh... So refreshing!"
-m "Come on, Emily!"
-em "Here I come!"
-n "She starts running..."
-n "Jumps..."
-n "And makes the biggest splash she can."
-k "Ahhh!"
-em "Oooh! It's cold! Why didn't you warn me?!"
-k "What the fuck, Emily?!"
-n "In her fit of rage, Kiara forgets she's topless."
-m "*Gulp*"
-em "Sorry!"
-k "Oh?! (Shit! I'm topless!)"
-n "Immediately, she lies back down."
-em "Won't happen again!"
-k "Yeah, yeah, whatever... (I should be more careful.)"
-m "*Whispers* You did that on purpose, didn't you?"
-em "*Whispers* Maybe. *Giggle*"
-em "Brrr! This is too cold for me, I'm getting out."
-m "What are you talking about? It's perfect."
-em "Yeah, maybe for you."
-m "Booo, party pooper..."
-n "Ignoring you, Emily swims towards the shore..."
-n "And gets out of the water as soon as she can."
-n "Unbeknownst to her, the new bikini she bought becomes a bit see-through when wet."
-em "Brrrr..."
-n "Her nipples, also, got hard from the icy water."
-n "Combined with a slightly transparent bikini..."
-n "It's a view you're not very comfortable seeing."
-em "How can you stay in there?"
-m "It's not so bad. (Oh, fuck... Am I getting hard?)"
-m "I'm going for a swim. (Gotta get this picture out of my head.)"
-em "You're crazy!"
-m "Probably..."
-n "Trying to {i}\"cool off\"{/i}, you start swimming."
-m "(What's wrong with me?!)"
-m "(I got hard by looking Emily's tits?)"
-m "(And I'm still hard?! What the...)"
-m "(I mean, it's a normal, physical reaction, right? Right?!)"
-m "(Just my male brain. It sees boobs and the brain sends a signal...)"
-m "(Apparently, it doesn't matter whose.)"
-m "(I mean, what do you expect?)"
-m "(First I see Kiara topless...)"
-m "(And then Emily with that see-through bikini...)"
-m "(Fuck, [m!t]! Get it out of your head!)"
-n "(Still not calm enough, you decide to swim a bit longer.)"
-n "And a few minutes later..."
-n "Finally, you swim up to the dock."
-em "*Giggle* Your balls freeze off yet?"
-m "Nah. You coming back in?"
-em "Not a chance."
-m "Weren't you the one who wanted to go swimming?"
-em "Umm... No, I don't recall saying that. *Giggle*"
-m "Kiara? What about you?"
-k "I'm good."
-m "Oh, come on. The water's great, don't listen to Emily."
-k "The weather channel said the next five days will be extremely hot..."
-k "Maybe in a day or two, when the water gets a bit warmer."
-k "Besides, I don't even have my swimsuit here."
-m "Fine, fine..."
-em "Say... [m!t]?"
-m "Yeah?"
-em "You still haven't told me anything about this girl you're seeing."
-k "Oh? So you {i}are{/i} seeing someone?"
-em "What's her name?"
-m "Jane."
-em "Is she hot?"
-m "Yeah..."
-em "Hotter than {i}me{/i}?"
-m "Yes."
-em "You suuure?"
-n "You break eye contact as your eyes instinctively move downwards."
-n "Unable to speak due to the sight you're witnessing..."
-n "You simply dive underwater."
-m "(Did she... Do that on purpose?)"
-m "(Is she not aware that her bikini is see-through?!)"
-m "(Probably not... Yeah, there's no way she did that on purpose.)"
-m "(Shit, I got hard again... Fuck my brain.)"
-m "(Ughh... I need air!)"
-n "Gasping for air, you pop out of the water."
-em "*Pout* You didn't even think about it for a second. Just immediately said yes."
-m "Umm...."
-k "Emily."
-em "What?!"
-m "*Gulp*"
-k "You {i}do{/i} know that bikini of yours is see-through when it gets wet?"
-n "Confused, Emily looks down..."
-em "So? Who cares?"
-em "I'm not {i}\"hot\"{/i}, anyway."
-n "Looking {i}pretty{/i} pissed, she storms off."
-k "Like I said... Brat."
-k "By the way, you should get out of there before you catch a cold."
-m "I'll just stay in here a little longer, don't worry."
-k "Oh? Yeah, sure. (Hmm, I have a hunch about what's going on...)"
-m "Like I said, it's not that cold."
-k "Whatever you say. (I think we both know why you can't get out.)"
-k "I'll leave you to it then..."
-k "I'm going inside. Don't wanna get a sunburn."
-m "Oh, okay."
-n "Making sure to cover her boobs, Kiara starts getting up."
-n "Carefully, she turns around..."
-n "Puts on her shirt..."
-n "And walks away."
-n "As she leaves, you get to the pier."
-m "(I better wait a minute or two, until it goes down again... Just to be safe.)"
-n "And, a minute or two later, you get out of the lake."
-n "Taking the towel Kiara left, you dry yourself off."
-m "(It felt a little weird wiping myself down with a towel she had under her--)"
-m "(No, no more thinking about shit like that.)"
-m "(Anyway, why did Emily just run away?)"
-m "Hmm... (Is she {i}that{/i} insecure about her looks?)"
-m "(Well, probably... She's only nineteen and still pretty impressionable...)"
-m "(I should go talk to her, maybe apologize.)"
-m "(Damn, it's so hot outside...)"
-m "Fuck, that heat is gonna be the end of me..."
-mo "No swearing under my roof."
-m "Maybe you should install an AC unit, because it's hot as hell under {i}\"your roof\"{/i}."
-mo "Sweat builds character."
-m "Ugh..."
-m "Hope you're right."
-mo "I am."
-n "Trying to ignore the unbearable heat, you go upstairs..."
-n "Finally finding yourself in front of Emily's room."
-    n "Finally finding yourself in front of Emily's room."
-        n "Without knocking, you open the door and go inside..."
-        em "Oh!?"
-        m "*Gulp*"
-        n "You stand there for a second, staring at Emily's chest."
-        n "Finally realizing exactly what you're doing..."
-        m "Shit! Sorry! (What the hell am I staring at?!)"
-        em "It's okay. Let me just put my bra on."
-        m "Yeah... Sorry, again. (I should've knocked.)"
-        em "Could you help me with this?"
-        m "Oh? Umm... I don't know..."
-        em "Pretty please?"
-        m "*Sigh* Okay."
-        n "Reluctantly, you get behind her and hook her bra together."
-        em "Thanks!"
-        n "Again, your eyes involuntarily move south."
-        m "(Fuck off, brain! STOP!)"
-        n "As you move a step back..."
-        n "Deciding to be a gentleman, you announce your presence at the door."
-        em "Who is it?"
-        m "It’s me, Em. Can I come in?"
-        em "If you need to..."
-em "And? Did you need something?"
-m "I just wanted to check..."
-em "Check in on me? Aww, that's sweet!"
-m "Yeah..."
-em "Anything else?"
-m "We good?"
-em "No. (Did he forget what he said already?)"
-m "Why not?"
-em "Because... (Because you said that I'm not hot!)"
-em "(And I {i}can't{/i} have that!)"
-n "As a thought pops into her head, she sits on her bed."
-em "(Hmm... Maybe I could show him how I AM hotter than this \"Jane.\")"
-em "Could you help me with something?"
-m "I guess. What is it?"
-em "Let me just get something under my bed first."
-n "Slowly, she slides onto the floor."
-em "(This will be so much fun!)"
-em "So much stuff down here..."
-m "*Gulp*"
-em "Where is it.... (Hope you're getting a good, {i}hard{/i}, look!)"
-em "There you are!"
-em "Ugh! Shit..."
-em "[m!t]... I think I'm stuck. (Hhh, yeah... {i}So stuck{/i}...)"
-n "Pretending like she's getting out, Emily starts wiggling her ass..."
-em "Can you help me get out of here, please?"
-m "Uhh... (Why didn't she put on any pants... That bikini is...)"
-em "Hello?"
-n "You cautiously move behind her as she keeps swinging her hips."
-m "(She really did grow up.)"
-m "(I mean, look at that...)"
-m "(Get those thoughts out of your head, [m!t]!)"
-n "Naturally, you're unable to stop yourself from stiffening up."
-m "(Fuck! Not again...)"
-em "Can you, like... Pull me out or something?"
-m "Umm... Yeah, sure. (I already lost count of how many erections I had today.)"
-m "But how?"
-em "Just grab my hips and pull. Duh!"
-m "Right."
-n "Grabbing her hips..."
-n "You start pulling."
-em "Harder!"
-m "O-Okay!"
-n "After a little nudging, Emily is still {i}\"stuck\"{/i}."
-em "Pull harder!"
-m "I'm pulling!"
-em "Ahhh... Harder!"
-n "Getting a little pissed, you pull with all your strength..."
-n "Since she wasn't really stuck, just pretending..."
-n "Your strength surprises her, and she flies out from underneath the bed."
-n "As you land on your ass, her ass lands on your... Crotch."
-em "Uhh! (Is that his...)"
-n "For a moment, neither of you move."
-em "(He got hard?!)"
-n "Suddenly, she springs up."
-m "(Shit! Did she feel my boner?)"
-em "Umm, thanks. (So much for not being hot enough, hehehe.)"
-n "With her confidence back, Emily just sprawls onto her bed."
-m "Didn't you need my help with something?"
-em "Already got it."
-m "What? I don't get it."
-em "Doesn't matter. (Oh, you're so clueless...)"
-m "Umm... Okay."
-m "Guess I'll leave you to it then."
-em "Yeah... Byee!"
-m "(That was strange...)"
-m "(Was she... Teasing me?)"
-m "(Nah. She couldn't have... Why would she do that?)"
-n "As you're finishing up your inner monologue, Kiara pops out of the bathroom."
-m "Oh, hi!"
-k "It's so fucking hot in here..."
-k "Eve should install an AC..."
-k "I just had a shower, and I'm {i}already{/i} getting sweaty..."
-m "{i}\"Sweat builds character\"{/i}."
-k "Hah! Bullshit."
-m "*Chuckle* (Agreed, bullshit!)"
-m "Yaaawn... (I'm so tired.)"
-m "(I only got a few hours of sleep...)"
-n "With your eyes already closing, you go to your room and get into your bed."
-m "(I could take a quick nap.)"
-m "(Yeah, just to rest my eyes a little...)"
-n "Finally, exhaustion takes over, and you fall asleep."
-n "A few hours later..."
-m "Hmphh... (It's already dark outside? This was more than a quick nap...)"
-n "You check your phone and notice that it's 2AM."
-m "(Woah! I slept that long? Damn...)"
-m "(Wonder why no one woke me up for dinner.)"
-m "(Guess they just didn't wanna bother me.)"
-m "(How is it still so hot, this late?!"
-m "*Sigh* (I'll just go grab some water...)"
-n "Still a little blurry-eyed, you exit your room..."
-n "Go downstairs..."
-n "And into the kitchen."
-n "After rummaging around the fridge a little, you pour yourself a glass of water."
-m "*Glug* *Glug* *Glug*"
-m "(Blessed be, H2O.)"
-m "(Okay, back to bed...)"
-n "As you're leaving the kitchen, you notice Eve coming down the stairs."
-m "Hi, Eve."
-mo "Oh, [m!t]! You startled me!"
-mo "What are you doing up?"
-m "I got thirsty."
-m "How come no one woke me up?"
-mo "Sorry, when I saw you sleeping, I didn't want to wake you."
-m "Oh, thought so. It's okay."
-m "Aaand, why are {i}you{/i} still up?"
-mo "Oh... Uhhh..."
-mo "I couldn't sleep, so thought I'd go for a walk."
-m "Something bothering you? Want me to come with you?"
-mo "No, no... It's just so hot in here, I could use some air."
-m "I get it."
-mo "Anyway, you should go back to bed. The patients will arrive first thing in the morning."
-m "Yes, ma'am. Good night."
-mo "*Chuckle* Night."
-n "Arriving back in your room, it doesn't take long for sleep to take you..."
-mo "Hey."
-m "Hmph?"
-mo "Sweetie, wake up."
-m "Huh?"
-m "What time is it?"
-mo "It's 7 AM."
-mo "Time to wake up."
-m "Yeah... (I had such a strange dream...)"
-n "Still not fully awake, you don't notice the morning wood you currently have."
-n "Unlike you, Eve does..."
-mo "Umm... (He's hard again? I should definitely just ignore it.)"
-m "What's the matter?"
-mo "Oh?! Uhh... Nothing! (How am I supposed to ignore a bulge that big?!)"
-m "You sure?"
-mo "Yeah, yeah, it's nothing. (It looks so big...)"
-mo "(Now I wonder what it ACTUALLY looks like... Hhh, silly me!)"
-m "(Why does she keep looking down?)"
-n "A little confused, you glance where her eyes were \"pointing\" at..."
-m "Oh, shit!"
-mo "*Chuckle* Don't worry, it's only natural."
-m "Yeah... (Not really! Especially with the dream I had...)"
-m "(I think the image of her in lingerie got burned into my mind.)"
-mo "Soooo..."
-n "You interrupt her attempt to change the subject."
-m "When are the idiots--sorry, {i}\"patients\"{/i} getting here? (Heh...)"
-mo "Don't call them idiots. They're just, well... unadjusted to the real world."
-mo "And they need our help."
-m "Yeah, I know... (She didn't get the joke...)"
-m "Fine, when are the PATIENTS getting here?"
-mo "They should be here in an hour or so."
-m "Great."
-mo "I'm going to go make you some breakfast."
-m "Awesome! Thanks, Eve."
-mo "Don't mention it. See you downstairs."
-m "See ya'."
-n "As she leaves, you get up and get dressed."
-n "Leaving your room..."
-n "You make your way towards the bathroom."
-    n "You make your way towards the bathroom."
-        n "*Knock* *Knock*"
-        k "Occupied!"
-        m "You done soon? Gotta pee!"
-        k "I'm in the shower, I'll be done in a few minutes."
-        m "Okay."
-        n "With nothing else to do, you wait in front of the bathroom for a few minutes."
-        n "Soon after, Kiara opens the door, wearing nothing but her lingerie."
-        n "Racy lingerie, at that."
-        k "Oh?! You're still here?!"
-        m "*Gulp* I told you, I gotta pee... (What is she wearing?!)"
-        k "Well, don't just stand there, go pee."
-        k "(I'll have to get used to him being around... Should've taken some clothes to the bathroom with me.)"
-        m "Oh, right! Going! Sorry, I'm still a little sleepy."
-        k "Riiight... (Wait, was he checking me out?)"
-        k "(Hah! Can't really blame him.)"
-        n "Covered up a lot less than she maybe should be, Kiara strolls towards her room."
-            n "Covered up a lot less than she maybe should be, Kiara strolls towards her room."
-                n "Unable to control yourself, you turn your head..."
-                m "(Why is she walking around dressed like that?)"
-                m "(Isn't it a bit too revealing?)"
-                n "Kiara enters her room, but looks at you for a bit before closing the door."
-                m "(Fuck, I hope she didn't notice...)"
-                n "Pretending nothing happened..."
-        n "Forgetting to knock first, you open the door..."
-        k "Eeek!"
-        m "Shit! Sorry!"
-        n "Almost instantly, you turn around."
-        k "What the hell, [m!t]?!"
-        m "Sorry! I didn't think it was occupied."
-        k "*Sigh* Learn to knock."
-        m "I really had to pee."
-        m "Why didn't you just lock the door?"
-        k "I didn't expect someone would come in without knocking."
-        m "You're right, my bad. Won't happen again."
-        k "It doesn't matter now. Mind going outside so I can get dressed?"
-        m "Right! Sure!"
-        n "Obediently, you leave the bathroom."
-        m "(Really should have knocked...)"
-        m "(I'll just wait in my room until she's finished.)"
-        n "A few minutes pass..."
-        n "You hear Kiara walking down the hall and the sound of her bedroom door closing."
-n "You go inside the bathroom."
-m "Ahhh..."
-    n "Suddenly, you hear the door swing open..."
-    m "Gaahhh!"
-    n "Kiara's jump-scare makes you piss all over your leg."
-    k "Hah! See? Not cool."
-    m "I pissed all over myself!"
-    k "Sorry!"
-    k "Byee!"
-    m "What the hell, Kiara?!"
-    k "I said, sorry! (I didn't expect he'd still be taking a piss...)"
-    m "Not cool! Not cool at all!"
-    k "Well, think of it as getting a taste of your own medicine."
-    k "You'll get over it. ([m!t] is hung? Like, {i}really{/i} hung?! Since when?!)"
-    m "(Now I have to take a shower...)"
-    n "You go to your room for a fresh change of clothes."
-    n "After a quick shower, you get dressed..."
-    m "(Hope they won't be complete idiots.)"
-    m "(But I'd say that's just wishful thinking.)"
-    m "(The amount of stupidity in the world is only increasing...)"
-    m "(So... Guess I'm fucked...)"
-    m "(Oh, well... Better just accept my fate...)"
-    m "(...)"
-    m "(Hmmm...)"
-    m "(Maybe plants really ARE farming us...)"
-    m "(Giving us oxygen until we eventually drop dead, turning into mulch they can consume...)"
-    m "(...)"
-    m "(This is really taking a while...)"
-    m "(...)"
-    m "(Finally...)"
-    n "Zipping up your pants..."
-    n "You wash your hands."
-n "And leave the bathroom."
-m "(Damn... It's already getting pretty hot...)"
-n "Making your way downstairs..."
-n "Eve suddenly pops out from around the corner."
-mo "Could you please go and wake Emily up?"
-m "Sure."
-n "Seconds later, you're outside her room."
-n "Gently, you knock on the door."
-m "Emily?"
-n "No answer..."
-m "Emily!"
-n "Again, no answer..."
-m "I'm coming in."
-n "Opening the door, you notice Emily lying on her back, her bedsheets all over the floor."
-m "(Shit! Her boob fell out of her bra!)"
-n "From downstairs, you hear Eve yelling..."
-mo "Did you wake her up?!"
-m "Working on it!"
-m "Emily!"
-m "(You gotta be kidding me...)"
-n "Unsure if it's a good idea, you walk closer to her."
-m "Emily, wake up!"
-n "No response..."
-m "Ugh!"
-m "(What do I do?)"
-    m "(What do I do?)"
-        m "(Should probably fix her bra before waking her up.)"
-        m "(I really hope she doesn't wake up...)"
-        n "You move your hand closer..."
-        n "Gently grab her bra..."
-        n "And pull it up."
-        em "Mmmm..."
-        n "Finally, you poke her forehead."
-        m "Wake up!"
-        em "Mmmmm..."
-        em "Hmph..."
-        m "Time to wake up..."
-        em "Wha... Already?"
-        m "Umm... Yeah."
-        em "What time is it?"
-        m "It is--was 7 AM, about twenty minutes ago."
-        m "Breakfast will be ready soon."
-        em "Ughhh..."
-        em "It's too early..."
-        m "Yeah, yeah. See ya' downstairs."
-        em "*Yawn* Yeah..."
-        n "With that, you leave her bedroom."
-        n "You poke her forehead."
-        m "Wake up!"
-        em "Mmmmm..."
-        em "Hmph..."
-        m "Time to wake up..."
-        em "Wha... Already?"
-        m "Umm... Yeah."
-        em "What time is it?"
-        m "It is--was 7 AM, twenty minutes ago."
-        m "Breakfast will be ready soon."
-        em "Ughhh..."
-        em "It's too early..."
-        n "Instinctively, your eyes jump towards her chest."
-        m "(Do I say something?)"
-        m "(Nah, I don't wanna make a big deal out of it. Better just leave...)"
-        m "See ya' downstairs."
-        em "Yawn! Yeah..."
-        n "With that, you leave her bedroom."
-        em "(Oh? Did my boob fall out while I was sleeping?)"
-        em "(Why didn't he say anything?)"
-        em "*Giggle* (He probably just wanted to stare at it... Pervert.)"
-        em "(Oh, well... {i}\"Oopsy\"{/i}.)"
-n "Trying not to think about what just happened, you make your way down the stairs..."
-n "And into the kitchen."
-mo "Did you wake Emily up?"
-m "Yeah..."
-m "Is there any coffee?"
-mo "Huh?"
-m "What?"
-mo "Since when do you drink coffee?"
-m "Since I'm in college and have to study all night long."
-mo "*Chuckle* Okay, coffee it is. (He's so grown up...)"
-n "She pours you a cup."
-mo "Here you go. Careful, it's hot."
-m "Thanks, Eve."
-m "Hey, Eve, I'm not that hungry. I'll just go chill on the couch."
-mo "But..."
-m "I'll eat later. Don't worry."
-n "As you sit down..."
-n "You hear Emily yell from upstairs."
-em "I think I can see them!"
-n "Everyone gathers in front of the house, waiting for the van."
-k "Didn't you say they were here?"
-em "I meant, any second now."
-k "So where are they?"
-mo "I think I can hear the van."
-m "(I hope there aren't more than five idiots aboard.)"
-n "The van doors open."
-m "(Here we go... What do we have first... An animal abuser?)"
-m "(Perhaps a dendrophile...)"
-m "(Maybe a...)"
-m "(Whaaa?!)"
-m "(I-It's a...)"
-m "(Girl?!)"
-n "Before your brain has time to even process what just happened..."
-m "(Another girl?!)"
-m "(This is, umm... Unexpected!)"
-m "(Holy shit! Another one?!)"
-m "(Is that it? No guys this year? How?! Why?!)"
-n "The girls line up next to the van..."
-k "(What the fuck?!)"
-em "(Weee! So cool!)"
-mo "(This year will be different, that's for sure.)"
-m "(This is gonna be interesting...)"
-n "Eve takes a step forward."
-mo "Hello, girls. Welcome to Camp Red Falls."
-noname "Hi!"
-mo "I'm doctor Daniels. And I will be your caretaker for the duration of your stay here."
-mo "You can go unpack first. Once you're done, we'll meet in front of your residences."
-mo "Take the girls to their cabins."
-m "Umm, yeah! Sure."
-m "So... Please come with me!"
-m "(Well, this is unexpected...)"
-m "(How come we only have female patients this year?)"
-n "As the girls follow you, you give them the basic tour of the place..."
-m "This is the main building... That's where the staff sleeps."
-m "Over yonder is our community house..."
-m "You'll have private and group sessions there, among other things."
-m "The lake is clean, and you can swim in it whenever you have time off."
-m "And..."
-nao "Hey, I'm Naomi, and you're kinda hot."
-nao "Are you also a patient? (Dibs, I saw him first!)"
-m "Uhh, no... I work here... (Did she just call me \"hot\"?)"
-nao "So, you'll be around?"
-m "Yeah, I'll be around. But I can't--"
-nao "Great! Then we'll get to know each other better. You'll love my company, I'm sure."
-m "Aha, right... (Who is this chick? She starts hitting on me the moment she arrives?)"
-m "(I mean, not that it doesn't build up my ego a little... She's smoking hot, but...)"
-m "*Sigh* (Guess you can't expect normal behavior in this damn place.)"
-m "(They are getting rehabilitated, after all...)"
-m "(This one's probably a nymphomaniac or some shit like that.)"
-nao "Something wrong? You don't enjoy my company?"
-m "No, no, nothing like that. I just..."
-nao "Duuuh... Of course you enjoy my company. I mean, who doesn't?"
-m "(Not a nympho, but a fucking narcissist...)"
-m "*Nervous chuckle* Yeah, must be it... (How self-absorbed can you get?)"
-nao "So... I was thinking. Why don't you show me around later? Give me a {i}private{/i} tour, hmm?"
-v "Naomi, you can't talk to the staff like that... (I mean, he is cute, but still...)"
-nao "Maybe {i}you{/i} can't, fatty."
-nao "Who are you to tell me what I can or can't do, huh?!"
-v "I didn't mean..."
-nao "Just shut up, Violet! Ugh, all brawn, no brain..."
-b "*Chuckle* Not even five minutes in, and they're already bickering like children..."
-s "Indeed..."
-b "So? What are you in here for?"
-s "Fire."
-b "Ooh, a matchstick enthusiast! We'll have so much fun!"
-b "Tell me what happened."
-s "I... May have gone overboard while recruiting followers."
-b "\"Followers\"?"
-s "Yes, the Puncturing Flame."
-b "And what's that?"
-s "It's a religion. In short, we worship fire and its beauty."
-s "Interested? Would you consider joining us?"
-b "Ah, I see... S-Sounds interesting, I'll think about it."
-b "(Oh God, I can't believe I'm in the same boat as these weirdos...)"
-s "*Sniff* *Sniff* Do I smell BBQ? Where's the campfire?"
-v "At least I'm not an empty, manipulative bitch!"
-nao "Wanna repeat that, fatty?!"
-m "LADIES, ENOUGH!"
-n "As you raise your voice, all of them freeze up."
-m "Good. Let's get you settled, then."
-m "You'll have plenty of time to rip each other's throats out during your stay."
-m "Moving on... These are your new homes."
-m "You'll each be sharing one with another person."
-nao "Share? But there are three cabins, why can't I go solo in the third cabin?"
-m "Because it's good practice. Getting to know one another, sharing the rehabilitation experience..."
-nao "Fucking stupid... I want my own place."
-m "It's also because those are the rules. (Shit! I forgot about the guidelines completely.)"
-s "Calm down, Naomi. You cannot escape the prophecy, anyway."
-nao "*Grumble* Fine! I'm taking that one!"
-nao "Come, Stacy, you should join me. You seem like a {i}fun{/i} roomie, unlike {i}fatty{/i} here..."
-s "Sure. I do not believe the Pheonix-Lotus would mind."
-m "(\"Prophecy\"? \"Phoenix-Lotus\"? What the fuck is she talking about?)"
-m "Anyway, it's unlocked. Keys are in the lock, on the inside."
-m "Take your time and get settled."
-n "Without delay, Naomi briskly goes towards the cabin, with Stacy following suit."
-b "Guess that leaves us two. (At least I'm not grouped with that flame-natic.)"
-v "Yeah, okay..."
-b "You gonna pick us up later?"
-b "(Hmm, Naomi sure knows how to quickly separate the wheat from the chaff, he is quite handsome...)"
-m "Probably, but you have time to get comfortable until then."
-b "Oh, lovely. Well, can't wait to see you again."
-m "({i}\"Can't wait to see me\"{/i}?)"
-n "Somewhat dumbfounded by her choice of words, you just stand there."
-n "Wondering if this girl just hit on you as well."
-m "*Sigh* (It's gonna be a long-ass summer...)"
-m "(I better go get The Guidelines from my room.)"
-n "Finally managing to squeeze some words out..."
-m "Umm, yeah... Bye."
-b "Byee!"
-tut "The diary will help you remember all the girls and events happening in the camp."
-tut "Info about all the girls you meet can also be found here!"
-tut "Yellow Post-It note in the bottom-right corner is the synopsis tab."
-tut "After a day ends, you can read a general recap, reminding you of all you've done."
-tut "As the days pass, recap of each will be added to this tab.."
-tut "Each girl in Helping the Hotties has a diary page about them."
-tut "As the story progresses, each decision that involves an individual girl, can be found on her diary page."
-tut "If you forget what happened, this feature should help you keep track of the story and its developments."
-tut "Additionally, as you progress, each girl’s page will have new images unlocked."
-tut "Achievements and missions can be accessed by clicking the stars icon, under the diary icon."
-tut "Achievements have a progress bar, and a hint on how to complete an achievement is listed below the achievement name."
-tut "Once you fully complete the progress bar for an achievement, click the \"collect\" button to the right of the achievement."
-tut "This will allow you to collect the reward for that achievement, which is viewable in the gallery."
-tut "The achievements you have completed are marked by the crown, once you claim the reward tied to that achievement."
-    m "(Where should I go?)"
-        m "(Where should I go?)"
-m "(A key? Wonder what it opens...)"
-m "(Guess I'll find out soon enough.)"
-    m "(I haven't seen Kiara since the patients arrived. She must be holed-up in her room.)"
-    n "Approaching her room, you knock."
-    m "Kiara, you here?"
-    n "Not hearing a response, you open the door..."
-    n "And enter her room."
-    m "Kiara? (Where the hell is she?)"
-m "(A notebook?)"
-m "(No, it's Kiara's diary?!)"
-    m "(No, it's Kiara's diary?!)"
-        m "(It's Kiara's diary. I wonder what she wrote...)"
-        m "(Maybe she mentioned me...)"
-        m "(We're still somewhat distant because of that one time...)"
-        m "(Maybe I can find out how she feels.)"
-        m "..."
-        m "(Well, Kiara, it's your fault for leaving it out in the open like this...)"
-        m "(It's like you {i}want{/i} someone to read it.)"
-        n "You pick up her diary and begin flipping through its pages."
-        n "The pages are mostly filled with uneventful days spent at Red Falls..."
-        n "Some mentions of Eve, but nothing out of the ordinary."
-        m "(This was a few years back. Just before college...)"
-        n "At last, you notice a passage with your name in it."
-        n "(\"Fateful night\"?! \"All these feelings\"?!...)"
-        m "(Does Kiara still have a thing for me? But she also says she'd like it if things returned to normal...)"
-        m "Fuck... (Maybe I shouldn't have read this.)"
-        m "(Now I have to make sure she doesn't notice anything weird about my behavior.)"
-        m "*Sigh* Problem after problem, huh?"
-        n "You place the diary back in the same position as when you found it."
-        n "You learned more than you hoped for, perhaps even more than you wished for..."
-        n "But, nonetheless, you got some juicy info out of it. "
-        m "(I better leave the room. Don't wanna get caught with my pants down...)"
-        n "Before anyone sees you, you leave Kiara's room."
-        m "(It {i}is{/i} quite tempting, but...)"
-        m "(I really shouldn't read her diary, even though I'm curious as hell.)"
-        m "(I might find out something I'd rather not know...)"
-        n "Not wanting to get caught, you leave Kiara's journal alone."
-m "(Hey! That's a photo with all of us!)"
-m "(I should get a copy made, too.)"
-m "(Everyone looks so happy.)"
-m "(Eve looks gorgeous...)"
-m "(Kiara and Emily too.)"
-n "And then it hits you..."
-m "(Wait, where am I?!)"
-m "I'm not in the photo..."
-m "(SERIOUSLY?! I'M THE ONLY ONE WHO'S NOT IN THE PHOTO?!)"
-m "(But how? Why? When was this taken?)"
-m "(By the look of their clothes, it was definitely taken during the summer. Probably at Red Falls, too.)"
-m "(It doesn't say...)"
-m "(The time stamp must be on the back of the picture.)"
-m "(I'll have to open up the frame somehow, if I wanna get to the bottom of this.)"
-    m "(I'll have to open up the frame somehow, if I wanna get to the bottom of this.)"
-        m "(As much as I'd like to know why...)"
-        m "(It's probably best to remain ignorant.)"
-        m "(Not to mention, if Kiara finds out I've been snooping around her room, she'll strangle me in my sleep.)"
-        m "(I'm sure there's a perfectly good explanation as to why I'm not \"part of the gang\"...)"
-        m "(I can't just let this slide. I at least gotta know when it was taken.)"
-        n "Poking around a little, you try opening the picture's frame."
-        m "(It's stuck...)"
-        m "(Fine, I'll just claw my way in.)"
-        n "*Snap*"
-        m "Perfect... (I broke it...)"
-        m "(At least it's on the back side. Hope she doesn't notice.)"
-        m "*Sigh* (What's done is done. Might as well find out...)"
-        m "(\"August\"? Two years ago?)"
-        m "(That's when I started college, right? And before that...)"
-        m "(Before that, Kiara and I...)"
-        m "(Shit. I just left after creating so much chaos...)"
-        m "(No wonder I'm not in the photo.)"
-        m "(No wonder Kiara's been acting weird.)"
-m "(Is that what I think it is?)"
-n "You crouch down to take a closer look."
-m "(It really is my old volleyball!)"
-m "(Wow, she still has it after all this time.)"
-m "(Aww, man. I'd love to play again.)"
-m "(I still remember that time we played... All those girls in swimwear, jumping around, sweating...)"
-m "(Wait, Kiara was also there with me! That's right, we played on the same team.)"
-m "Huh... (She looked amazing...)"
-m "(We've had a lot of good memories together, haven't we?)"
-m "(I just hope she thinks of them as fondly as I do.)"
-m "(Her perfume bottles.)"
-m "(Looks expensive...)"
-m "(I doubt she bought them all by herself...)"
-m "(Wouldn't be surprised if she got one from a previous patient or something like that.)"
-m "(Do I...)"
-    m "(Do I...)"
-        m "(Yeeeeah, I'd rather not...)"
-        m "(Snooping around her room is weird enough as it is.)"
-        m "(No need to sniff a girl's perfume like some creep.)"
-        m "..."
-        m "(Shit, Jane was right... Maybe I {i}am{/i} a creep.)"
-        m "Ah, well..."
-m "*Sniff* *Sniff*"
-m "Ahhhhh... (Smells wonderful.)"
-m "(Just like Kiara...)"
-m "..."
-m "*Cough* (I should probably put that back.)"
-m "(Haven't been in her room for years...)"
-m "(I wonder if anything's changed.)"
-n "Without much thought, you try opening the door..."
-m "Hmm, locked. (Now I'm even more curious.)"
-m "(Wait, maybe that key...)"
-n "Cautious not to make too much noise..."
-n "You insert the key into the lock and turn it."
-m "(Lucky me, it's the right one.)"
-n "You open the door and walk into the bedroom."
-m "Hmm... Looks more or less how I remember. (Not sure what I was expecting...)"
-m "(Maybe the key's just for privacy's sake, 'cause of the patients and all.)"
-m "(Well, can't hurt to look around.)"
-    m "(Hmm, nothing interesting in here.)"
-    m "(Emily?)"
-    m "(Looks like she's talking to one of the patients. Wonder what it's about...)"
-    m "(She seems really into it...)"
-    m "Huh. (Guess Emily picked up some social skills while working here.)"
-    m "(What's that?)"
-    m "(A box? Not sure if I wanna know the contents...)"
-    m "Ehh, might as well."
-    n "You pull the box out."
-    m "(What's behind door number one?)"
-    m "..."
-    m "..."
-    m "(I'm not sure what I expected to find in a box hidden under the bed...)"
-    m "(Oh, God. I can feel the mental scars growing.)"
-        m "(What's that sound outside?)"
-m "(Haven't been in her room for years...)"
-m "(I wonder if anything's changed.)"
-n "Without much thought, you try opening the door..."
-m "Hmm, locked. (Now I'm even more curious.)"
-m "(I'll have to find the key somewhere.)"
-m "(Asking for it would probably sound weird.)"
-n "As you enter the kitchen, you notice Kiara hanging around."
-    m "Hey, Kiara."
-    k "Hi, have you finished your chores?"
-    m "Yeah, the girls are getting settled in."
-    k "And The Guidelines?"
-    m "Uhhhhhh..."
-    k "*Chuckle* Don't worry, I won't bite."
-    k "Just make sure to give a copy to every patient."
-    k "Well, I have some shit to do, I'll talk to you later."
-    m "'Kay, later."
-    m "(Shit, it's Kiara. I better not slip up.)"
-    k "Eeeek! Oh, it's you... You scared me. (Still not used to him popping up.)"
-    m "My bad."
-    k "What are you skulking around the house for?"
-    m "Oh, ummm, nothing. Just wandering around, that's all."
-    k "Mhm, I bet. (He's hiding something...)"
-    m "Really!"
-    k "You know I've been working here for years, right? I can tell when something's up."
-    m "(She doesn't believe me... I'll have to come up with a better excuse.)"
-    k "Hellooo?"
-        k "Hellooo?"
-            m "You don't look too cheery. Something wrong?"
-            k "Hmm, can't hide anything from you, can I?"
-            m "You read me, I read you.."
-            k "*Sigh* Yeah, I guess something's wrong."
-            k "Nothing serious, but annoying, nonetheless."
-            m "What about?"
-            k "Don't you worry your pretty little head. I'll manage."
-            m "You can tell me if something's bothering you. I'll listen."
-            k "I know you would."
-            k "Maybe I'll even take you up on that offer, but another time. Okay?"
-            m "Whenever you need me."
-            k "I'm glad you're here. I missed you."
-            m "I missed you too."
-            n "You sit there for a moment, exchanging looks in silence."
-            k "Right, ummm..."
-            m "Okay, good talk."
-            k "*Chuckle* Yeah, I have some shit to do anyway, I'll see you later."
-            m "Later, Kiara."
-            n "With that, she leaves the kitchen."
-            m "(Phew, that was a close one.)"
-            m "Ohhh... Uhhh... Ummm... Ehhh... (Fuck, I can't come up with anything on the spot.)"
-            k "I think I know what this is about. (He's still thinking about it...)"
-            k "I tried to put it in the past, but I see you're still struggling to do the same."
-            m "No, it's not about... (Hit the nail on the head. You're too good at this, Kiara...)"
-            k "Spare me. I can see you cringing anxiously around me..."
-            k "There's only one reason..."
-            m "..."
-            k "I thought you had grown up, maybe I was wrong."
-            m "Kiara, I..."
-            k "It's fine. I was naïve thinking everything would return to how it once was."
-            k "I'm ready to let go, but I shouldn't just expect you to do the same."
-            m "Kiara, stop!"
-            n "Raising your voice catches her off-guard."
-            m "Yes, it crosses my mind here and there, but I don't care about that anymore."
-            m "We've known each other forever, for fuck's sake."
-            m "And seeing how you're still bringing it up doesn't really give off the impression of coming to grips with it."
-            k "What would you know about anything? About me?"
-            k "You left for college, didn't even call or anything."
-            k "If it weren't for Christmas, I probably wouldn't have seen you at all!"
-            m "*Sigh* I did kind of run away, didn't I?"
-            m "But I'm here now, and I'm tired of avoiding you."
-            m "I want our relationship to be normal, \"like it was\"."
-            k "We'll see about that..."
-            k "Oh, and [m!t]... I hope you really mean what you're saying."
-            n "Without uttering another word, Kiara walks away."
-            m "*Sigh* Fuck... (It's still bothering her. Can't say I don't feel the same...)"
-m "(I've wasted enough time already... I should just get the guidelines before anyone notices.)"
-m "Ah, there they are. (Thought for a second I lost them.)"
-n "You take another look at the papers..."
-m "Hmm... (They haven't changed much.)"
-m "(Same old crappy guidelines that mostly protect the institution, not the patients, blah-blah-blah...)"
-m "Oh? (There are a few new ones I haven't seen before...)"
-m "\"Romantic relations are strictly forbidden\", \"All personnel must not become emotionally attached to patients\"..."
-m "(What the fuck is this? New rules? And pretty obvious ones at that...)"
-m "(Did something happen? Maybe that's the reason why all the patients are female this time.)"
-m "(I'll ask Eve about it.)"
-n "After going through the guidelines again, you leave to distribute them."
-n "Walking down the stairs, you bump into Eve."
-n "Definitely not wanting her to notice the guidelines being delivered just now, you hide them behind your back..."
-mo "Have you finished everything I asked?"
-m "Uh-huh..."
-mo "And the patients are in their designated cabins?"
-m "\"Designated\"? I just brought them there, no one told me anything about \"designated rooms\"."
-mo "Of course they have designated rooms, what did you expect?"
-m "I didn't think it was that important..."
-m "I'll go deal with it right away."
-mo "Oh, and..."
-m "What?"
-mo "Those guidelines you're hiding should've been in their rooms {i}before{/i} the patients got here..."
-m "..."
-m "*Sigh* (They've probably already settled in. This is gonna be a pain...)"
-m "(Where do I even go first?)"
-n "A little hesitant, you head towards the cabins..."
-    n "You approach the first cabin..."
-    n "As you get closer, you hear voices from inside."
-    nao "No, no, no! I told you, like, five times already, be careful with that and put the lighter away!"
-    n "You knock on the door."
-    s "I doubt the Phoenix-Lotus cares about such trivialities..."
-    nao "These \"trivialities\" are worth more than your whole family's net worth!"
-    n "You knock again."
-    nao "And what the fuck is a \"Phoenix-Lotus\", anyway?!"
-    nao "Your deity obviously doesn't have a sense of fashion!"
-    nao "Can't tell the difference between a dress and a top?"
-    s "The Phoenix-Lotus surely has a more refined fashion taste than you..."
-    nao "Are you seriou--"
-    n "Everything goes quiet for a brief moment..."
-    n "Before the door swings open."
-    n "With Naomi standing on the other side of the threshold."
-    nao "Sorry, handsome, but not right now. We're busy."
-    m "Hey, can I borrow you for a second?"
-    nao "Mmmm, couldn't wait, could you? (Of course. How could he resist?)"
-    m "That's not..."
-    nao "Alright, guess I have a minute... (I should do my research, anyway.)"
-    m "I came to give you these guidelines."
-    nao "Oh, wonderful..."
-    m "*Sigh* And... I'll have to ask one of you to move."
-    n "The moment she hears this, Naomi's flirty behavior shifts to annoyance..."
-    nao "Excuse me? Why?"
-    m "The sleeping arrengements were predetermined, it seems."
-    nao "What does that even mean?"
-    m "It means you have to swap roomies."
-    nao "Why?! That's such a waste of time. Plus, I don't want to."
-    nao "I'm fine with Stacy... Even though she's..."
-    nao "Well, {i}the way she is{/i}."
-    m "I'm not the one calling the shots, sorry."
-    nao "I literally unpacked {i}this second{/i}."
-    m "(As far as I could tell, Stacy unpacked your shit while you were giving orders.)"
-    m "Again, sorry for the inconvenience, I wasn't briefed about it."
-    nao "*Tsk* Very unprofessional..."
-    m "*Sigh* Tell me about it."
-    nao "Hmm... (I was expecting him to get all defensive, but he just agreed. He's not even sarcastic.)"
-    nao "You can ask Stacy if she's willing to move."
-    nao "'Cause I'm definitely not moving an inch."
-    nao "Who am I paired up with, anyway?"
-    nao "I hope it's not that gorilla."
-    m "If you mean Violet, I'm afraid it is."
-    nao "HUH?! That makes no sense!"
-    nao "We're total opposites, how is that supposed to work?!"
-    m "I told you, I'm not the one calling the shots..."
-    m "Plus, you two might have more in common than you think."
-    nao "That's fucking bullshit, I'm not doing it."
-    m "You're here for rehabilitation, {i}not{/i} a vacation."
-    m "Going out of your comfort zone might actually do you good."
-    n "Naomi looks annoyed, but remains silent."
-    n "Whether she saw logic in your words or you struck a nerve, she stops complaining."
-    nao "Fine... But Stacy is the one moving. I'm staying here. (Again with the fucking \"comfort zone\"...)"
-    m "It's all the same to me. I'll leave you two to figure it out."
-    nao "[m!t]!"
-    m "Yeah?"
-    nao "Do you have a girlfriend?"
-    m "Huh? Why do you ask? (A little too upfront, but okay...)"
-    nao "I'm just curious. (Plus, I'm interested in what type of prey I'm dealing with.)"
-    m "Lookin' to apply for the position?"
-    n "Your words catch Naomi off-guard, causing her to blush a little."
-    nao "No, don't be so full of yourself."
-    m "*Chuckle* If you must know, though. Yes, I'm seeing someone."
-    m "You know, we're having fun."
-    nao "Good for you. (He's perrrfect!)"
-    nao "Bye now."
-    m "Sorry, I still need to talk to Stacy for a moment."
-    nao "..."
-    nao "Humph..."
-    n "After a brief second, she moves out of the way and lets you enter."
-    s "Hello, sir. Have you come to join The Puncturing Flame?"
-    m "Uhh, no, not right now."
-    s "Shame... We could use more people with {i}good genes{/i} like yourself."
-    m "(\"Genes\"?! The fuck is she talking about?)"
-    m "Yeah, maybe some other time."
-    s "Alright, we'll wait until the flame calls to you."
-    m "Umm... Yeeeaahhh..."
-    m "So, there was a misunderstanding with the housing."
-    m "You should've been paired with Belle, doctor's orders."
-    s "I see... Yes, there were signs around her, should've expected this."
-    m "Yeeeaahhh, ummm... Can you maybe move your stuff over to the other cabin?"
-    s "I doubt Naomi's the type that pleases others, so..."
-    s "I'll comply."
-    m "Excellent, glad you're so... cooperative."
-    s "Of course, cooperation is the first step in leading a successful flock."
-    m "Right... (A \"flock\"?! The hell?!)"
-    m "Anyway, take this... House rules and guidelines. Read them."
-    s "Awww, thank you! This will prove excellent kindling."
-    m "Yeeeaahhh, try to read it before you burn it."
-    s "*Giggle* I can't promise anything."
-    m "Alright, I'll be around if you need help."
-    s "May The Charred Kings lead your way."
-    m "Yeeeaahhh, I'll follow them wherever..."
-    nao "You finally done?"
-    m "Yeah, all done. I'll see you later."
-    nao "Take care, handsome."
-    m "\"Handsome\"?"
-    nao "Surprised? You shouldn't be."
-    m "*Chuckle* (Hasn't heard of subtlety, has she?)"
-    n "As you turn around to answer..."
-    n "You notice Stacy lying on her bed."
-    m "(Whoa!)"
-    m "(I can see under Stacy's skirt!)"
-    m "(Holy shit, she's not wearing any underwear!)"
-    m "(Fuck, I shouldn't be looking at that!)"
-    m "(I really gotta stop getting myself in these situations...)"
-    n "Finally, you leave their cabin."
-    n "You approach the second cabin..."
-    n "And knock on the door."
-    m "(No one's answering, are they even inside?)"
-    n "Leaning towards the door..."
-    n "You take a peek."
-    n "Immediately noticing one of the girls inside, getting undressed."
-    m "(Holy shit! She's half naked!)"
-    m "(Wow, nice tits...)"
-    m "(I really shouldn't, though...)"
-    m "..."
-    m "(I better move. If she sees me, all hell will break loose.)"
-    m "(I'll just knock on the door a bit harder, this time.)"
-    n "Making sure not to overdo it, you bang on the door."
-    n "After a few seconds..."
-    b "Just a second!"
-    n "One of the girls greets you on the doorstep."
-    b "Yes?"
-    m "Hello, hope I'm not intruding."
-    b "Not at all, come in, come in."
-    b "I'm Belle, by the way."
-    m "(Oh, right. We never got a chance to properly meet.)"
-    m "[m!t]."
-    b "How can I help, [m!t]?"
-    m "There was a misunderstanding with the cabins."
-    b "What do you mean?"
-    m "Nothing serious, but you'll have to swap roomies."
-    b "Oh, okay. So? Who should I pair up with?"
-    m "The religious one, Stacy."
-    b "Ahh, okay... Should I stay here or move? (Just hope I won't wake up on fire...)"
-        m "You stay here, she'll move in with you."
-        m "Doesn't matter, you can figure it out later, but you should be staying with her."
-    b "Okay, I don't mind."
-    m "Oh, right. Almost forgot to give you this..."
-    b "What is it?"
-    m "Just The Guidelines. You should read them."
-    n "After a quick look..."
-    b "\"Romantic relationships are strictly forbidden\", \"All personnel must not become emotionally attached to patients\"..."
-    m "Yeah, those are new. Not sure how or why those happened, but..."
-    b "Guess your hands are tied then... Too bad. (Huh, I smell a challenge.)"
-    m "First off, I'm seeing someone..."
-    m "Second, I shouldn't even have to mention how {i}\"irregular\"{/i} it is for patients to have intimate relationships with their doctors."
-    b "Oh? You're a doctor, [m!t]?"
-    m "No, but that--"
-    b "Then why trouble yourself, if it doesn't affect you?"
-    m "The Guidelines say \"personnel\", not \"doctors\". Rules apply to all."
-    b "*Giggle* I won't tell if you won't..."
-    m "*Sigh* (Who the hell {i}are{/i} these chicks?)"
-    m "Hmm, I just noticed..."
-    m "Where's the purple-haired one, uhh..."
-    b "You mean, Violet? Said she needed some fresh air."
-    b "Sports type, can't hold still for five minutes..."
-    b "Hasn't even unpacked. *Chuckle*"
-    m "Okay, I'll go look for her. Thanks."
-    b "Don't mention it. You should come and visit more often. *Wink*"
-    m "I'll think about it. (Jesus, am I seeing things or are they all hitting on me? Is that the reason they're here?)"
-    m "(She said that Violet went outside...)"
-    n "Looking around, you spot Violet doing some stretches."
-    n "Coming closer, you see that she's quite fit."
-    n "Surprisingly, you failed to notice that until now."
-    m "Hey, I've been looking for you. (Damn, her body looks pretty firm.)"
-    v "Oh, ummm... \"Looking for me\"? (That's kinda sweet. Does he {i}like--{/i}) "
-    m "I need to give you these guidelines. You should read them."
-    v "Oh, right, of course. (Yeah, why would he...)"
-    m "I haven't introduced myself properly..."
-    v "It's [m!t], right?"
-    m "Yeah, how did you know?"
-    v "I-Uhhhh... You mentioned it when we got here."
-    m "Did I? I don't remember."
-    v "I'm sure I heard you say it."
-    m "Oh, okay then. And you're Violet?"
-    v "That's me."
-    m "Well, nice to meet you, Violet."
-    m "What are you doing here, anyway?"
-    v "Umm, I needed some space, and I had to do some maintenance."
-    m "\"Maintenance\"?"
-    v "Yeah, stretching, running, stuff like that."
-    v "The ride was pretty long, and I don't like it when my body gets stiff."
-    m "Yeah, you do look like you train a lot. (She's obviously fit, but she's still curvy as fuck.)"
-    v "Really? Oh... *Chuckle* Ummm..."
-    m "Belle mentioned something about sports... Are you a professional?"
-    n "Violet's playful expression is quickly replaced by a saddened look."
-    v "*Sigh* Yeah... I was, actually... For a while..."
-    v "But then..."
-    n "You spot some bitterness in her words."
-    m "Ah, I see... It's okay, I won't pry."
-    m "Also, is it too forward to ask why you're here, Violet? I mean, you seem completely normal to me."
-    m "(Unlike the rest...)"
-    v "Oh, umm... *Nervous chuckle* I wouldn't be here if I was \"normal\"."
-    v "Everyone has a reason, mine is... Maybe a bit {i}different{/i}. (\"A bit\"?)"
-    m "Care to share?"
-    v "Uhhhhh, I'd rather not talk about it... (It'll definitely scare him off.)"
-    m "Okay, I understand."
-    m "Well, you have The Guidelines. Read them when you have the chance."
-    v "I will, I promise."
-    m "Good, I'll leave you to it then."
-    m "You should go back to camp, we'll probably have a meeting soon."
-    v "Okay, I won't be long."
-    n "After the quick talk, you go back to camp."
-n "The girls are briefed, and The Guidelines distributed - all loose ends are tied."
-m "(Guess that's it for now.)"
-m "(I should probably find Eve, see what's next on the \"to-do list\".)"
-n "On your way back, you see Eve heading towards you."
-m "Hi."
-mo "Hey there, spying on our patients, hmm?"
-m "Yeah, nothing's more attractive than unstable chicks."
-m "You're in a good mood today."
-mo "I'm always in a good mood, comes with age."
-n "Eve approaches the patients' residences and calls out..."
-mo "Laaaaadieees! If you're done unpacking, I'd like you to meet us outside."
-n "Turning back around to face you..."
-mo "I hope you're ready. The main event is about to begin."
-n "One by one, the girls slowly congregate around Eve."
-mo "Hello again, everyone."
-mo "I see everyone has already gathered, very good."
-mo "We're glad you applied to Red Falls. That was probably one of the better choices you'll make in your life."
-svi "*Scoff*"
-mo "Over the course of the next two months, we'll slowly get to know each other."
-mo "We have lots of activities planned for you, so please, relax and enjoy your stay."
-mo "Get to know one another, staff included."
-mo "Push through your inadequacies and become better people."
-mo "That is all."
-mo "Does anyone have any questions?"
-n "Without waiting for an answer..."
-mo "No? Good."
-mo "Alright, your first order of business for getting to know one another..."
-mo "Is to strip naked."
+n Still hesitant, you make your way towards the house.
+m (So many memories here...)
+m (Bad ones... But I can't lie... Some good ones too.)
+m (Do I knock? Or just go in?)
+m (Maybe it would be better if...)
+n Suddenly, the door bursts open.
+em [m!t]!
+m Hi...
+n She jumps you, almost making you lose your balance.
+em Oh, how I missed you!
+m Missed you too, Em...
+em Awww!
+n A few seconds pass while neither of you says anything.
+m Would you mind climbing down now?
+em Nope, not yet!
+n You did have your reason for asking...
+n Emily's breasts were pressed hard against your chest.
+m You've really grown.
+em I did?
+m Yeah, and you're heavy.
+n Hearing this, she gets off.
+em Hey! That's no way to talk to a lady.
+m Oh? So now you're a lady?
+em Yeah... Not really...
+em Never mind. Come in!
+n For a split second, you hesitate...
+n But Emily grabs your hand.
+n And pulls you inside.
+em Aaaand...
+m And?
+em How's college?
+m Oh. Good, I guess...
+em Must be better than good, since you haven't shown your face around here in a while.
+m You see, I...
+k Look what the cat dragged in.
+m Hi, Kiara.
+k Hey.
+tut This game features something called \"x-ray\".
+tut Use your cursor to highlight and press the left mouse button in the upper left corner.
+tut This will enter an \"x-ray mode\". You can leave it by pressing anywhere on the screen.
+tut Try it yourself.
+m Didn't know you're back at camp.
+k Didn't think I would be.
+k Anyway, nice to see you, [m!t].
+m You too.
+k We'll talk later. Gotta go prepare the cabins.
+m Sure.
+m (Not even a hug... Well, that's kind of to be expected, since...)
+n Something else grabs your attention.
+em Anyone at college catch your eye?
+m Huh?
+em College? Hot girls?
+m Hahaha, sure... There are some hot ones out there.
+m But, I'm kinda seeing someone.
+em You are?! Who?!
+em What's her name?!
+em How old is she?!
+em Are you taking classes together?!
+em Is she hot?
+em Do you have a picture of her?!
+em What am I even talking about? Of course you do!
+em Why haven’t you already shown me?!
+m Could I unpack first?
+em Right... Silly me.
+em Sorry, I just get so excited!
+m Some things never change, I guess. (Still, she did grow up so much.)
+em Guess not. *Giggle*
+em Oh right, that reminds me!
+em Eve said you should unpack once you arrive and she'll come and find you.
+em Here's the key to your room.
+em You better get going. So we still have time to hang out afterwards.
+m Sounds good to me!
+tut This game features navigation.
+tut Use your cursor to highlight interactable objects like doors, items or characters.
+tut To interact with them, simply press the left mouse button.
+tut The game also has a HINT system. If you get stuck, click on question mark in the upper right corner to see what you need to do next.
+tut To use the map during free roam mode, click on the compass icon below the other icons in the sidebar on the right side of the screen.
+tut Upon clicking the compass icon, the map of your current location will appear on the screen.
+m Where did I put the key?
+            m Oh! Here it is!
+            m Hmm, I can’t find it. Maybe if I–
+            m Oh, it’s unlocked!
+n As you open the door...
+n An overwhelming sense of nostalgia washes over you.
+m Heh...(It's still the same.)
+m (So many memories...)
+m (It almost feels good being back.)
+m (Almost...)
+m Jane?
+n You open the message. Only to find a hot, nude selfie from Jane.
+j *Still in bed. Wish you were here.*
+m *Damn! Girl! You need to warn me before sending something like this.
+j *I do?*
+m *Yes.*
+j *Okay. Warning!*
+n As any man would, you start the video...
+n Immediately, you feel your pants tighten.
+n Though, as luck would have it...
+n The door suddenly opens.
+mo I heard you were back home!
+mo But I had to see for myself.
+n As fast as you can, you put down the phone.
+m Hi, Eve.(Shit!)
+mo Stand up, silly! Give me a hug!
+n You stand up to give her a hug
+n She comes in to hug you, but you try your best she doesn’t feel your crotch.
+mo It's good to see you, [m!t].
+mo So good to see you.
+m Yeah, good to see you too, Eve.
+mo Oh, how you've grown.
+m Yeah... You too, Eve.
+mo Ha-ha. Still funny as always.
+m *Chuckle* You know me.
+mo Oh, how I missed you!
+n Without giving you a chance to react, she hugs you... Hard.
+n As she presses against you, she feels your bulge.
+mo Oh! I see you've grown in other places too?
+mo *Chuckle* Happy to see me?
+n Instantly, you pull away.
+m Eve!
+mo What? I'm just joking.
+m I know, but still...(She's always been like this.)
+m (Not sure why she gets such a kick out of messing with me like this...)
+mo Hahaha! You were always so cute when embarrassed.
+mo Although, there's nothing to be embarrassed about.
+m Yeah... Yeah... I know the talk. \"It's normal at my age\"... Blah, blah, blah...
+mo I wasn't talking about that... I was talking about the size.
+m Eve! (She seriously doesn't know how to let it go.)
+mo Hahahah! Just joking! Calm down.
+mo Jeez! Since when did you get so {i}\"stiff\"{/i}?
+m Will you stop it?!
+mo *Chuckle* Okay, okay. I'll stop.
+m *Sigh* Thank you.
+mo No, thank you for letting me feel it.
+m HEY! You said you'll stop. (Not sure why I even believed her...)
+mo That was the last one. I promise.
+m Good.
+mo This is the best thing to do in awkward situations like this.
+n Knowing what follows, you sit on the bed...
+mo If we didn't make a joke out of it, you would've been thinking whether I felt it or not.
+mo And I would've been thinking, \"Why does [m!t] have an erection?\"
+mo That means we'd both be thinking about your... Ahmm... And that's {i}a lot{/i} more awkward.
+mo It would leave a scar on your young, impressionable brain.
+mo Not a big one, but... For the next couple of days, you would be thinking, \"Did Eve feel my erection?\"
+mo It would go through your head every time you saw me. You'd be confused, even worried, about it.
+mo This way...
+m Eve, stop it.
+m I get it!
+m You don't need to over-analyze me, or this situation.
+mo Oh, right! Sorry! Work habit...
+m I know.
+mo Thank you for coming on such short notice.
+m It's okay.
+mo I know I probably ruined your summer...
+mo But, I really needed you here.
+m So, what's going on?
+mo As I mentioned on the phone, things are going to be different this year.
+m What \"things\"?
+mo The patients.
+m What, you're no longer taking in fappers and bullies?
+mo No, we graduated to serial killers.
+m WHAT?!
+mo *Chuckles* I'm joking, [m!t].
+m That wasn't really funny.
+mo *Chuckle* Best I let you unpack.
+mo We can talk more during dinner.
+m Sure.
+mo Okay. I need to get back to work, anyway.
+mo See you later.
+m Later, Eve.
+n As she leaves, you turn towards your luggage...
+tut Panties are a form of collectable item scattered across the camp in various locations. Some are easier to spot...
+tut while others will be hidden away in hard to see places.
+tut Collecting panties will unlock special images in the gallery, so keep your eyes open for them in each scene!
+m (I should finally unpack.)
+m (And I gotta make sure not to forget about Jane's text...)
+n Around 20 minutes later...
+m (All done. Now to help Kiara finish setting up.)
+hint Go to the camp area.
+m Need help?
+k I'm doing the last cabin.
+m So, yes or no?
+k Sure, why not.
+m Say...
+k Huh?
+m Eve mentioned something...
+k What?
+m That she's taking in different patients this time around?
+m You know anything about that?
+k Hmmm, she didn't tell me anything.
+m Nothing?
+k Nope. She's probably screwing with you.
+k It's always the same guys since my first year here.
+k Delinquent boys and wannabe bad-asses.
+m So... Your type, right?
+k *Chuckle* Maybe...
+m You always loved it when they arrived.
+m Me, on the other hand...
+k So what if they didn't like you?
+k Can you blame them?
+k They were jealous.
+m So that's why they screwed with me?
+k Umm, I guess...
+k It wasn't so bad...
+m Maybe for you! The \"hot girl\" in camp no one could touch.
+k Hmm, that {i}is{/i} true, but...
+m They're the reason I hate this place from the bottom of my soul.
+k No, you don't...
+m Wanna bet?
+k How about you just help me clean this cabin?
+m Yay... Making beds for animals. Wooo-hoo...
+    n Still unhappy, you decide to help her...
+    n Still unhappy, you help her, and about twenty minutes later...
+k Pheew! That should be it!
+m Yeah...
+n With the cabin prepared, you two walk out.
+m *Sigh* Fuck this...
+k You aren't a kid anymore.
+k You can hold your ground now.
+m You don't need to tell me that.
+k Then why are you bitching about it all the time?
+m Damn. Ice-cold...
+k You really don't wanna be here, huh?
+m Yeah, I really don't.
+k This year won't be so bad.
+k I have a feeling the guys will be nice.
+m I bet you do. (Nice and hot, maybe...)
+k You trying to say something?
+m Nope.
+k You sure about that?
+m Positive.
+k Oh, shit...
+m What is it?
+k I forgot The Guidelines in the house.
+m I'll go get them.
+k Don't forget, you need to put two in each cabin.
+m I remember, Kiara.
+k *Chuckle* Sorry for doubting you.
+k Anyway, I think I left them on the kitchen table.
+m Got it.
+hint Get the guidelines from the kitchen table.
+m Here they are.
+em Hey, [m!t]!
+m Huh?
+em Wanna go for a swim?
+m Oh, umm... I have to--
+em Come on! It's such a nice day!
+m I have to get these--
+em Oh, come on...
+em Pretty please? I wanna try on my new bikini!
+m I can't right--
+em Trust me, you need a swim after such a long trip. *Giggle*
+m *Sigh* Fine, let's go for a swim. (The lake {i}did{/i} look refreshing.)
+em Yaaay!
+m But, just a quick dip.
+em Sure.
+m Let me go get my trunks.
+em Hurry up.
+m Yeah, yeah.
+n Going upstairs, you rummage through your stuff and pull out your trunks.
+n Putting them on, you rush back downstairs...
+em Ready?
+m Yeah, let's go.
+em Weee!
+n Together, you make your way towards the lake.
+em Hey! Kiara's here too!
+m (Is she now?)
+em Kiara! Put on some clothes!
+m (Topless?!)
+em Show off!
+em Come on, [m!t], let's go.
+n You and Emily make your way towards the small dock.
+k What are you two doing here?
+em Going for a swim.
+em What are {i}you{/i} doing topless?
+k Getting a tan.
+m Makes sense.
+em Maybe you should be a bit more careful?
+k What do you care, you little brat.
+em UGH!!! I told you not to call me that!
+em I'm not a kid anymore! I'm nineteen!
+k Not being a kid doesn't mean you're not still a brat.
+em UGHH!!!
+m How about we all calm down a little, huh?
+k I {i}am{/i} calm.
+n Saying this, Kiara lies back down on her stomach.
+em Hmph!
+n Not feeling the need to intervene anymore, you start running...
+n And jump into the lake.
+m Ahhh... So refreshing!
+m Come on, Emily!
+em Here I come!
+n She starts running...
+n Jumps...
+n And makes the biggest splash she can.
+k Ahhh!
+em Oooh! It's cold! Why didn't you warn me?!
+k What the fuck, Emily?!
+n In her fit of rage, Kiara forgets she's topless.
+m *Gulp*
+em Sorry!
+k Oh?! (Shit! I'm topless!)
+n Immediately, she lies back down.
+em Won't happen again!
+k Yeah, yeah, whatever... (I should be more careful.)
+m *Whispers* You did that on purpose, didn't you?
+em *Whispers* Maybe. *Giggle*
+em Brrr! This is too cold for me, I'm getting out.
+m What are you talking about? It's perfect.
+em Yeah, maybe for you.
+m Booo, party pooper...
+n Ignoring you, Emily swims towards the shore...
+n And gets out of the water as soon as she can.
+n Unbeknownst to her, the new bikini she bought becomes a bit see-through when wet.
+em Brrrr...
+n Her nipples, also, got hard from the icy water.
+n Combined with a slightly transparent bikini...
+n It's a view you're not very comfortable seeing.
+em How can you stay in there?
+m It's not so bad. (Oh, fuck... Am I getting hard?)
+m I'm going for a swim. (Gotta get this picture out of my head.)
+em You're crazy!
+m Probably...
+n Trying to {i}\"cool off\"{/i}, you start swimming.
+m (What's wrong with me?!)
+m (I got hard by looking Emily's tits?)
+m (And I'm still hard?! What the...)
+m (I mean, it's a normal, physical reaction, right? Right?!)
+m (Just my male brain. It sees boobs and the brain sends a signal...)
+m (Apparently, it doesn't matter whose.)
+m (I mean, what do you expect?)
+m (First I see Kiara topless...)
+m (And then Emily with that see-through bikini...)
+m (Fuck, [m!t]! Get it out of your head!)
+n (Still not calm enough, you decide to swim a bit longer.)
+n And a few minutes later...
+n Finally, you swim up to the dock.
+em *Giggle* Your balls freeze off yet?
+m Nah. You coming back in?
+em Not a chance.
+m Weren't you the one who wanted to go swimming?
+em Umm... No, I don't recall saying that. *Giggle*
+m Kiara? What about you?
+k I'm good.
+m Oh, come on. The water's great, don't listen to Emily.
+k The weather channel said the next five days will be extremely hot...
+k Maybe in a day or two, when the water gets a bit warmer.
+k Besides, I don't even have my swimsuit here.
+m Fine, fine...
+em Say... [m!t]?
+m Yeah?
+em You still haven't told me anything about this girl you're seeing.
+k Oh? So you {i}are{/i} seeing someone?
+em What's her name?
+m Jane.
+em Is she hot?
+m Yeah...
+em Hotter than {i}me{/i}?
+m Yes.
+em You suuure?
+n You break eye contact as your eyes instinctively move downwards.
+n Unable to speak due to the sight you're witnessing...
+n You simply dive underwater.
+m (Did she... Do that on purpose?)
+m (Is she not aware that her bikini is see-through?!)
+m (Probably not... Yeah, there's no way she did that on purpose.)
+m (Shit, I got hard again... Fuck my brain.)
+m (Ughh... I need air!)
+n Gasping for air, you pop out of the water.
+em *Pout* You didn't even think about it for a second. Just immediately said yes.
+m Umm....
+k Emily.
+em What?!
+m *Gulp*
+k You {i}do{/i} know that bikini of yours is see-through when it gets wet?
+n Confused, Emily looks down...
+em So? Who cares?
+em I'm not {i}\"hot\"{/i}, anyway.
+n Looking {i}pretty{/i} pissed, she storms off.
+k Like I said... Brat.
+k By the way, you should get out of there before you catch a cold.
+m I'll just stay in here a little longer, don't worry.
+k Oh? Yeah, sure. (Hmm, I have a hunch about what's going on...)
+m Like I said, it's not that cold.
+k Whatever you say. (I think we both know why you can't get out.)
+k I'll leave you to it then...
+k I'm going inside. Don't wanna get a sunburn.
+m Oh, okay.
+n Making sure to cover her boobs, Kiara starts getting up.
+n Carefully, she turns around...
+n Puts on her shirt...
+n And walks away.
+n As she leaves, you get to the pier.
+m (I better wait a minute or two, until it goes down again... Just to be safe.)
+n And, a minute or two later, you get out of the lake.
+n Taking the towel Kiara left, you dry yourself off.
+m (It felt a little weird wiping myself down with a towel she had under her--)
+m (No, no more thinking about shit like that.)
+m (Anyway, why did Emily just run away?)
+m Hmm... (Is she {i}that{/i} insecure about her looks?)
+m (Well, probably... She's only nineteen and still pretty impressionable...)
+m (I should go talk to her, maybe apologize.)
+m (Damn, it's so hot outside...)
+m Fuck, that heat is gonna be the end of me...
+mo No swearing under my roof.
+m Maybe you should install an AC unit, because it's hot as hell under {i}\"your roof\"{/i}.
+mo Sweat builds character.
+m Ugh...
+m Hope you're right.
+mo I am.
+n Trying to ignore the unbearable heat, you go upstairs...
+n Finally finding yourself in front of Emily's room.
+    n Finally finding yourself in front of Emily's room.
+        n Without knocking, you open the door and go inside...
+        em Oh!?
+        m *Gulp*
+        n You stand there for a second, staring at Emily's chest.
+        n Finally realizing exactly what you're doing...
+        m Shit! Sorry! (What the hell am I staring at?!)
+        em It's okay. Let me just put my bra on.
+        m Yeah... Sorry, again. (I should've knocked.)
+        em Could you help me with this?
+        m Oh? Umm... I don't know...
+        em Pretty please?
+        m *Sigh* Okay.
+        n Reluctantly, you get behind her and hook her bra together.
+        em Thanks!
+        n Again, your eyes involuntarily move south.
+        m (Fuck off, brain! STOP!)
+        n As you move a step back...
+        n Deciding to be a gentleman, you announce your presence at the door.
+        em Who is it?
+        m It’s me, Em. Can I come in?
+        em If you need to...
+em And? Did you need something?
+m I just wanted to check...
+em Check in on me? Aww, that's sweet!
+m Yeah...
+em Anything else?
+m We good?
+em No. (Did he forget what he said already?)
+m Why not?
+em Because... (Because you said that I'm not hot!)
+em (And I {i}can't{/i} have that!)
+n As a thought pops into her head, she sits on her bed.
+em (Hmm... Maybe I could show him how I AM hotter than this \"Jane.\")
+em Could you help me with something?
+m I guess. What is it?
+em Let me just get something under my bed first.
+n Slowly, she slides onto the floor.
+em (This will be so much fun!)
+em So much stuff down here...
+m *Gulp*
+em Where is it.... (Hope you're getting a good, {i}hard{/i}, look!)
+em There you are!
+em Ugh! Shit...
+em [m!t]... I think I'm stuck. (Hhh, yeah... {i}So stuck{/i}...)
+n Pretending like she's getting out, Emily starts wiggling her ass...
+em Can you help me get out of here, please?
+m Uhh... (Why didn't she put on any pants... That bikini is...)
+em Hello?
+n You cautiously move behind her as she keeps swinging her hips.
+m (She really did grow up.)
+m (I mean, look at that...)
+m (Get those thoughts out of your head, [m!t]!)
+n Naturally, you're unable to stop yourself from stiffening up.
+m (Fuck! Not again...)
+em Can you, like... Pull me out or something?
+m Umm... Yeah, sure. (I already lost count of how many erections I had today.)
+m But how?
+em Just grab my hips and pull. Duh!
+m Right.
+n Grabbing her hips...
+n You start pulling.
+em Harder!
+m O-Okay!
+n After a little nudging, Emily is still {i}\"stuck\"{/i}.
+em Pull harder!
+m I'm pulling!
+em Ahhh... Harder!
+n Getting a little pissed, you pull with all your strength...
+n Since she wasn't really stuck, just pretending...
+n Your strength surprises her, and she flies out from underneath the bed.
+n As you land on your ass, her ass lands on your... Crotch.
+em Uhh! (Is that his...)
+n For a moment, neither of you move.
+em (He got hard?!)
+n Suddenly, she springs up.
+m (Shit! Did she feel my boner?)
+em Umm, thanks. (So much for not being hot enough, hehehe.)
+n With her confidence back, Emily just sprawls onto her bed.
+m Didn't you need my help with something?
+em Already got it.
+m What? I don't get it.
+em Doesn't matter. (Oh, you're so clueless...)
+m Umm... Okay.
+m Guess I'll leave you to it then.
+em Yeah... Byee!
+m (That was strange...)
+m (Was she... Teasing me?)
+m (Nah. She couldn't have... Why would she do that?)
+n As you're finishing up your inner monologue, Kiara pops out of the bathroom.
+m Oh, hi!
+k It's so fucking hot in here...
+k Eve should install an AC...
+k I just had a shower, and I'm {i}already{/i} getting sweaty...
+m {i}\"Sweat builds character\"{/i}.
+k Hah! Bullshit.
+m *Chuckle* (Agreed, bullshit!)
+m Yaaawn... (I'm so tired.)
+m (I only got a few hours of sleep...)
+n With your eyes already closing, you go to your room and get into your bed.
+m (I could take a quick nap.)
+m (Yeah, just to rest my eyes a little...)
+n Finally, exhaustion takes over, and you fall asleep.
+n A few hours later...
+m Hmphh... (It's already dark outside? This was more than a quick nap...)
+n You check your phone and notice that it's 2AM.
+m (Woah! I slept that long? Damn...)
+m (Wonder why no one woke me up for dinner.)
+m (Guess they just didn't wanna bother me.)
+m (How is it still so hot, this late?!
+m *Sigh* (I'll just go grab some water...)
+n Still a little blurry-eyed, you exit your room...
+n Go downstairs...
+n And into the kitchen.
+n After rummaging around the fridge a little, you pour yourself a glass of water.
+m *Glug* *Glug* *Glug*
+m (Blessed be, H2O.)
+m (Okay, back to bed...)
+n As you're leaving the kitchen, you notice Eve coming down the stairs.
+m Hi, Eve.
+mo Oh, [m!t]! You startled me!
+mo What are you doing up?
+m I got thirsty.
+m How come no one woke me up?
+mo Sorry, when I saw you sleeping, I didn't want to wake you.
+m Oh, thought so. It's okay.
+m Aaand, why are {i}you{/i} still up?
+mo Oh... Uhhh...
+mo I couldn't sleep, so thought I'd go for a walk.
+m Something bothering you? Want me to come with you?
+mo No, no... It's just so hot in here, I could use some air.
+m I get it.
+mo Anyway, you should go back to bed. The patients will arrive first thing in the morning.
+m Yes, ma'am. Good night.
+mo *Chuckle* Night.
+n Arriving back in your room, it doesn't take long for sleep to take you...
+mo Hey.
+m Hmph?
+mo Sweetie, wake up.
+m Huh?
+m What time is it?
+mo It's 7 AM.
+mo Time to wake up.
+m Yeah... (I had such a strange dream...)
+n Still not fully awake, you don't notice the morning wood you currently have.
+n Unlike you, Eve does...
+mo Umm... (He's hard again? I should definitely just ignore it.)
+m What's the matter?
+mo Oh?! Uhh... Nothing! (How am I supposed to ignore a bulge that big?!)
+m You sure?
+mo Yeah, yeah, it's nothing. (It looks so big...)
+mo (Now I wonder what it ACTUALLY looks like... Hhh, silly me!)
+m (Why does she keep looking down?)
+n A little confused, you glance where her eyes were \"pointing\" at...
+m Oh, shit!
+mo *Chuckle* Don't worry, it's only natural.
+m Yeah... (Not really! Especially with the dream I had...)
+m (I think the image of her in lingerie got burned into my mind.)
+mo Soooo...
+n You interrupt her attempt to change the subject.
+m When are the idiots--sorry, {i}\"patients\"{/i} getting here? (Heh...)
+mo Don't call them idiots. They're just, well... unadjusted to the real world.
+mo And they need our help.
+m Yeah, I know... (She didn't get the joke...)
+m Fine, when are the PATIENTS getting here?
+mo They should be here in an hour or so.
+m Great.
+mo I'm going to go make you some breakfast.
+m Awesome! Thanks, Eve.
+mo Don't mention it. See you downstairs.
+m See ya'.
+n As she leaves, you get up and get dressed.
+n Leaving your room...
+n You make your way towards the bathroom.
+    n You make your way towards the bathroom.
+        n *Knock* *Knock*
+        k Occupied!
+        m You done soon? Gotta pee!
+        k I'm in the shower, I'll be done in a few minutes.
+        m Okay.
+        n With nothing else to do, you wait in front of the bathroom for a few minutes.
+        n Soon after, Kiara opens the door, wearing nothing but her lingerie.
+        n Racy lingerie, at that.
+        k Oh?! You're still here?!
+        m *Gulp* I told you, I gotta pee... (What is she wearing?!)
+        k Well, don't just stand there, go pee.
+        k (I'll have to get used to him being around... Should've taken some clothes to the bathroom with me.)
+        m Oh, right! Going! Sorry, I'm still a little sleepy.
+        k Riiight... (Wait, was he checking me out?)
+        k (Hah! Can't really blame him.)
+        n Covered up a lot less than she maybe should be, Kiara strolls towards her room.
+            n Covered up a lot less than she maybe should be, Kiara strolls towards her room.
+                n Unable to control yourself, you turn your head...
+                m (Why is she walking around dressed like that?)
+                m (Isn't it a bit too revealing?)
+                n Kiara enters her room, but looks at you for a bit before closing the door.
+                m (Fuck, I hope she didn't notice...)
+                n Pretending nothing happened...
+        n Forgetting to knock first, you open the door...
+        k Eeek!
+        m Shit! Sorry!
+        n Almost instantly, you turn around.
+        k What the hell, [m!t]?!
+        m Sorry! I didn't think it was occupied.
+        k *Sigh* Learn to knock.
+        m I really had to pee.
+        m Why didn't you just lock the door?
+        k I didn't expect someone would come in without knocking.
+        m You're right, my bad. Won't happen again.
+        k It doesn't matter now. Mind going outside so I can get dressed?
+        m Right! Sure!
+        n Obediently, you leave the bathroom.
+        m (Really should have knocked...)
+        m (I'll just wait in my room until she's finished.)
+        n A few minutes pass...
+        n You hear Kiara walking down the hall and the sound of her bedroom door closing.
+n You go inside the bathroom.
+m Ahhh...
+    n Suddenly, you hear the door swing open...
+    m Gaahhh!
+    n Kiara's jump-scare makes you piss all over your leg.
+    k Hah! See? Not cool.
+    m I pissed all over myself!
+    k Sorry!
+    k Byee!
+    m What the hell, Kiara?!
+    k I said, sorry! (I didn't expect he'd still be taking a piss...)
+    m Not cool! Not cool at all!
+    k Well, think of it as getting a taste of your own medicine.
+    k You'll get over it. ([m!t] is hung? Like, {i}really{/i} hung?! Since when?!)
+    m (Now I have to take a shower...)
+    n You go to your room for a fresh change of clothes.
+    n After a quick shower, you get dressed...
+    m (Hope they won't be complete idiots.)
+    m (But I'd say that's just wishful thinking.)
+    m (The amount of stupidity in the world is only increasing...)
+    m (So... Guess I'm fucked...)
+    m (Oh, well... Better just accept my fate...)
+    m (...)
+    m (Hmmm...)
+    m (Maybe plants really ARE farming us...)
+    m (Giving us oxygen until we eventually drop dead, turning into mulch they can consume...)
+    m (...)
+    m (This is really taking a while...)
+    m (...)
+    m (Finally...)
+    n Zipping up your pants...
+    n You wash your hands.
+n And leave the bathroom.
+m (Damn... It's already getting pretty hot...)
+n Making your way downstairs...
+n Eve suddenly pops out from around the corner.
+mo Could you please go and wake Emily up?
+m Sure.
+n Seconds later, you're outside her room.
+n Gently, you knock on the door.
+m Emily?
+n No answer...
+m Emily!
+n Again, no answer...
+m I'm coming in.
+n Opening the door, you notice Emily lying on her back, her bedsheets all over the floor.
+m (Shit! Her boob fell out of her bra!)
+n From downstairs, you hear Eve yelling...
+mo Did you wake her up?!
+m Working on it!
+m Emily!
+m (You gotta be kidding me...)
+n Unsure if it's a good idea, you walk closer to her.
+m Emily, wake up!
+n No response...
+m Ugh!
+m (What do I do?)
+    m (What do I do?)
+        m (Should probably fix her bra before waking her up.)
+        m (I really hope she doesn't wake up...)
+        n You move your hand closer...
+        n Gently grab her bra...
+        n And pull it up.
+        em Mmmm...
+        n Finally, you poke her forehead.
+        m Wake up!
+        em Mmmmm...
+        em Hmph...
+        m Time to wake up...
+        em Wha... Already?
+        m Umm... Yeah.
+        em What time is it?
+        m It is--was 7 AM, about twenty minutes ago.
+        m Breakfast will be ready soon.
+        em Ughhh...
+        em It's too early...
+        m Yeah, yeah. See ya' downstairs.
+        em *Yawn* Yeah...
+        n With that, you leave her bedroom.
+        n You poke her forehead.
+        m Wake up!
+        em Mmmmm...
+        em Hmph...
+        m Time to wake up...
+        em Wha... Already?
+        m Umm... Yeah.
+        em What time is it?
+        m It is--was 7 AM, twenty minutes ago.
+        m Breakfast will be ready soon.
+        em Ughhh...
+        em It's too early...
+        n Instinctively, your eyes jump towards her chest.
+        m (Do I say something?)
+        m (Nah, I don't wanna make a big deal out of it. Better just leave...)
+        m See ya' downstairs.
+        em Yawn! Yeah...
+        n With that, you leave her bedroom.
+        em (Oh? Did my boob fall out while I was sleeping?)
+        em (Why didn't he say anything?)
+        em *Giggle* (He probably just wanted to stare at it... Pervert.)
+        em (Oh, well... {i}\"Oopsy\"{/i}.)
+n Trying not to think about what just happened, you make your way down the stairs...
+n And into the kitchen.
+mo Did you wake Emily up?
+m Yeah...
+m Is there any coffee?
+mo Huh?
+m What?
+mo Since when do you drink coffee?
+m Since I'm in college and have to study all night long.
+mo *Chuckle* Okay, coffee it is. (He's so grown up...)
+n She pours you a cup.
+mo Here you go. Careful, it's hot.
+m Thanks, Eve.
+m Hey, Eve, I'm not that hungry. I'll just go chill on the couch.
+mo But...
+m I'll eat later. Don't worry.
+n As you sit down...
+n You hear Emily yell from upstairs.
+em I think I can see them!
+n Everyone gathers in front of the house, waiting for the van.
+k Didn't you say they were here?
+em I meant, any second now.
+k So where are they?
+mo I think I can hear the van.
+m (I hope there aren't more than five idiots aboard.)
+n The van doors open.
+m (Here we go... What do we have first... An animal abuser?)
+m (Perhaps a dendrophile...)
+m (Maybe a...)
+m (Whaaa?!)
+m (I-It's a...)
+m (Girl?!)
+n Before your brain has time to even process what just happened...
+m (Another girl?!)
+m (This is, umm... Unexpected!)
+m (Holy shit! Another one?!)
+m (Is that it? No guys this year? How?! Why?!)
+n The girls line up next to the van...
+k (What the fuck?!)
+em (Weee! So cool!)
+mo (This year will be different, that's for sure.)
+m (This is gonna be interesting...)
+n Eve takes a step forward.
+mo Hello, girls. Welcome to Camp Red Falls.
+noname Hi!
+mo I'm doctor Daniels. And I will be your caretaker for the duration of your stay here.
+mo You can go unpack first. Once you're done, we'll meet in front of your residences.
+mo Take the girls to their cabins.
+m Umm, yeah! Sure.
+m So... Please come with me!
+m (Well, this is unexpected...)
+m (How come we only have female patients this year?)
+n As the girls follow you, you give them the basic tour of the place...
+m This is the main building... That's where the staff sleeps.
+m Over yonder is our community house...
+m You'll have private and group sessions there, among other things.
+m The lake is clean, and you can swim in it whenever you have time off.
+m And...
+nao Hey, I'm Naomi, and you're kinda hot.
+nao Are you also a patient? (Dibs, I saw him first!)
+m Uhh, no... I work here... (Did she just call me \"hot\"?)
+nao So, you'll be around?
+m Yeah, I'll be around. But I can't--
+nao Great! Then we'll get to know each other better. You'll love my company, I'm sure.
+m Aha, right... (Who is this chick? She starts hitting on me the moment she arrives?)
+m (I mean, not that it doesn't build up my ego a little... She's smoking hot, but...)
+m *Sigh* (Guess you can't expect normal behavior in this damn place.)
+m (They are getting rehabilitated, after all...)
+m (This one's probably a nymphomaniac or some shit like that.)
+nao Something wrong? You don't enjoy my company?
+m No, no, nothing like that. I just...
+nao Duuuh... Of course you enjoy my company. I mean, who doesn't?
+m (Not a nympho, but a fucking narcissist...)
+m *Nervous chuckle* Yeah, must be it... (How self-absorbed can you get?)
+nao So... I was thinking. Why don't you show me around later? Give me a {i}private{/i} tour, hmm?
+v Naomi, you can't talk to the staff like that... (I mean, he is cute, but still...)
+nao Maybe {i}you{/i} can't, fatty.
+nao Who are you to tell me what I can or can't do, huh?!
+v I didn't mean...
+nao Just shut up, Violet! Ugh, all brawn, no brain...
+b *Chuckle* Not even five minutes in, and they're already bickering like children...
+s Indeed...
+b So? What are you in here for?
+s Fire.
+b Ooh, a matchstick enthusiast! We'll have so much fun!
+b Tell me what happened.
+s I... May have gone overboard while recruiting followers.
+b \"Followers\"?
+s Yes, the Puncturing Flame.
+b And what's that?
+s It's a religion. In short, we worship fire and its beauty.
+s Interested? Would you consider joining us?
+b Ah, I see... S-Sounds interesting, I'll think about it.
+b (Oh God, I can't believe I'm in the same boat as these weirdos...)
+s *Sniff* *Sniff* Do I smell BBQ? Where's the campfire?
+v At least I'm not an empty, manipulative bitch!
+nao Wanna repeat that, fatty?!
+m LADIES, ENOUGH!
+n As you raise your voice, all of them freeze up.
+m Good. Let's get you settled, then.
+m You'll have plenty of time to rip each other's throats out during your stay.
+m Moving on... These are your new homes.
+m You'll each be sharing one with another person.
+nao Share? But there are three cabins, why can't I go solo in the third cabin?
+m Because it's good practice. Getting to know one another, sharing the rehabilitation experience...
+nao Fucking stupid... I want my own place.
+m It's also because those are the rules. (Shit! I forgot about the guidelines completely.)
+s Calm down, Naomi. You cannot escape the prophecy, anyway.
+nao *Grumble* Fine! I'm taking that one!
+nao Come, Stacy, you should join me. You seem like a {i}fun{/i} roomie, unlike {i}fatty{/i} here...
+s Sure. I do not believe the Pheonix-Lotus would mind.
+m (\"Prophecy\"? \"Phoenix-Lotus\"? What the fuck is she talking about?)
+m Anyway, it's unlocked. Keys are in the lock, on the inside.
+m Take your time and get settled.
+n Without delay, Naomi briskly goes towards the cabin, with Stacy following suit.
+b Guess that leaves us two. (At least I'm not grouped with that flame-natic.)
+v Yeah, okay...
+b You gonna pick us up later?
+b (Hmm, Naomi sure knows how to quickly separate the wheat from the chaff, he is quite handsome...)
+m Probably, but you have time to get comfortable until then.
+b Oh, lovely. Well, can't wait to see you again.
+m ({i}\"Can't wait to see me\"{/i}?)
+n Somewhat dumbfounded by her choice of words, you just stand there.
+n Wondering if this girl just hit on you as well.
+m *Sigh* (It's gonna be a long-ass summer...)
+m (I better go get The Guidelines from my room.)
+n Finally managing to squeeze some words out...
+m Umm, yeah... Bye.
+b Byee!
+tut The diary will help you remember all the girls and events happening in the camp.
+tut Info about all the girls you meet can also be found here!
+tut Yellow Post-It note in the bottom-right corner is the synopsis tab.
+tut After a day ends, you can read a general recap, reminding you of all you've done.
+tut As the days pass, recap of each will be added to this tab..
+tut Each girl in Helping the Hotties has a diary page about them.
+tut As the story progresses, each decision that involves an individual girl, can be found on her diary page.
+tut If you forget what happened, this feature should help you keep track of the story and its developments.
+tut Additionally, as you progress, each girl’s page will have new images unlocked.
+tut Achievements and missions can be accessed by clicking the stars icon, under the diary icon.
+tut Achievements have a progress bar, and a hint on how to complete an achievement is listed below the achievement name.
+tut Once you fully complete the progress bar for an achievement, click the \"collect\" button to the right of the achievement.
+tut This will allow you to collect the reward for that achievement, which is viewable in the gallery.
+tut The achievements you have completed are marked by the crown, once you claim the reward tied to that achievement.
+    m (Where should I go?)
+        m (Where should I go?)
+m (A key? Wonder what it opens...)
+m (Guess I'll find out soon enough.)
+    m (I haven't seen Kiara since the patients arrived. She must be holed-up in her room.)
+    n Approaching her room, you knock.
+    m Kiara, you here?
+    n Not hearing a response, you open the door...
+    n And enter her room.
+    m Kiara? (Where the hell is she?)
+m (A notebook?)
+m (No, it's Kiara's diary?!)
+    m (No, it's Kiara's diary?!)
+        m (It's Kiara's diary. I wonder what she wrote...)
+        m (Maybe she mentioned me...)
+        m (We're still somewhat distant because of that one time...)
+        m (Maybe I can find out how she feels.)
+        m ...
+        m (Well, Kiara, it's your fault for leaving it out in the open like this...)
+        m (It's like you {i}want{/i} someone to read it.)
+        n You pick up her diary and begin flipping through its pages.
+        n The pages are mostly filled with uneventful days spent at Red Falls...
+        n Some mentions of Eve, but nothing out of the ordinary.
+        m (This was a few years back. Just before college...)
+        n At last, you notice a passage with your name in it.
+        n (\"Fateful night\"?! \"All these feelings\"?!...)
+        m (Does Kiara still have a thing for me? But she also says she'd like it if things returned to normal...)
+        m Fuck... (Maybe I shouldn't have read this.)
+        m (Now I have to make sure she doesn't notice anything weird about my behavior.)
+        m *Sigh* Problem after problem, huh?
+        n You place the diary back in the same position as when you found it.
+        n You learned more than you hoped for, perhaps even more than you wished for...
+        n But, nonetheless, you got some juicy info out of it. 
+        m (I better leave the room. Don't wanna get caught with my pants down...)
+        n Before anyone sees you, you leave Kiara's room.
+        m (It {i}is{/i} quite tempting, but...)
+        m (I really shouldn't read her diary, even though I'm curious as hell.)
+        m (I might find out something I'd rather not know...)
+        n Not wanting to get caught, you leave Kiara's journal alone.
+m (Hey! That's a photo with all of us!)
+m (I should get a copy made, too.)
+m (Everyone looks so happy.)
+m (Eve looks gorgeous...)
+m (Kiara and Emily too.)
+n And then it hits you...
+m (Wait, where am I?!)
+m I'm not in the photo...
+m (SERIOUSLY?! I'M THE ONLY ONE WHO'S NOT IN THE PHOTO?!)
+m (But how? Why? When was this taken?)
+m (By the look of their clothes, it was definitely taken during the summer. Probably at Red Falls, too.)
+m (It doesn't say...)
+m (The time stamp must be on the back of the picture.)
+m (I'll have to open up the frame somehow, if I wanna get to the bottom of this.)
+    m (I'll have to open up the frame somehow, if I wanna get to the bottom of this.)
+        m (As much as I'd like to know why...)
+        m (It's probably best to remain ignorant.)
+        m (Not to mention, if Kiara finds out I've been snooping around her room, she'll strangle me in my sleep.)
+        m (I'm sure there's a perfectly good explanation as to why I'm not \"part of the gang\"...)
+        m (I can't just let this slide. I at least gotta know when it was taken.)
+        n Poking around a little, you try opening the picture's frame.
+        m (It's stuck...)
+        m (Fine, I'll just claw my way in.)
+        n *Snap*
+        m Perfect... (I broke it...)
+        m (At least it's on the back side. Hope she doesn't notice.)
+        m *Sigh* (What's done is done. Might as well find out...)
+        m (\"August\"? Two years ago?)
+        m (That's when I started college, right? And before that...)
+        m (Before that, Kiara and I...)
+        m (Shit. I just left after creating so much chaos...)
+        m (No wonder I'm not in the photo.)
+        m (No wonder Kiara's been acting weird.)
+m (Is that what I think it is?)
+n You crouch down to take a closer look.
+m (It really is my old volleyball!)
+m (Wow, she still has it after all this time.)
+m (Aww, man. I'd love to play again.)
+m (I still remember that time we played... All those girls in swimwear, jumping around, sweating...)
+m (Wait, Kiara was also there with me! That's right, we played on the same team.)
+m Huh... (She looked amazing...)
+m (We've had a lot of good memories together, haven't we?)
+m (I just hope she thinks of them as fondly as I do.)
+m (Her perfume bottles.)
+m (Looks expensive...)
+m (I doubt she bought them all by herself...)
+m (Wouldn't be surprised if she got one from a previous patient or something like that.)
+m (Do I...)
+    m (Do I...)
+        m (Yeeeeah, I'd rather not...)
+        m (Snooping around her room is weird enough as it is.)
+        m (No need to sniff a girl's perfume like some creep.)
+        m ...
+        m (Shit, Jane was right... Maybe I {i}am{/i} a creep.)
+        m Ah, well...
+m *Sniff* *Sniff*
+m Ahhhhh... (Smells wonderful.)
+m (Just like Kiara...)
+m ...
+m *Cough* (I should probably put that back.)
+m (Haven't been in her room for years...)
+m (I wonder if anything's changed.)
+n Without much thought, you try opening the door...
+m Hmm, locked. (Now I'm even more curious.)
+m (Wait, maybe that key...)
+n Cautious not to make too much noise...
+n You insert the key into the lock and turn it.
+m (Lucky me, it's the right one.)
+n You open the door and walk into the bedroom.
+m Hmm... Looks more or less how I remember. (Not sure what I was expecting...)
+m (Maybe the key's just for privacy's sake, 'cause of the patients and all.)
+m (Well, can't hurt to look around.)
+    m (Hmm, nothing interesting in here.)
+    m (Emily?)
+    m (Looks like she's talking to one of the patients. Wonder what it's about...)
+    m (She seems really into it...)
+    m Huh. (Guess Emily picked up some social skills while working here.)
+    m (What's that?)
+    m (A box? Not sure if I wanna know the contents...)
+    m Ehh, might as well.
+    n You pull the box out.
+    m (What's behind door number one?)
+    m ...
+    m ...
+    m (I'm not sure what I expected to find in a box hidden under the bed...)
+    m (Oh, God. I can feel the mental scars growing.)
+        m (What's that sound outside?)
+m (Haven't been in her room for years...)
+m (I wonder if anything's changed.)
+n Without much thought, you try opening the door...
+m Hmm, locked. (Now I'm even more curious.)
+m (I'll have to find the key somewhere.)
+m (Asking for it would probably sound weird.)
+n As you enter the kitchen, you notice Kiara hanging around.
+    m Hey, Kiara.
+    k Hi, have you finished your chores?
+    m Yeah, the girls are getting settled in.
+    k And The Guidelines?
+    m Uhhhhhh...
+    k *Chuckle* Don't worry, I won't bite.
+    k Just make sure to give a copy to every patient.
+    k Well, I have some shit to do, I'll talk to you later.
+    m 'Kay, later.
+    m (Shit, it's Kiara. I better not slip up.)
+    k Eeeek! Oh, it's you... You scared me. (Still not used to him popping up.)
+    m My bad.
+    k What are you skulking around the house for?
+    m Oh, ummm, nothing. Just wandering around, that's all.
+    k Mhm, I bet. (He's hiding something...)
+    m Really!
+    k You know I've been working here for years, right? I can tell when something's up.
+    m (She doesn't believe me... I'll have to come up with a better excuse.)
+    k Hellooo?
+        k Hellooo?
+            m You don't look too cheery. Something wrong?
+            k Hmm, can't hide anything from you, can I?
+            m You read me, I read you..
+            k *Sigh* Yeah, I guess something's wrong.
+            k Nothing serious, but annoying, nonetheless.
+            m What about?
+            k Don't you worry your pretty little head. I'll manage.
+            m You can tell me if something's bothering you. I'll listen.
+            k I know you would.
+            k Maybe I'll even take you up on that offer, but another time. Okay?
+            m Whenever you need me.
+            k I'm glad you're here. I missed you.
+            m I missed you too.
+            n You sit there for a moment, exchanging looks in silence.
+            k Right, ummm...
+            m Okay, good talk.
+            k *Chuckle* Yeah, I have some shit to do anyway, I'll see you later.
+            m Later, Kiara.
+            n With that, she leaves the kitchen.
+            m (Phew, that was a close one.)
+            m Ohhh... Uhhh... Ummm... Ehhh... (Fuck, I can't come up with anything on the spot.)
+            k I think I know what this is about. (He's still thinking about it...)
+            k I tried to put it in the past, but I see you're still struggling to do the same.
+            m No, it's not about... (Hit the nail on the head. You're too good at this, Kiara...)
+            k Spare me. I can see you cringing anxiously around me...
+            k There's only one reason...
+            m ...
+            k I thought you had grown up, maybe I was wrong.
+            m Kiara, I...
+            k It's fine. I was naïve thinking everything would return to how it once was.
+            k I'm ready to let go, but I shouldn't just expect you to do the same.
+            m Kiara, stop!
+            n Raising your voice catches her off-guard.
+            m Yes, it crosses my mind here and there, but I don't care about that anymore.
+            m We've known each other forever, for fuck's sake.
+            m And seeing how you're still bringing it up doesn't really give off the impression of coming to grips with it.
+            k What would you know about anything? About me?
+            k You left for college, didn't even call or anything.
+            k If it weren't for Christmas, I probably wouldn't have seen you at all!
+            m *Sigh* I did kind of run away, didn't I?
+            m But I'm here now, and I'm tired of avoiding you.
+            m I want our relationship to be normal, \"like it was\".
+            k We'll see about that...
+            k Oh, and [m!t]... I hope you really mean what you're saying.
+            n Without uttering another word, Kiara walks away.
+            m *Sigh* Fuck... (It's still bothering her. Can't say I don't feel the same...)
+m (I've wasted enough time already... I should just get the guidelines before anyone notices.)
+m Ah, there they are. (Thought for a second I lost them.)
+n You take another look at the papers...
+m Hmm... (They haven't changed much.)
+m (Same old crappy guidelines that mostly protect the institution, not the patients, blah-blah-blah...)
+m Oh? (There are a few new ones I haven't seen before...)
+m \"Romantic relations are strictly forbidden\", \"All personnel must not become emotionally attached to patients\"...
+m (What the fuck is this? New rules? And pretty obvious ones at that...)
+m (Did something happen? Maybe that's the reason why all the patients are female this time.)
+m (I'll ask Eve about it.)
+n After going through the guidelines again, you leave to distribute them.
+n Walking down the stairs, you bump into Eve.
+n Definitely not wanting her to notice the guidelines being delivered just now, you hide them behind your back...
+mo Have you finished everything I asked?
+m Uh-huh...
+mo And the patients are in their designated cabins?
+m \"Designated\"? I just brought them there, no one told me anything about \"designated rooms\".
+mo Of course they have designated rooms, what did you expect?
+m I didn't think it was that important...
+m I'll go deal with it right away.
+mo Oh, and...
+m What?
+mo Those guidelines you're hiding should've been in their rooms {i}before{/i} the patients got here...
+m ...
+m *Sigh* (They've probably already settled in. This is gonna be a pain...)
+m (Where do I even go first?)
+n A little hesitant, you head towards the cabins...
+    n You approach the first cabin...
+    n As you get closer, you hear voices from inside.
+    nao No, no, no! I told you, like, five times already, be careful with that and put the lighter away!
+    n You knock on the door.
+    s I doubt the Phoenix-Lotus cares about such trivialities...
+    nao These \"trivialities\" are worth more than your whole family's net worth!
+    n You knock again.
+    nao And what the fuck is a \"Phoenix-Lotus\", anyway?!
+    nao Your deity obviously doesn't have a sense of fashion!
+    nao Can't tell the difference between a dress and a top?
+    s The Phoenix-Lotus surely has a more refined fashion taste than you...
+    nao Are you seriou--
+    n Everything goes quiet for a brief moment...
+    n Before the door swings open.
+    n With Naomi standing on the other side of the threshold.
+    nao Sorry, handsome, but not right now. We're busy.
+    m Hey, can I borrow you for a second?
+    nao Mmmm, couldn't wait, could you? (Of course. How could he resist?)
+    m That's not...
+    nao Alright, guess I have a minute... (I should do my research, anyway.)
+    m I came to give you these guidelines.
+    nao Oh, wonderful...
+    m *Sigh* And... I'll have to ask one of you to move.
+    n The moment she hears this, Naomi's flirty behavior shifts to annoyance...
+    nao Excuse me? Why?
+    m The sleeping arrengements were predetermined, it seems.
+    nao What does that even mean?
+    m It means you have to swap roomies.
+    nao Why?! That's such a waste of time. Plus, I don't want to.
+    nao I'm fine with Stacy... Even though she's...
+    nao Well, {i}the way she is{/i}.
+    m I'm not the one calling the shots, sorry.
+    nao I literally unpacked {i}this second{/i}.
+    m (As far as I could tell, Stacy unpacked your shit while you were giving orders.)
+    m Again, sorry for the inconvenience, I wasn't briefed about it.
+    nao *Tsk* Very unprofessional...
+    m *Sigh* Tell me about it.
+    nao Hmm... (I was expecting him to get all defensive, but he just agreed. He's not even sarcastic.)
+    nao You can ask Stacy if she's willing to move.
+    nao 'Cause I'm definitely not moving an inch.
+    nao Who am I paired up with, anyway?
+    nao I hope it's not that gorilla.
+    m If you mean Violet, I'm afraid it is.
+    nao HUH?! That makes no sense!
+    nao We're total opposites, how is that supposed to work?!
+    m I told you, I'm not the one calling the shots...
+    m Plus, you two might have more in common than you think.
+    nao That's fucking bullshit, I'm not doing it.
+    m You're here for rehabilitation, {i}not{/i} a vacation.
+    m Going out of your comfort zone might actually do you good.
+    n Naomi looks annoyed, but remains silent.
+    n Whether she saw logic in your words or you struck a nerve, she stops complaining.
+    nao Fine... But Stacy is the one moving. I'm staying here. (Again with the fucking \"comfort zone\"...)
+    m It's all the same to me. I'll leave you two to figure it out.
+    nao [m!t]!
+    m Yeah?
+    nao Do you have a girlfriend?
+    m Huh? Why do you ask? (A little too upfront, but okay...)
+    nao I'm just curious. (Plus, I'm interested in what type of prey I'm dealing with.)
+    m Lookin' to apply for the position?
+    n Your words catch Naomi off-guard, causing her to blush a little.
+    nao No, don't be so full of yourself.
+    m *Chuckle* If you must know, though. Yes, I'm seeing someone.
+    m You know, we're having fun.
+    nao Good for you. (He's perrrfect!)
+    nao Bye now.
+    m Sorry, I still need to talk to Stacy for a moment.
+    nao ...
+    nao Humph...
+    n After a brief second, she moves out of the way and lets you enter.
+    s Hello, sir. Have you come to join The Puncturing Flame?
+    m Uhh, no, not right now.
+    s Shame... We could use more people with {i}good genes{/i} like yourself.
+    m (\"Genes\"?! The fuck is she talking about?)
+    m Yeah, maybe some other time.
+    s Alright, we'll wait until the flame calls to you.
+    m Umm... Yeeeaahhh...
+    m So, there was a misunderstanding with the housing.
+    m You should've been paired with Belle, doctor's orders.
+    s I see... Yes, there were signs around her, should've expected this.
+    m Yeeeaahhh, ummm... Can you maybe move your stuff over to the other cabin?
+    s I doubt Naomi's the type that pleases others, so...
+    s I'll comply.
+    m Excellent, glad you're so... cooperative.
+    s Of course, cooperation is the first step in leading a successful flock.
+    m Right... (A \"flock\"?! The hell?!)
+    m Anyway, take this... House rules and guidelines. Read them.
+    s Awww, thank you! This will prove excellent kindling.
+    m Yeeeaahhh, try to read it before you burn it.
+    s *Giggle* I can't promise anything.
+    m Alright, I'll be around if you need help.
+    s May The Charred Kings lead your way.
+    m Yeeeaahhh, I'll follow them wherever...
+    nao You finally done?
+    m Yeah, all done. I'll see you later.
+    nao Take care, handsome.
+    m \"Handsome\"?
+    nao Surprised? You shouldn't be.
+    m *Chuckle* (Hasn't heard of subtlety, has she?)
+    n As you turn around to answer...
+    n You notice Stacy lying on her bed.
+    m (Whoa!)
+    m (I can see under Stacy's skirt!)
+    m (Holy shit, she's not wearing any underwear!)
+    m (Fuck, I shouldn't be looking at that!)
+    m (I really gotta stop getting myself in these situations...)
+    n Finally, you leave their cabin.
+    n You approach the second cabin...
+    n And knock on the door.
+    m (No one's answering, are they even inside?)
+    n Leaning towards the door...
+    n You take a peek.
+    n Immediately noticing one of the girls inside, getting undressed.
+    m (Holy shit! She's half naked!)
+    m (Wow, nice tits...)
+    m (I really shouldn't, though...)
+    m ...
+    m (I better move. If she sees me, all hell will break loose.)
+    m (I'll just knock on the door a bit harder, this time.)
+    n Making sure not to overdo it, you bang on the door.
+    n After a few seconds...
+    b Just a second!
+    n One of the girls greets you on the doorstep.
+    b Yes?
+    m Hello, hope I'm not intruding.
+    b Not at all, come in, come in.
+    b I'm Belle, by the way.
+    m (Oh, right. We never got a chance to properly meet.)
+    m [m!t].
+    b How can I help, [m!t]?
+    m There was a misunderstanding with the cabins.
+    b What do you mean?
+    m Nothing serious, but you'll have to swap roomies.
+    b Oh, okay. So? Who should I pair up with?
+    m The religious one, Stacy.
+    b Ahh, okay... Should I stay here or move? (Just hope I won't wake up on fire...)
+        m You stay here, she'll move in with you.
+        m Doesn't matter, you can figure it out later, but you should be staying with her.
+    b Okay, I don't mind.
+    m Oh, right. Almost forgot to give you this...
+    b What is it?
+    m Just The Guidelines. You should read them.
+    n After a quick look...
+    b \"Romantic relationships are strictly forbidden\", \"All personnel must not become emotionally attached to patients\"...
+    m Yeah, those are new. Not sure how or why those happened, but...
+    b Guess your hands are tied then... Too bad. (Huh, I smell a challenge.)
+    m First off, I'm seeing someone...
+    m Second, I shouldn't even have to mention how {i}\"irregular\"{/i} it is for patients to have intimate relationships with their doctors.
+    b Oh? You're a doctor, [m!t]?
+    m No, but that--
+    b Then why trouble yourself, if it doesn't affect you?
+    m The Guidelines say \"personnel\", not \"doctors\". Rules apply to all.
+    b *Giggle* I won't tell if you won't...
+    m *Sigh* (Who the hell {i}are{/i} these chicks?)
+    m Hmm, I just noticed...
+    m Where's the purple-haired one, uhh...
+    b You mean, Violet? Said she needed some fresh air.
+    b Sports type, can't hold still for five minutes...
+    b Hasn't even unpacked. *Chuckle*
+    m Okay, I'll go look for her. Thanks.
+    b Don't mention it. You should come and visit more often. *Wink*
+    m I'll think about it. (Jesus, am I seeing things or are they all hitting on me? Is that the reason they're here?)
+    m (She said that Violet went outside...)
+    n Looking around, you spot Violet doing some stretches.
+    n Coming closer, you see that she's quite fit.
+    n Surprisingly, you failed to notice that until now.
+    m Hey, I've been looking for you. (Damn, her body looks pretty firm.)
+    v Oh, ummm... \"Looking for me\"? (That's kinda sweet. Does he {i}like--{/i}) 
+    m I need to give you these guidelines. You should read them.
+    v Oh, right, of course. (Yeah, why would he...)
+    m I haven't introduced myself properly...
+    v It's [m!t], right?
+    m Yeah, how did you know?
+    v I-Uhhhh... You mentioned it when we got here.
+    m Did I? I don't remember.
+    v I'm sure I heard you say it.
+    m Oh, okay then. And you're Violet?
+    v That's me.
+    m Well, nice to meet you, Violet.
+    m What are you doing here, anyway?
+    v Umm, I needed some space, and I had to do some maintenance.
+    m \"Maintenance\"?
+    v Yeah, stretching, running, stuff like that.
+    v The ride was pretty long, and I don't like it when my body gets stiff.
+    m Yeah, you do look like you train a lot. (She's obviously fit, but she's still curvy as fuck.)
+    v Really? Oh... *Chuckle* Ummm...
+    m Belle mentioned something about sports... Are you a professional?
+    n Violet's playful expression is quickly replaced by a saddened look.
+    v *Sigh* Yeah... I was, actually... For a while...
+    v But then...
+    n You spot some bitterness in her words.
+    m Ah, I see... It's okay, I won't pry.
+    m Also, is it too forward to ask why you're here, Violet? I mean, you seem completely normal to me.
+    m (Unlike the rest...)
+    v Oh, umm... *Nervous chuckle* I wouldn't be here if I was \"normal\".
+    v Everyone has a reason, mine is... Maybe a bit {i}different{/i}. (\"A bit\"?)
+    m Care to share?
+    v Uhhhhh, I'd rather not talk about it... (It'll definitely scare him off.)
+    m Okay, I understand.
+    m Well, you have The Guidelines. Read them when you have the chance.
+    v I will, I promise.
+    m Good, I'll leave you to it then.
+    m You should go back to camp, we'll probably have a meeting soon.
+    v Okay, I won't be long.
+    n After the quick talk, you go back to camp.
+n The girls are briefed, and The Guidelines distributed - all loose ends are tied.
+m (Guess that's it for now.)
+m (I should probably find Eve, see what's next on the \"to-do list\".)
+n On your way back, you see Eve heading towards you.
+m Hi.
+mo Hey there, spying on our patients, hmm?
+m Yeah, nothing's more attractive than unstable chicks.
+m You're in a good mood today.
+mo I'm always in a good mood, comes with age.
+n Eve approaches the patients' residences and calls out...
+mo Laaaaadieees! If you're done unpacking, I'd like you to meet us outside.
+n Turning back around to face you...
+mo I hope you're ready. The main event is about to begin.
+n One by one, the girls slowly congregate around Eve.
+mo Hello again, everyone.
+mo I see everyone has already gathered, very good.
+mo We're glad you applied to Red Falls. That was probably one of the better choices you'll make in your life.
+svi *Scoff*
+mo Over the course of the next two months, we'll slowly get to know each other.
+mo We have lots of activities planned for you, so please, relax and enjoy your stay.
+mo Get to know one another, staff included.
+mo Push through your inadequacies and become better people.
+mo That is all.
+mo Does anyone have any questions?
+n Without waiting for an answer...
+mo No? Good.
+mo Alright, your first order of business for getting to know one another...
+mo Is to strip naked.
