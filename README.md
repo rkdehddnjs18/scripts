@@ -117,6 +117,17 @@ sed -i 's/^\(\s*\)nao /\1Naomi: /' *.txt
 sed -i 's/^\(\s*\)v /\1Violet: /' *.txt
 sed -i 's/^\(\s*\)b /\1Belle: /' *.txt
 sed -i 's/^\(\s*\)s /\1Stacy: /' *.txt
+sed -i 's/^\(\s*tut\) /\1:\t/' *.txt
+sed -i 's/^\(\s*hint\) /\1:\t/' *.txt
+sed -i 's/^\(\s*noname\) /\1:\t/' *.txt
+sed -i 's/^\(\s*svi\) /\1:\t/' *.txt
+sed -i 's/^\(\s*voice\) /\1:\t/' *.txt
+
+      2 hint
+      4 noname
+     18 svi
+     33 tut
+      1 voice
 
 # 캐릭터 이름 뒤에 탭 추가 (정렬을 위해)
 sed -i 's/^\(\s*\w\+:\) /\1\t/' *.txt
@@ -129,6 +140,46 @@ sed -i 's/\\n/ /g' *.txt
 
 # 이스케이프된 큰따옴표 '\"'를 일반 큰따옴표 '"'로 대체
 sed -i 's/\\"/"/g' *.txt
+
+# html  변환
+sed -i 's/\(\s*\)\(\w\+:\)/\1<div class="line"><span class="name">\2<\/span><div>/' e01.html
+sed -i 's/$/<\/div><\/div>/' e01.html
+sed -i 's/^\(\s\+\)<div class="line">/<div class="line">\1/' e01.html
+perl -i -pe '1 while s/( *?) {4}/$1<span class="indent"><\/span>/' e01.html
+sed -i '1i\
+<!DOCTYPE html>\
+<html>\
+<meta charset="utf-8">\
+<head>\
+\t<link rel="stylesheet" href="style.css">\
+</head>\
+<body>' e01.html
+printf '</body>\n</html>\n' >> e01.html
+
+find . -name "*.txt" -exec echo $0 {} \;
+
+find . -name "*.txt" | while IFS= read -r file; do echo "$0" "$file"; done
+
+
+# copy *.txt *.html
+for file in *.txt; do
+   cp $file "$(basename "$file" .txt).html"
+done
+
+# html 변환 일괄
+sed -i 's/\(\s*\)\(\w\+:\)/\1<div class="line"><span class="name">\2<\/span><div>/' *.html
+sed -i 's/$/<\/div><\/div>/' *.html
+sed -i 's/^\(\s\+\)<div class="line">/<div class="line">\1/' *.html
+perl -i -pe '1 while s/( *?) {4}/$1<span class="indent"><\/span>/' *.html
+sed -i '1i\
+<!DOCTYPE html>\
+<html>\
+<meta charset="utf-8">\
+<head>\
+\t<link rel="stylesheet" href="style.css">\
+</head>\
+<body>' *.html
+printf '</body>\n</html>\n' >> *.html
 ```
 
 ## License

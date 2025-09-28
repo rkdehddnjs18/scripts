@@ -1,0 +1,72 @@
+
+/* 각 대화 줄을 Flex 컨테이너로 설정 */
+.line {
+    display: flex; /* 이름과 대화 내용을 수평으로 배치하기 위함 */
+    /* 줄 바꿈을 허용하지 않음 (대화 내용이 다음 줄로 넘어가는 것을 이름이 막음) */
+    flex-wrap: nowrap; 
+    margin-bottom: 5px; /* 줄 간격 */
+    align-items: flex-start; /* 이름과 대화 내용의 윗줄을 맞춤 */
+}
+
+/* 1. 캐릭터 이름 (.name)은 고정된 너비를 갖는 Flex 아이템 */
+.name {
+    /* 이름 뒤에 빈 공간을 확보 */
+    width: 70px; 
+    flex-shrink: 0; /* 좁은 창에서 이름이 찌그러지지 않게 함 */
+    /* 이름 바로 뒤에 공백을 추가하여 콜론(:)과 대화 내용 사이의 간격을 확보 */
+    padding-right: 5px; 
+}
+
+/* 1. 캐릭터 이름 (.name)은 고정된 너비를 갖는 Flex 아이템 */
+.indent {
+    /* 이름 뒤에 빈 공간을 확보 */
+    width: 20px; 
+    flex-shrink: 0; /* 좁은 창에서 이름이 찌그러지지 않게 함 */
+    /* 이름 바로 뒤에 공백을 추가하여 콜론(:)과 대화 내용 사이의 간격을 확보 */
+/*    padding-right: 5px; */
+}
+
+/* 2. 대화 내용 (.dialogue)은 줄 바꿈이 가능한 블록 요소 */
+.dialogue {
+    /* 이름과 같은 줄에 시작하지만, 내용이 길어지면 줄 바꿈되도록 설정 */
+    flex-grow: 1; 
+    /* 줄 바꿈이 일어나도록 기본값(block) 유지 */
+    
+    /* * 이 부분이 핵심: 
+     * 'Narr:' 바로 옆에서 시작한 텍스트가 줄 바꿈될 때,
+     * Narr: 이 차지하는 공간을 무시하고 왼쪽 끝에서 다시 시작하도록
+     * 강제로 Flex 컨테이너 내부에서 줄 바꿈을 시도해야 합니다.
+     * * 하지만 Flexbox는 기본적으로 자식 요소에 대해서만 정렬을 제어하므로,
+     * 이 효과를 완벽히 구현하는 것은 CSS만으로는 매우 까다롭습니다.
+     * * 따라서, 가장 간단한 대안은 다음과 같습니다.
+     */
+     
+    /* 대화 내용이 줄 바꿈되면, 이름 아래에 들여쓰기 없이 붙도록 강제 */
+    white-space: normal;
+    word-break: break-word;
+    
+    /* 이름의 너비만큼 들여쓰기(-70px)를 해제하고,
+       나머지 영역을 100% 채우도록 함 */
+    margin-left: -75px; 
+    padding-left: 75px;
+    width: 100%; /* 너비를 100%로 설정하여 이름 아래로 밀어냄 */
+}
+
+/* Default light mode styles */
+body {
+    background-color: #ffffff;
+    color: #333333;
+    /* 모노스페이스 폰트 스택 */
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;    
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: #e0e0e0;
+    }
+    .dialogue-box {
+        color: #e0e0e0;
+    }
+}    
