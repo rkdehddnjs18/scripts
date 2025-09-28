@@ -36,7 +36,7 @@
         Me: 	Aahhh... (At least I got a little laugh out of this.)
         Me: 	(It looks like I still have an hour left to get some rest.)
         Me: 	Naomi?
-        Naomi:	"Hey, [m!t]..."
+        Naomi:	"Hey, Dennis..."
         Naomi:	"What are you doing right now?"
         Me: 	(She sent these recently...)
         Me: 	(I should reply to her.)
@@ -66,15 +66,15 @@
                         Naomi:	"Good, I like a man who listens... and does what he's told."
                             Naomi:	"Good, I like a man who listens... and does what he's told."
                                 Me: 	"And, I like a woman who knows what she wants."
-                                Naomi:	"Wooow, [m!t]. Very smooth."
-                                    Naomi:	"Wooow, [m!t]. Very smooth."
+                                Naomi:	"Wooow, Dennis. Very smooth."
+                                    Naomi:	"Wooow, Dennis. Very smooth."
                                         Naomi:	"That you are... So, indulge me Mr. Charming."
                                         Me: 	"In what way, little lady?"
                                         Me: 	"What? You're acting like that's a surprise to you."
                                 Me: 	"That's not a surprise to me, Naomi. You've made that clear."
                         Me: 	"Then I'd rather not be a part of that kind of "fun"."
         Naomi:	Such a gentleman.
-        Naomi:	"You know, [m!t]..."
+        Naomi:	"You know, Dennis..."
         Naomi:	"You're really fun."
         Me: 	"Happy to hear it. You are too, Naomi."
         Naomi:	"You really think so?"
@@ -213,14 +213,14 @@
                         Me: 	I already regret my choice.
                         Naomi:	Ah. I guess you'll just have to live with it.
                         Naomi:	For now.
-                        Naomi:	Talk to ya later, [m!t].
+                        Naomi:	Talk to ya later, Dennis.
                         Me: 	Bye, Naomi.
                         Me: 	(Shit, why did I refuse?)
                         Me: 	(I doubt I even have much time to rest anymore...)
                         Me: 	(20 minutes? Okay...)
                         Me: 	*Yawn* (Better than nothing, I guess.)
         Naomi:	*Sigh* Woooooow...
-        Naomi:	"I was just trying to have some fun with you, [m!t]."
+        Naomi:	"I was just trying to have some fun with you, Dennis."
         Naomi:	"But, you've shown me that you don't know how to have fun."
         Me: 	"Hey, I know how to have fun."
         Naomi:	"It doesn't seem like you do."
@@ -242,21 +242,21 @@
     Me: 	*Groans* Mrrffrr...
     Me: 	No... No... Just a little more.
     Me: 	Please...
-    Eve:	[m!ct]... [m!t]...
+    Eve:	[m!ct]... Dennis...
     Eve:	[m!ct], you have to wake up.
     Me: 	What? What is it?
     Eve:	[m!ct], I need you to wake up.
     Me: 	Eve? What do you need my help with?
     Eve:	Nothing right now.
     Eve:	But, you will be needed soon...
-    Eve:	And, you can't nap forever, [m!t].
+    Eve:	And, you can't nap forever, Dennis.
     Me: 	Yeah, I know...
     Me: 	I'm getting up.
     Eve:	Good.
     Eve:	I have to go gather the girls.
     Eve:	See you after the session.
     Me: 	See ya, Eve.
-Eve:	(It's nice that [m!t] got some rest.)
+Eve:	(It's nice that Dennis got some rest.)
 Eve:	(And, that he wasn't messing around...)
 Eve:	Hmm... (Hopefully he wasn't messing around.)
 Eve:	(I shouldn't doubt him.)
@@ -563,7 +563,7 @@ Emily:	With you.
 Me: 	You're really not gonna let go of this, are you?
 Emily:	Hmmm...
 Emily:	Nope. I'd really love to tag along.
-Emily:	Come ooooon, [m!t].
+Emily:	Come ooooon, Dennis.
 Me: 	I don't know...
 Me: 	Look. I wanted to talk to Stacy in private.
 Me: 	She's been acting off since this morning.
@@ -575,7 +575,7 @@ Emily:	Sounds like a real mystery.
 Emily:	I'm in!
 Me: 	Emily...
     Me: 	Emily...
-        Emily:	Pleeeeaaase, [m!t]!
+        Emily:	Pleeeeaaase, Dennis!
         Emily:	I'm going to nag you until you let me tag along.
         Me: 	Ugh!
         Me: 	You will never let it go...
@@ -605,14 +605,14 @@ Me: 	Emily...
         Me: 	Of course not.
         Me: 	A wizard does not see things he shouldn't...
         Me: 	...merely exactly the things he should.
-        Emily:	Okay [m!t] The Wise.
+        Emily:	Okay Dennis The Wise.
         Emily:	What do your wizard eyes tell you about that?
         Me: 	Oh. Well...
         Me: 	My wise eyes tell me we should approach the fair maiden.
         Me: 	Hey, Stacy. What're you up to?
         Stacy:	Huh? Oh, hello.
         Stacy:	What brings you two out here?
-        Emily:	Well, [m!t] just wanted to say hello.
+        Emily:	Well, Dennis just wanted to say hello.
         Emily:	And, to see how you are.
         Me: 	Yeah. I haven't seen you around much all day.
         Stacy:	I'm sorry about that.
@@ -725,7 +725,7 @@ Me: 	Emily...
         Emily:	I'm staff, too, ya know?
         Emily:	I'd bet Kiara is getting tired of waiting for me back at the house.
         Emily:	Bye Stacy!
-        Emily:	Thanks, [m!t]. I'm glad you let me join.
+        Emily:	Thanks, Dennis. I'm glad you let me join.
         Me: 	No problem, Em.
         Me: 	See ya soon.
         Me: 	Stacy, are you really okay?
@@ -743,7 +743,7 @@ Me: 	Emily...
         Me: 	She's the best adjusted of them.
         Me: 	You know that, Stacy.
         Stacy:	That is true...
-        Stacy:	Thank you, [m!t].
+        Stacy:	Thank you, Dennis.
         Stacy:	I appreciate the warmth of your kindness.
         Stacy:	But, I have to go.
         Me: 	It's okay, Stacy.
@@ -848,7 +848,7 @@ Me: 	What was it?
             Naomi:	Yeah, it's such a nice afternoon.
             Naomi:	We finally get a break.
             Me: 	Yeah, I have been sweating my balls off.
-            Naomi:	*Chuckle* [m!t]!
+            Naomi:	*Chuckle* Dennis!
             Me: 	Whoops! Sorry.
             Me: 	I forgot I shouldn't speak like a peasant in your presence.
             Naomi:	Quite right.
@@ -887,7 +887,7 @@ Me: 	What was it?
             Me: 	Very nice.
             Naomi:	Maybe that rating will increase as this place grows on me.
             Me: 	We can only hope.
-                Naomi:	Say, [m!t]...
+                Naomi:	Say, Dennis...
                 Me: 	Yeah?
                 Naomi:	I really did appreciate that you let me keep my phone.
                 Me: 	Oh, no problem.
@@ -911,7 +911,7 @@ Me: 	What was it?
                 Me: 	*Chuckle* I was just joking.
                 Me: 	I know you'd rather die.
                 Naomi:	*Laughs* You almost had me there for a second.
-                Naomi:	Hey, [m!t].
+                Naomi:	Hey, Dennis.
                 Me: 	Yeah?
                 Naomi:	Make sure to keep your phone close to you tonight.
                 Me: 	Will do. (What is she planning?)
@@ -948,7 +948,7 @@ Me: 	What was it?
                 Naomi:	You'll just have to wait and see.
                 Me: 	Oh, will I?
                 Me: 	I'm looking forward to it.
-                Naomi:	Hey, [m!t].
+                Naomi:	Hey, Dennis.
                 Me: 	Yeah?
                 Naomi:	Make sure to keep your phone close to you tonight.
                 Me: 	Will do. (What is she planning?)
@@ -1017,12 +1017,12 @@ Me: 	Might as well.
 Me: 	Hmppph.
 Me: 	Ah, I still got it.
 Narr:	As you line your next log up to be chopped, someone rounds the corner.
-Eve:	Wow, that was quite the clean cut, [m!t].
+Eve:	Wow, that was quite the clean cut, Dennis.
 Me: 	Oh. Hey, Eve.
 Me: 	Didn't notice you there.
 Eve:	Makes sense. It looks like you've been busy.
 Me: 	Yep. I thought I could lend a hand during my free time.
-Eve:	That's very kind of you, [m!t].
+Eve:	That's very kind of you, Dennis.
 Eve:	Would you care to take a walk?
 Me: 	Is something wrong?
 Eve:	Not at all.
@@ -1037,7 +1037,7 @@ Me: 	I have.
 Me: 	I feel like I've finally settled in.
 Eve:	That's wonderful.
 Me: 	How are you doing, Eve?
-Eve:	I'm doing well, [m!t].
+Eve:	I'm doing well, Dennis.
 Eve:	Thank you for asking.
 Me: 	Uhh, where are we going?
 Eve:	Oh, my usual afternoon route.
@@ -1070,7 +1070,7 @@ Me: 	How about...
         Eve:	That's a conversation for some other time.
         Eve:	Are you seeing anyone?
         Me: 	I was, but we broke it off.
-        Eve:	Oh, I'm so sorry, [m!t].
+        Eve:	Oh, I'm so sorry, Dennis.
         Eve:	How are you feeling?
         Me: 	I'm okay. I mean, I'm a bit sad.
         Me: 	I like Jane, but there's a lot of things happening in my life right now.
@@ -1102,7 +1102,7 @@ Me: 	How about...
         Me: 	Hmm?
         Eve:	The sun is already setting.
         Eve:	There's something I need to go prepare.
-        Eve:	I'll see you soon, [m!t].
+        Eve:	I'll see you soon, Dennis.
         Me: 	Oh. See you later, Eve.
         Me: 	I'd rather talk about camp.
         Eve:	So, are you enjoying your time here?
@@ -1119,7 +1119,7 @@ Me: 	How about...
         Me: 	(Is she fishing for information or...?)
         Me: 	Just in general. They are all unique, and very different from each other.
         Me: 	They bicker a lot, but I think they're growing on each other.
-        Eve:	Very perceptive of you, [m!t].
+        Eve:	Very perceptive of you, Dennis.
         Eve:	Ah yes, team spirit is something we want to focus on more.
         Eve:	Bonding is a very powerful element in therapy.
         Me: 	It is?
@@ -1142,7 +1142,7 @@ Me: 	How about...
         Me: 	I'll consider it.
         Eve:	Wonderful.
         Eve:	There's something I need to go prepare.
-        Eve:	I'll see you soon, [m!t].
+        Eve:	I'll see you soon, Dennis.
         Me: 	Oh. See you later, Eve.
 Narr:	Standing at the campground, you collect your thoughts...
 Narr:	Remembering Stacy's demeanor over the day.
@@ -1174,7 +1174,7 @@ Stacy:	Oh...
 Stacy:	My ashen prince...
 Me: 	And, to be honest, you look like you're freaked out by something.
 Me: 	Something I think I might also be feeling.
-Stacy:	What exactly do you mean by that, [m!t]?
+Stacy:	What exactly do you mean by that, Dennis?
 Me: 	I mean...
 Narr:	A sudden pang of doubt stops you.
 Me: 	(Since this morning it's as if her flame has faded.)
@@ -1511,7 +1511,7 @@ Eve:	That's wonderful to hear.
 Eve:	You're all in for quite a treat.
 Eve:	Come, sit.
 Eve:	Right over here, ladies.
-Eve:	You too, [m!t].
+Eve:	You too, Dennis.
 Me: 	My pleasure.
 Eve:	Oh. But, would you please start the fire for us, first?
 Me: 	It would be an honor.
@@ -1528,10 +1528,10 @@ Violet:	Yeah, there was a really nice breeze throughout the day.
 Naomi:	It was quite refreshing. Very much needed.
 Eve:	Ah, that's excellent.
 Eve:	As is that fire.
-Eve:	Well done, [m!t].
+Eve:	Well done, Dennis.
 Me: 	Thanks, Dr. Eve.
 Eve:	Excellent.
-Eve:	Now that the fire is burning nicely, and [m!t] has joined us...
+Eve:	Now that the fire is burning nicely, and Dennis has joined us...
 Eve:	We can begin.
 Narr:	Eve pauses for a moment, allowing the group to bask in the fire's warm glow.
 Narr:	The fire crackles and pops, releasing a shower of sparks.
@@ -1547,7 +1547,7 @@ Eve:	It's preeeetty spooky.
 Naomi:	Ooooh. Now you've gotten my attention.
 Me: 	Mine as well.
 Me: 	I don't think I've heard this one.
-Eve:	Oh, no. You haven't heard this one yet, [m!t].
+Eve:	Oh, no. You haven't heard this one yet, Dennis.
 Me: 	Nice. Then, please indulge us.
 Eve:	So...
 Eve:	When my mother was young she grew up in a small town deep in the Adirondacks.
@@ -1712,12 +1712,12 @@ Eve:	I've been around this camp long enough to know the lady is actually quite c
 Eve:	*Chuckle* If you can get beyond her rude stare.
 Eve:	I think that's all the time I have for stories, tonight.
 Eve:	You ladies can spend as much time here as you'd like before bed.
-Eve:	As long as [m!t] is okay with tending to the fire.
+Eve:	As long as Dennis is okay with tending to the fire.
 Me: 	I'm willing to, if you'd all like that.
 Belle:	I'd love that.
 Belle:	And, I'm guessing the other girls would, too.
 Naomi:	That would be nice.
-Violet:	Yeah, [m!t] is always welcome.
+Violet:	Yeah, Dennis is always welcome.
 Eve:	Then, I guess it's decided.
 Eve:	Goodnight, ladies.
 Eve:	[m!ct].
@@ -1834,7 +1834,7 @@ Me: 	(It would be pretty nice to join Naomi for a little bit.)
                 Narr:	She puts her legs around you...
                 Narr:	...as she rubs her vagina on your hard-on.
                 Me: 	Oooh. Mmm.
-                Belle:	Mmm, I love riding your cock, [m!t].
+                Belle:	Mmm, I love riding your cock, Dennis.
                 Me: 	I love this too...
                 Me: 	Don't stop.
                 Belle:	*Moans*
@@ -1875,7 +1875,7 @@ Me: 	(It would be pretty nice to join Naomi for a little bit.)
                 Me: 	Be careful! Bye!
         Narr:	Naomi's focus on the night sky is broken by you walking over to her.
         Narr:	However, she looks pleased by your arrival.
-        Naomi:	Hey, [m!t].
+        Naomi:	Hey, Dennis.
         Me: 	Enjoying the stars?
         Naomi:	I am.
         Me: 	Can I join you for a little bit?
@@ -1923,7 +1923,7 @@ Me: 	(It would be pretty nice to join Naomi for a little bit.)
             Naomi:	Then, let me make your wish come true.
             Narr:	You both share a brief, but passionate kiss.
             Narr:	The backdrop of stars makes the kiss especially romantic.
-            Naomi:	Hey, [m!t]?
+            Naomi:	Hey, Dennis?
             Me: 	Yeah?
             Naomi:	Can I take a pic of us?
             Me: 	Sure, Naomi.
@@ -1986,7 +1986,7 @@ Me: 	(It would be pretty nice to join Naomi for a little bit.)
             Naomi:	Then, let me make your wish come true.
             Narr:	You both share a brief, but passionate kiss.
             Narr:	The backdrop of stars makes the kiss especially romantic.
-            Naomi:	Hey, [m!t]?
+            Naomi:	Hey, Dennis?
             Me: 	Yeah?
             Naomi:	Do you have your phone on you?
             Me: 	Unfortunately not.
@@ -2158,7 +2158,7 @@ Me: 	Hmm...
                 Narr:	Your words are immediately met with Violet's soft lips.
                 Narr:	You surrender yourself to her gentleness while starlight reflects on the lake's surface.
                 Narr:	You place your tongue on Violet's neck and trace it along her silky skin.
-                Violet:	Mmm, keep going, [m!t].
+                Violet:	Mmm, keep going, Dennis.
                 Violet:	This feels nice.
                 Narr:	As your tongue returns to meet hers, your hand involuntarily moves down to Violet's ass.
                 Narr:	As you caress her, you feel Violet's lust for you grow stronger.
@@ -2186,7 +2186,7 @@ Me: 	Hmm...
                 Narr:	...you comply with her wishes and your tongue starts circling Violet's wet opening...
                 Narr:	...and enters inside.
                 Violet:	*Moans* Aah!
-                Violet:	Oh, [m!t]!
+                Violet:	Oh, Dennis!
                 Me: 	*Grunts*
                 Violet:	Gaaah!
                 Narr:	Violet's pussy is really wet as you easily slide your tongue in and out.
@@ -2207,7 +2207,7 @@ Me: 	Hmm...
                 Violet:	*MMpfh* *Slurp*
                 Me: 	Aaah!
                 Narr:	Focusing all the remaining attention to pleasuring Violet, you thoroughly explore her pussy with your tongue.
-                Violet:	I'm close, [m!t]...
+                Violet:	I'm close, Dennis...
                 Me: 	*Grunts*
                 Me: 	Me too.
                 Violet:	Mmm, this--
@@ -2269,17 +2269,17 @@ Me: 	Hmm...
                 Narr:	You lean onto Violet and kiss her passionately on the lips.
                 Narr:	You surrender yourself to her gentleness while starlight reflects on the lake's surface.
                 Narr:	You place your tongue on Violet's neck and trace it along her silky skin.
-                Violet:	Mmm, keep going, [m!t].
+                Violet:	Mmm, keep going, Dennis.
                 Violet:	This feels nice.
                 Narr:	As your tongue returns to meet hers, your hand involuntarily moves down to Violet's ass.
                 Narr:	As you caress her, you feel Violet's lust for you grow stronger.
                 Narr:	You gently push her on the floor and take her clothes off...
                 Narr:	...as she wordlessly watches you.
                 Narr:	As you lie onto her and kiss her, your hand finds her erect nipples.
-                Violet:	I'm beyond excited, [m!t].
+                Violet:	I'm beyond excited, Dennis.
                 Me: 	Mmm, I'm glad.
                 Narr:	Your mouth embraces Violet's erect nipple, as your other hand gently squeezes the other one.
-                Violet:	Oh, [m!t]...
+                Violet:	Oh, Dennis...
                 Me: 	I'll need you to spread your legs for me.
                 Narr:	Violet obeys and you position your head in between her legs...
                 Narr:	... as you start circling your tongue around her clit.
@@ -2363,7 +2363,7 @@ Me: 	Hmm...
             Belle:	(Even though the water was a bit cold, he delivered.)
             Belle:	(It was a smooth ride.)
             Belle:	(One I intend to ride again...)
-            Belle:	(I love teasing [m!t].)
+            Belle:	(I love teasing Dennis.)
             Belle:	(He's always so flustered around me.)
             Belle:	(It's cute.)
         Belle:	(I can't get enough of his long, thick, dick.)
@@ -2446,7 +2446,7 @@ Me: 	Hmm...
                 Belle:	Stuck Under the Bed.
                 Me: 	I get it...
                 Belle:	Oh no, I'm stuck and can't get out!
-                Belle:	Please help me, [m!t].
+                Belle:	Please help me, Dennis.
                 Me: 	I'm quite familiar with that trick...
                 Belle:	And, last but not least...
                 Belle:	A classic most of my follower adore.
@@ -2489,7 +2489,7 @@ Me: 	Hmm...
                     Belle:	Hhnngg... Mmm...
                     Me: 	*Moan* Fuu...
                     Me: 	Yeaaah...
-                    Belle:	Oooohhhh, [m!t]...
+                    Belle:	Oooohhhh, Dennis...
                     Belle:	*Gasps* Aaahhh...
                     Me: 	You know...
                     Me: 	You really shouldn't have stolen from someone like me.
@@ -2519,7 +2519,7 @@ Me: 	Hmm...
                     Belle:	Mmmm... Fuuuck yeah...
                     Me: 	*Quietly* How about the stepmom thing?
                     Belle:	Good choice.
-                    Belle:	Very kinky, [m!t]...
+                    Belle:	Very kinky, Dennis...
                 Belle:	*Gasp* What are you doing?
                 Me: 	Well, something private.
                 Me: 	I thought I could at least have some privacy in my own roon.
@@ -2608,7 +2608,7 @@ Me: 	Hmm...
                     Belle:	Oh, of course not...
                     Belle:	I'm happy to help.
                     Me: 	Great. It shouldn't be too hard...
-                    Belle:	Uh, [m!t]?
+                    Belle:	Uh, Dennis?
                     Me: 	Yeah?
                     Belle:	I think...
                     Belle:	I think I got stuck.
@@ -2730,7 +2730,7 @@ Me: 	Hmm...
                 Belle:	Aww... Well, it's okay.
                 Me: 	I'm glad you understand...
                 Me: 	It's not really in my control.
-                Belle:	Don't worry about it, [m!t].
+                Belle:	Don't worry about it, Dennis.
                 Narr:	You both get dressed quickly.
                 Belle:	So, handsome...
                 Belle:	Thanks again for this.
@@ -2819,8 +2819,8 @@ Me: 	Hmm...
             Narr:	Your body autonomously shudders at the thought.
             Me: 	(Eh, who knows.)
             Me: 	(Maybe I'm making it into a bigger deal than it really is.)
-            Me: 	(Come on, [m!t]. Just choose something.)
-                Me: 	(Come on, [m!t]. Just choose something.)
+            Me: 	(Come on, Dennis. Just choose something.)
+                Me: 	(Come on, Dennis. Just choose something.)
                     Me: 	(I think I'd rather just stay in, tonight.)
                     Me: 	(Hell, if she asks why I didn't come...)
                     Me: 	(I'll tell her I accidentally fell asleep.)
@@ -2846,7 +2846,7 @@ Me: 	Hmm...
             Me: 	(Eh, who knows.)
             Me: 	(Maybe I'm making this into a bigger deal than it really is.)
             Me: 	(I should decide something before it gets too late.)
-                Me: 	(Come on, [m!t]. Just choose something.)
+                Me: 	(Come on, Dennis. Just choose something.)
                     Me: 	(Why not?)
                     Me: 	(I'm sure it'll be a nice time.)
                     Me: 	(And, Naomi wouldn't appreciate being ghosted.)
@@ -3098,7 +3098,7 @@ Me: 	Hmm...
                             Me: 	Exactly.
                             Me: 	You're shaping up to be quite the a prolific writer.
                             Naomi:	Why, thank you.
-                            Naomi:	Good night, [m!t].
+                            Naomi:	Good night, Dennis.
                             Naomi:	I'm really happy we did this.
                             Me: 	Me too, Naomi.
                             Me: 	Good night.
@@ -3140,7 +3140,7 @@ Me: 	Hmm...
                             Naomi:	No need for words, then...
                             Me: 	Mmm.
                             Me: 	(Her lips are so soft...)
-                            Naomi:	You're a great kisser, [m!t]...
+                            Naomi:	You're a great kisser, Dennis...
                             Me: 	Thanks.
                             Naomi:	I hope you bring that same passion to everything you do.
                             Me: 	When it involves you, I think I do.
@@ -3222,7 +3222,7 @@ Me: 	Hmm...
                             Me: 	You can open your eyes, now.
                             Naomi:	Oh...
                             Me: 	What, you don't like the choice?
-                            Naomi:	No, no... It's very sentimental, [m!t].
+                            Naomi:	No, no... It's very sentimental, Dennis.
                             Me: 	I'm glad you think so.
                             Naomi:	However...
                             Naomi:	I'm not really sure what we can do out here?
@@ -3337,7 +3337,7 @@ Me: 	Hmm...
                             Narr:	You begin to drift to sleep.
                             Narr:	Luckily, you body jolts as if its falling, startling you out of sleep's grasp.
                             Me: 	Ah!
-                            Naomi:	What is it, [m!t]?
+                            Naomi:	What is it, Dennis?
                             Me: 	I was so comfortable I nearly fell asleep.
                             Me: 	We should head back before we fall asleep out here.
                             Naomi:	Yeah, we should.

@@ -14,7 +14,7 @@ Narr:	You get up from bed...
 Narr:	And get dressed.
 Narr:	Thinking of breakfast, you walk out of the room...
 Narr:	The moment you exit the room, you bump into Emily, who also just woke up.
-Emily:	*Mumbles* Good morning, [m!t].
+Emily:	*Mumbles* Good morning, Dennis.
 Me: 	Morning, Emily.
 Me: 	Sleep well?
 Emily:	Mhmmm...
@@ -31,7 +31,7 @@ Emily:	My beauty sleep is sacred.
 Emily:	She wouldn't dare.
 Me: 	*Chuckle* Scary.
 Me: 	(Not sure why she needs that much beauty sleep in the first place... She's pretty cute already.)
-Me: 	(Seriously, [m!t]? That's Emily, for fuck sake! Stop thinking that shit!)
+Me: 	(Seriously, Dennis? That's Emily, for fuck sake! Stop thinking that shit!)
 Narr:	Not long after, you two are down in the kitchen...
 Eve:	Morning, soldier.
 Me: 	Hi, Eve. (Ah, there's my answer.)
@@ -100,7 +100,7 @@ Me: 	You call that fun? (Does she think she'll impress me with this?)
 Emily:	Yeah, what's wrong with letting yourself go from time to time?
 Me: 	Sounds like a horrible way to spend your youth... or treat your body.
 Me: 	I'm not sure if these "friends" of yours are a good influence.
-Emily:	Oh, I'm sorry. I thought Eve left, and I'm talking to [m!t]...
+Emily:	Oh, I'm sorry. I thought Eve left, and I'm talking to Dennis...
 Emily:	Not the other way around.
 Emily:	It's so difficult to tell you two apart. (Why is he trying to school me?)
 Me: 	Now you're just trying to be mean.
@@ -119,14 +119,14 @@ Me: 	Just tell me what needs doing.
 Kiara:	Round up the patients and bring them to the Community Area.
 Kiara:	They'll have a short briefing and a private session with Eve.
 Me: 	Right.
-Kiara:	Oh and, [m!t]? Try not to ogle the patients too much.
+Kiara:	Oh and, Dennis? Try not to ogle the patients too much.
 Me: 	*Inaudible swearing*
 Narr:	With that, you leave the house...
     Narr:	After a knock...
     Naomi:	Come iiin!
     Me: 	(That's definitely Naomi. She sounds energetic...)
     Me: 	(Wonder what's up with h...)
-    Naomi:	Hey, [m!t]. I've been expecting you.
+    Naomi:	Hey, Dennis. I've been expecting you.
     Me: 	HOLY FUCK!
     Naomi:	Like what you see?
     Naomi:	Better than a picture, right?
@@ -232,7 +232,7 @@ Narr:	With that, you leave the house...
         Me: 	(Guess I should go to the Community Area...)
         Me: 	(Guess I should go find the rest of them...)
 Me: 	Hey, Violet.
-Violet:	Morning, [m!t]. Sleep well?
+Violet:	Morning, Dennis. Sleep well?
 Me: 	Like a log. You?
 Violet:	Not bad. Naomi helped.
 Me: 	Huh?
@@ -369,7 +369,7 @@ Me: 	Mhm... Very vague.
     Stacy:	Purging vile thoughts and sickness!
     Narr:	Unexpectedly, Stacy hugs you...
     Narr:	And plants a kiss on your cheek.
-    Stacy:	Thanks, [m!t].
+    Stacy:	Thanks, Dennis.
     Me: 	Yeeeah, no problem. (Was she for real?)
     Me: 	...
     Me: 	Ummm, you can let go now.
@@ -386,7 +386,7 @@ Me: 	Mhm... Very vague.
     Me: 	Hey, it's me. I was just...
     Me: 	What the...
     Narr:	Stacy stands in the middle of the room, staring at a lighter's flame.
-    Stacy:	Hi, [m!t].
+    Stacy:	Hi, Dennis.
     Me: 	What are you doing with that lighter!?
     Stacy:	Meditating, focusing, communing...
     Stacy:	Call it what you will.
@@ -517,7 +517,7 @@ Me: 	Mhm... Very vague.
 Eve:	Okay, everyone ready?
 Violet:	Aren't we missing someone?
 Stacy:	Belle.
-Eve:	Yeah, where's Belle? [m!t]?
+Eve:	Yeah, where's Belle? Dennis?
 Me: 	Probably still sleeping.
 Eve:	You didn't wake her up?
 Me: 	It's impossible to wake her up. (Not to mention, borderline life-ruining.)
@@ -570,7 +570,7 @@ Narr:	Belle rushes off to save her looks and charm.
 Me: 	(Wow, Eve's scary. She straightened her out in less than a minute.)
 Eve:	Anyway... I'll go "help" Belle.
 Eve:	So, please wait just a little while longer.
-Eve:	[m!t], keep the girls entertained. I'll be back soon.
+Eve:	Dennis, keep the girls entertained. I'll be back soon.
 Narr:	Everyone watches Eve walk away.
 Narr:	And once she's no longer in sight...
 Narr:	Their attention shifts elsewhere.
@@ -690,18 +690,18 @@ Me: 	I-I don't know. I'll probably be busy. (I need to get her off me somehow.)
         Me: 	Sorry...
         Narr:	With Emily still sitting on your lap, you stand up and lift her...
         Narr:	Trying your best not to let your boner touch her...
-        Emily:	Oh, my... (I didn't know [m!t] was this strong.)
+        Emily:	Oh, my... (I didn't know Dennis was this strong.)
         Emily:	Well aren't you a dream-boat... (He lifted me effortlessly.)
         Me: 	My leg was going numb, had to.
         Emily:	Mhmmm, I see... (You're full of shit.)
         Narr:	You put her down and quickly turn around.
         Narr:	Hoping she doesn't see your bulge...
         Me: 	I'm gonna go for a walk, see what's going on. (I need to get away from her.)
-        Emily:	Okay, have fun. (He's cute when he's flustered. I think [m!t] might be packing.)
+        Emily:	Okay, have fun. (He's cute when he's flustered. I think Dennis might be packing.)
         Emily:	(I wouldn't mind sneaking a peek...)
         Narr:	Finally, as you're about to leave...
         Narr:	You bump into Eve, turning the corner.
-        Eve:	Hey! What's the rush, [m!t]?
+        Eve:	Hey! What's the rush, Dennis?
         Me: 	Sorry. I was heading out.
         Eve:	Here, take this...
         Eve:	On that list you'll find several chores that need to be done.
@@ -720,7 +720,7 @@ Me: 	I-I don't know. I'll probably be busy. (I need to get her off me somehow.)
                 Me: 	I can't wait to prove you wrong.
                 Emily:	We'll see about that.
                 Me: 	Oh, we will see.
-                Emily:	Oookay, [m!t].
+                Emily:	Oookay, Dennis.
                 Me: 	See you in an hour!
                 Narr:	Feeling amused and surprisingly motivated, you speed off towards camp.
                 Me: 	No, thanks. I don't have anything to prove to you.
@@ -743,14 +743,14 @@ Me: 	I-I don't know. I'll probably be busy. (I need to get her off me somehow.)
         Emily:	Come oooooonnnnnn... (Damn, he's really hard...) 
         Emily:	I wanna spend some time with youuuu! (And huge!)
         Me: 	Alright, fine! We'll figure something out. (She's definitely grinding me on purpose. What is she thinking!?)
-        Emily:	Yaaay! Fun times with [m!t]! *Chuckles* (Maybe I'll even get to see it.)
+        Emily:	Yaaay! Fun times with Dennis! *Chuckles* (Maybe I'll even get to see it.)
         Narr:	Suddenly, Eve appears in the living room...
         Eve:	Thought I'd find you here.
         Emily:	Hi!
         Eve:	I'd appreciate it immensely if you could help out with this.
         Eve:	I know this wasn't what you had in mind, but...
         Emily:	[m!ct] would be happy to do it, right?
-        Eve:	You're a sweetheart, [m!t].
+        Eve:	You're a sweetheart, Dennis.
         Me: 	Great, thanks.
         Narr:	With that, Eve leaves the room.
         Narr:	Smiling sincerely, Emily turns back towards you.
@@ -760,7 +760,7 @@ Me: 	I-I don't know. I'll probably be busy. (I need to get her off me somehow.)
         Me: 	Hah-Umm, yeah...
         Emily:	Ooh, can't wait. *Chuckle*
         Me: 	Hah-Umm, yeah... (Someone kill me, please!)
-        Emily:	See you later, [m!t].
+        Emily:	See you later, Dennis.
         Narr:	Giggly and playful, Emily prances out of the room...
 Me: 	(I have what I need.)
         Me: 	For fuck's sake... (How am I supposed to fix the roof?)
@@ -1381,13 +1381,13 @@ Narr:	Walking through the house, you bump into Emily again...
     Emily:	Nothing wrong with checking to make sure you weren't cheating.
     Me: 	I always play fair.
     Emily:	We'll see...
-    Emily:	Catch ya later, [m!t]!
+    Emily:	Catch ya later, Dennis!
     Me: 	(Shit, it's Emily.)
     Me: 	(I can already picture her face when she finds out she won...)
     Me: 	*Sigh* (Let's just get this over with.)
     Emily:	Something wrong?
     Me: 	Uhh, not really. (Wait for it, wait for it...)
-    Emily:	You look all flustered, [m!t]. Hope you're not working too much.
+    Emily:	You look all flustered, Dennis. Hope you're not working too much.
     Narr:	Without saying another word, Emily continues on her trajectory.
     Me: 	(Did she just... Forget?)
     Me: 	(How could she forget!? I thought it would've been the highlight of her day...)

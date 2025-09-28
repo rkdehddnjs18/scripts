@@ -219,7 +219,7 @@ Jane:	*Pant* *Pant* Phew...
 Me: 	*Pant* *Cough* "Phew", indeed.
 Narr:	Turning your head towards her...
 Narr:	There was just enough light to see her beautiful face.
-Jane:	I like you a lot, [m!t].
+Jane:	I like you a lot, Dennis.
 Me: 	Thanks… You’re also kinda the best.
 Narr:	A satisfied smile forms on her face.
 Narr:	Suddenly changing the subject...
@@ -301,7 +301,7 @@ Narr:	Interrupted again.
 Me: 	Ughh!
 Narr:	Angrily, you pick up the phone and answer...
 Me: 	WHAT?!
-Eve:	I'm so sorry to bother you this late, [m!t].
+Eve:	I'm so sorry to bother you this late, Dennis.
 Me: 	Sorry for yelling. I'm in the middle of something...
 Eve:	I wouldn't be calling if it weren't so important.
 Me: 	What's going on?
@@ -315,12 +315,12 @@ Eve:	*I'll explain everything when you get here.*
 Me: 	Can't I even say no?
 Eve:	*...*
 Me: 	I really can't come. You'll have to find someone else.
-Eve:	*I need you here, [m!t]. Tomorrow.*
+Eve:	*I need you here, Dennis. Tomorrow.*
 Me: 	Tomorrow?! What the--
 Eve:	*[m!ct], I'm depending on you.*
 Jane:	(Seriously?! Tomorrow?!)
 Me: 	Ugh!
-Eve:	*I can't do this without you, [m!t]. I need someone here that I can depend on.*
+Eve:	*I can't do this without you, Dennis. I need someone here that I can depend on.*
 Narr:	Trying not to blow a fuse, you stay silent.
 Eve:	*Take a bus tomorrow. There's one leaving at 5 AM.*
 Me: 	And you only NOW decided to tell me?! Literally, six hours in advance?!
@@ -328,7 +328,7 @@ Eve:	*My apprentice cancelled last minute.*
 Eve:	*I'll make it up to you, I promise.*
 Me: 	Fine, I'll come.
 Me: 	But I'm really not happy about this, Eve.
-Eve:	*You're a lifesaver, [m!t].*
+Eve:	*You're a lifesaver, Dennis.*
 Eve:	*I knew I could count on you.*
 Jane:	What happened?
 Me: 	I... Uhh....

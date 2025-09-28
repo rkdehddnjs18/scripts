@@ -47,7 +47,7 @@ Me: 	(Otherwise she'll get away!)
     Stacy:	I pray we dance like rising sparks again in the future.
     Me: 	I'm looking forward to it.
     Narr:	Stacy gives you a gentle kiss on the cheek before wishing you goodnight.
-    Stacy:	Good night, [m!t].
+    Stacy:	Good night, Dennis.
     Me: 	Good night, Stacy.
     Me: 	(I really have to go look for Emily, now.)
     Me: 	Hmm... (Where should the search begin?)
@@ -79,7 +79,7 @@ Me: 	(Otherwise she'll get away!)
     Me: 	(But, it looks like Stacy and Belle are sleeping.)
     Me: 	(And, Emily isn't in there.)
     Me: 	(I better get out of here...
-    Me: 	(Before Belle's [m!t]-sense starts tingling.)
+    Me: 	(Before Belle's Dennis-sense starts tingling.)
     Me: 	(I should look for Emily somewhere else.)
     Me: 	(Well.)
     Me: 	(I didn't find her at the campground...)
@@ -119,7 +119,7 @@ Me: 	(Otherwise she'll get away!)
     Me: 	(Is Emily... crying?)
     Me: 	Uhh... Hey, Em.
     Narr:	Realizing she's no longer alone, Emily looks shocked.
-    Emily:	*Sniff* Hey, [m!t]. What's... up?
+    Emily:	*Sniff* Hey, Dennis. What's... up?
     Me: 	Uhh... Not much.
     Me: 	Are you okay?
         Emily:	Yeah, I'm fine. Why do you ask?
@@ -202,11 +202,11 @@ Me: 	(Otherwise she'll get away!)
     Me: 	Yeah. Thanks, Em.
     Me: 	I think I'm gonna head back to bed.
     Emily:	Okay, I'll stay out here a little bit longer.
-    Emily:	[m!t]...
+    Emily:	Dennis...
     Emily:	Don't worry about me.
     Emily:	I'll be okay.
     Me: 	Okay. Good night, Emily.
-    Emily:	Night, [m!t].
+    Emily:	Night, Dennis.
     Narr:	As you walk away from the gazebo...
     Narr:	The mystery consumes your mind once more.
     Me: 	(I really need to sleep on this new information.)
@@ -254,9 +254,9 @@ Me: 	(Otherwise she'll get away!)
     Me: 	Okay, I'll stay out here a bit longer.
     Me: 	You gonna be okay?
     Emily:	Yeah, I'll be fine.
-    Emily:	Thanks for listening to me, [m!t].
+    Emily:	Thanks for listening to me, Dennis.
     Me: 	Anytime. Good night, Em.
-    Emily:	Night, [m!t].
+    Emily:	Night, Dennis.
     Narr:	As Emily walks away from the gazebo...
     Narr:	The mystery consumes your mind once more.
     Narr:	You think about it a bit longer...
@@ -297,7 +297,7 @@ Me: 	(Otherwise she'll get away!)
     Narr:	Almost immediately, you spot Emily trying to hide behind the furniture.
     Me: 	Uhh...
     Me: 	Emily? What are you doing?
-    Emily:	Oh! Hey [m!t], I was just...
+    Emily:	Oh! Hey Dennis, I was just...
     Emily:	Uh... Just looking for something I left out here.
     Me: 	(She's a terrible bluffer...)
     Emily:	Here it is! My favorite... leaf.
@@ -316,7 +316,7 @@ Me: 	(Otherwise she'll get away!)
     Emily:	I have a hard time falling asleep, sometimes.
     Emily:	*Nervous chuckle* Guess it's just one of those nights.
     Me: 	Emily... Can I ask you something?
-        Emily:	Uhh... Sure, [m!t]. What is it?
+        Emily:	Uhh... Sure, Dennis. What is it?
                 Emily:	Maybe... Maybe I have been, a little.
                         Emily:	Well... I have a secret.
                                 Emily:	Well... What do I get for telling you?
@@ -339,7 +339,7 @@ Me: 	(Otherwise she'll get away!)
                                 Emily:	Did you? That's craaaazy. Is there something else? I'd like to go back to bed.
                                     Me: 	Yeah, there was one other thing... Did you tie me up the other night?
                                     Me: 	Does Leafy know... who tied me up the other night?
-    Emily:	I don't like how you're talking to me, [m!t]...
+    Emily:	I don't like how you're talking to me, Dennis...
     Me: 	I don't like that someone tied me up!
     Emily:	([m!ct] really is bothered by this...)
     Narr:	Despite her initial fright, Emily smirks...
@@ -494,7 +494,7 @@ Me: 	(Otherwise she'll get away!)
     Emily:	Who knows their way around camp the best?
     Me: 	There are a few people...
     Emily:	*Sigh* Well, just keep thinking it over.
-    Emily:	I'd love to spend more time with you, [m!t]...
+    Emily:	I'd love to spend more time with you, Dennis...
     Emily:	But, I'm getting sleepy.
     Emily:	I'm gonna head off to bed.
     Emily:	Night-night!
@@ -596,7 +596,7 @@ Me: 	(I need to solve this thing...)
 Me: 	(...so I can finally move on.)
 Narr:	Suddenly, Kiara shows up in the kitchen.
 Narr:	Interrupting your contemplation.
-Kiara:	Morning, [m!t]!
+Kiara:	Morning, Dennis!
 Me: 	Ah!
 Me: 	*Chuckle* You surprised me, Kiara.
 Kiara:	Looks like you were lost in thought.
@@ -644,7 +644,7 @@ Eve:	Determined by the results of their pre-evaluations.
 Eve:	Does that make sense to you guys?
 Eve:	Mostly, the task will be escorting them here and there.
 Eve:	Kiara. You'll go to the city to get things for the barbecue.
-Eve:	Emily, and [m!t]...
+Eve:	Emily, and Dennis...
 Eve:	You'll be in charge of accompanying the girls, today.
 Me: 	(Are we really just glorified chauffers?)
 Eve:	Does everyone understand their tasks?
@@ -661,7 +661,7 @@ Narr:	She smiles at you while walking toward the front door.
 Me: 	See you.
 Emily:	Hrmph.
 Eve:	Please don't crash the car...
-Kiara:	That's something [m!t] would do, not me!
+Kiara:	That's something Dennis would do, not me!
 Me: 	Ha-ha... (She sure is playing it cool...)
 Me: 	(If she's hiding anything, she's hiding it well.)
 Eve:	You two.
@@ -669,10 +669,10 @@ Eve:	Please, go get the girls and bring them back here.
 Emily:	Where?
 Eve:	Out behind the Community Area, to the deck.
 Emily:	Okay! See ya soon.
-Eve:	You better get going too, [m!t].
+Eve:	You better get going too, Dennis.
 Me: 	I was just about to.
 Me: 	See you soon.
-Eve:	Bye, [m!t].
+Eve:	Bye, Dennis.
 Narr:	You stand up from your seat at the table,
 Narr:	and head for the front door.
     Narr:	Approaching Emily...
@@ -721,7 +721,7 @@ Narr:	and head for the front door.
     Me: 	(Is she faking it, or did she forgive me?)
     Narr:	Emily walks ahead of you, toward the girls' cabins.
     Narr:	Emily waits for you at the door.
-    Emily:	Let's get to it, [m!t].
+    Emily:	Let's get to it, Dennis.
     Narr:	She leads the way outside.
     Narr:	Out on the path, you begin to chat.
     Me: 	How'd you sleep?
@@ -757,7 +757,7 @@ Narr:	and head for the front door.
     Me: 	I had my suspicions.
     Me: 	I just wanted to hear some kind of confirmation.
     Emily:	And, now you have.
-    Emily:	Hey, [m!t].
+    Emily:	Hey, Dennis.
     Me: 	What?
     Emily:	Maybe I can teach you some of my detective skills sometime.
     Me: 	Why not.
@@ -846,7 +846,7 @@ Narr:	Violet seems slightly annoyed by the conversation...
 Violet:	Can we talk about less... materialistic things, please?
 Naomi:	Do you have something better on your mind?
 Violet:	Not really...
-Violet:	Maybe [m!t] can suggest something.
+Violet:	Maybe Dennis can suggest something.
     Naomi:	Well, what do you want to talk about?
         Me: 	How is it being at camp now that a few days have passed?
             Naomi:	How is it? Hot, dusty, and there are SO MANY mosquitos...
@@ -881,7 +881,7 @@ Violet:	Maybe [m!t] can suggest something.
                                 Me: 	*Chuckle* Right, so no frills. Looks like we got our answer.
                             Violet:	Yeah, something more along those lines. Black, form-fitting.
                                 Me: 	Wow, that actually does sound pretty... elegant.
-Naomi:	You're too sweet, [m!t].
+Naomi:	You're too sweet, Dennis.
 Naomi:	(Does he really like my story?)
 Naomi:	(...)
 Me: 	I mean it. Just keep at it.
@@ -917,12 +917,12 @@ Violet:	You're such a relentless witch!
 Naomi:	And you're a--
 Narr:	As Naomi was about to speak...
 Narr:	Violet appears flattered.
-Violet:	Well... Thank you, [m!t].
+Violet:	Well... Thank you, Dennis.
 Me: 	No problem, I'm just being honest...
 Violet:	(He's such a gentleman...)
 Narr:	Shortly after your flirtatious response...
 Narr:	...Eve and the first group come back outside, onto the deck.
-Belle:	Miss me, [m!t]?
+Belle:	Miss me, Dennis?
 Me: 	(Not particularly.)
 Me: 	Hey, Belle.
 Eve:	Well, that's it for our first group's pre-evaluations.
@@ -931,7 +931,7 @@ Eve:	Keep these young ladies company.
 Eve:	Naomi and Violet, please follow me.
 Narr:	Eve, followed by Naomi and Violet, go inside quickly.
 Narr:	You and Emily are left on the deck with Belle and Stacy.
-Stacy:	Hello, [m!t].
+Stacy:	Hello, Dennis.
 Me: 	Hi, Stacy. How was the pre-evaluation?
 Stacy:	It was quite fine.
 Stacy:	Although, I still don't get why there were so few questions about fire.
@@ -940,7 +940,7 @@ Me: 	(Huh, that is a bit weird.)
 Me: 	(Why not ask the flame fanatic about fire?)
 Me: 	(Or the nympho about sex?)
 Narr:	You spend a few moments lost in thought.
-Belle:	Hmm... It looks like [m!t] might need to fill out that pre-evaluation, too.
+Belle:	Hmm... It looks like Dennis might need to fill out that pre-evaluation, too.
 Stacy:	*Giggle* I believe you may be right, Belle.
 Me: 	Pssht. I was just thinking.
 Belle:	You sure your brain isn't experiencing framerate drops?
@@ -955,7 +955,7 @@ Me: 	(She better not...)
 Stacy:	*Whisper* The flame tells me many things.
 Me: 	(Phew. Okay, just the usual.)
 Belle:	My lips are sealed...
-Belle:	But, maaaaybe [m!t] can unseal these lips.
+Belle:	But, maaaaybe Dennis can unseal these lips.
 Belle:	(I'd love it if he opened them with something special...)
 Narr:	Emily, once again annoyed by Belle's flirtatiousness, asks you a question.
     Emily:	So! Whose gossip do you want to hear?
@@ -988,7 +988,7 @@ Narr:	Emily, once again annoyed by Belle's flirtatiousness, asks you a question.
                             Stacy:	The flame gives what it gives. Be content. Follow the clues.
                                 Me: 	I will walk with fire, and fire will walk with me.
                         Me: 	I guess we just need to follow the signs, then.
-Belle:	You know, [m!t]?
+Belle:	You know, Dennis?
 Belle:	You're really no fun.
 Me: 	Well, that's fine.
 Me: 	I'm not here to entertain you.
@@ -1025,14 +1025,14 @@ Stacy:	(I trusted him with my soul's flame...)
 Me: 	Stacy, I'm sorry for messing with you like that.
 Me: 	(I really fucked up, now.)
 Me: 	I won't do it again.
-Stacy:	You will need to make amends better than that, [m!t].
+Stacy:	You will need to make amends better than that, Dennis.
 Stacy:	For now, begone from my warmth.
 Narr:	Stacy's anger kills the previously light mood.
 Narr:	You bask in the consequences of your breach of Stacy's trust...
 Narr:	...you all remain quiet for a moment...
 Narr:	This allows everyone a moment of calm.
 Narr:	Stacy scowls, before turning away from you.
-Stacy:	Neither I, nor the Heavenly Phoenix-Lotus appreciate your sarcasm, [m!t].
+Stacy:	Neither I, nor the Heavenly Phoenix-Lotus appreciate your sarcasm, Dennis.
 Me: 	(She really takes her beliefs seriously...)
 Me: 	I'm sorry, Stacy...
 Me: 	I should have been more respectful.
@@ -1092,9 +1092,9 @@ Narr:	Trying the door, Belle is surprised when it swings open.
 Belle:	(Bingo!)
 Belle:	(Oh my...)
 Belle:	(What a great surprise...)
-Belle:	(It's [m!t]'s room!)
+Belle:	(It's Dennis's room!)
     Narr:	Belle goes into your room without a second thought.
-    Belle:	(Ohohoho... What precious loot is [m!t] hiding?)
+    Belle:	(Ohohoho... What precious loot is Dennis hiding?)
     Belle:	(Some clothes...)
     Belle:	(Underwear...)
     Narr:	Belle continues rummaging through your belongings playfully.
@@ -1102,7 +1102,7 @@ Belle:	(It's [m!t]'s room!)
     Belle:	(Oh? What's this?)
     Belle:	(A key?)
     Belle:	(I should hold on to this...)
-    Belle:	*Quiet laugh* (Maybe the key goes to the vault [m!t] hides our nudes in.)
+    Belle:	*Quiet laugh* (Maybe the key goes to the vault Dennis hides our nudes in.)
     Belle:	(Or...)
     Belle:	(Maybe...)
     Belle:	(Maybe it goes to one of the locked doors on this floor?)
@@ -1110,7 +1110,7 @@ Belle:	(It's [m!t]'s room!)
     Narr:	Belle gives your room another good look before leaving.
     Narr:	She enters the bathroom and closes the door behind her.
     Narr:	Belle goes into your room without a second thought.
-    Belle:	(Ohohoho... What precious loot is [m!t] hiding?)
+    Belle:	(Ohohoho... What precious loot is Dennis hiding?)
     Narr:	Belle begins poking around your belongings.
     Belle:	(Some clothes...)
     Belle:	(Laptop on the desk...)
@@ -1143,7 +1143,7 @@ Eve:	I will need some time to prepare for your sessions, though.
 Eve:	So, that gives everyone a bit of free time, before we begin.
 Me: 	Free time?
 Eve:	Oh, no.
-Eve:	Not for you, [m!t].
+Eve:	Not for you, Dennis.
 Eve:	You'll need to help us out around the house a bit.
 Eve:	The ladies can spend this time however they want.
 Belle:	However?
@@ -1202,7 +1202,7 @@ Eve:	Yes.
 Me: 	Wow... Time flies, I guess.
 Eve:	Oh? The chores didn't bore you?
 Me: 	I don't really mind them as much, anymore.
-Eve:	Well, that's wonderful, [m!t].
+Eve:	Well, that's wonderful, Dennis.
 Eve:	([m!ct]'s maturing quite a lot this summer.)
 Narr:	As Eve gives you a reassuring smile, the girls come down the path.
 Belle:	We're heeeeere!
@@ -1263,7 +1263,7 @@ Eve:	Well, only if you agree to help Naomi out.
 Eve:	I can't force you to do anything.
 Naomi:	Wait, yes you can!
 Naomi:	You do it all the time!
-Eve:	In this situation, it's best that [m!t] chooses.
+Eve:	In this situation, it's best that Dennis chooses.
 Eve:	I just want to come back to some work being done.
 Eve:	See you soon!
 Naomi:	Ugh! I hate this place!
@@ -1295,7 +1295,7 @@ Me: 	(Maybe if I start cleaning the area, she'll follow my lead...)
         Me: 	You can always do a little raking, and I can clear the weeds and brush.
         Narr:	At first, Naomi looks appalled by the suggestion...
         Narr:	However, after a bit more time spent mostly in silence, watching you rake...
-        Naomi:	Hey, [m!t]...
+        Naomi:	Hey, Dennis...
         Naomi:	Hand me the rake, please.
         Me: 	Huh?
         Me: 	You're feeling up to the task, now?
@@ -1369,7 +1369,7 @@ Me: 	(Maybe if I start cleaning the area, she'll follow my lead...)
         Narr:	Focused on the task at hand, you begin pulling out the weeds and dry brush.
         Narr:	At first, Naomi looks annoyed by how you acted...
         Narr:	However, after a bit more time watching you work hard, she speaks.
-        Naomi:	Hey, [m!t]...
+        Naomi:	Hey, Dennis...
         Me: 	Yeah?
         Naomi:	I'm still not over your approach to getting me working...
         Naomi:	But, I appreciate that you helped me out immediately.
@@ -1483,7 +1483,7 @@ Me: 	Okay.
 Me: 	Thank you, Naomi.
 Narr:	Naomi smiles at you with warm kindness...
 Narr:	...and growing affection.
-Naomi:	You're a nice guy, [m!t].
+Naomi:	You're a nice guy, Dennis.
 Me: 	(Huh?)
 Me: 	Uh, thanks, Naomi.
 Me: 	I think you're a nice girl, too.
@@ -1515,12 +1515,12 @@ Naomi:	Why, thank you!
 Eve:	So, how did that feel, Naomi?
 Eve:	That wasn't too difficult, now, was it?
 Naomi:	Actually... It wasn't that terrible.
-Naomi:	*Softly* [m!t] actually helped out a lot.
+Naomi:	*Softly* Dennis actually helped out a lot.
 Eve:	Hmm... How kind of him.
 Me: 	It was nothing.
 Eve:	Naomi. You and I will have a short debrief later in the day.
 Eve:	At the moment, I'm a bit behind schedule.
-Eve:	So, [m!t], why don't you show Naomi back to the campground?
+Eve:	So, Dennis, why don't you show Naomi back to the campground?
 Me: 	It would be my pleasure.
 Eve:	Wonderful. See you both later.
 Me: 	Shall we?
@@ -1530,7 +1530,7 @@ Naomi:	You were quite a fine "chauffer".
 Naomi:	You're dismissed for the time being.
 Me: 	If you insist.
 Me: 	Till we meet again.
-Naomi:	Toodles, [m!t]!
+Naomi:	Toodles, Dennis!
 Narr:	Having been dismissed by Naomi, you decide to head back to the house.
 Me: 	Ahh... (I finally have a little time to relax...)
 Narr:	You make your way back through the campground, and to the house.
@@ -1594,7 +1594,7 @@ Me: 	(If she spots me behind this rock, I'm screwed.)
 Narr:	As you think that dreadful thought...
 Narr:	...Emily skips one more stone...
 Narr:	...before she notices you crouched behind the rock.
-Emily:	Oh, hi [m!t]!
+Emily:	Oh, hi Dennis!
 Me: 	(Damn, she noticed me!)
 Narr:	Realizing your cover is blown, you stand up, greeting Emily.
 Me: 	Hey, Em!
@@ -1620,7 +1620,7 @@ Me: 	And, uhh... decided to investigate.
 Emily:	Oh? So, you're a reptile detective now?
 Me: 	I... I guess so, Em.
 Emily:	*Giggle*
-Emily:	Smart choice, [m!t].
+Emily:	Smart choice, Dennis.
 Emily:	Starting with the easier cases, and working your way up.
 Me: 	Yep, you gotta start somewhere.
 Me: 	Anyway...
@@ -1635,7 +1635,7 @@ Me: 	(Flat, angled parallel to the water, and--)
 Narr:	You flick your wrist, sending the rock flying.
 Narr:	You both watch it skip three times, then fumble and sink into the water.
 Me: 	(A decent attempt...)
-Emily:	Good job, [m!t]!
+Emily:	Good job, Dennis!
 Emily:	But, watch this.
 Narr:	Emily bends down...
 Narr:	...and grabs a smooth, flat stone.
@@ -1662,7 +1662,7 @@ Narr:	As Emily begins training you in the ancient art of stone skipping...
 Narr:	You see Eve and Belle begin their session on the dock.
 Me: 	(Damn it, I missed my chance to listen in on their meditation session...)
 Me: 	(When did they even get there?)
-Emily:	Hellooooo, [m!t].
+Emily:	Hellooooo, Dennis.
 Emily:	Was my lecture that boring?
 Me: 	Huh? Oh, no. Sorry.
 Me: 	I zoned out for a second.
@@ -1680,7 +1680,7 @@ Emily:	Wooooah!
 Narr:	As you watch the stone skip across the lake...
 Narr:	...you glance back at the dock and see Eve and Belle standing up.
 Narr:	On the seventh skip the rock sinks into the water.
-Emily:	7 skips, [m!t]! You tied my record!
+Emily:	7 skips, Dennis! You tied my record!
 Narr:	You see Eve and Belle leaving the dock, going back to the campgrounds.
 Me: 	(Ugh... They're going back to camp, now.)
 Emily:	You have learned well, grasshopper.
@@ -1688,7 +1688,7 @@ Me: 	Thanks, sensei.
 Narr:	In passing, Eve turns toward the two of you and waves.
 Eve:	Hey you two, it's lunch time!
 Narr:	As you begin to walk back toward the camp, Emily grabs your arm.
-Emily:	Wait a sec, [m!t]...
+Emily:	Wait a sec, Dennis...
 Emily:	There's something I need to admit...
 Me: 	What is it?
 Emily:	I've been manipulating you... a teensy bit.
@@ -1710,7 +1710,7 @@ Emily:	I didn't mean to torture you...
 Me: 	I'm shocked... but...
 Me: 	(She seems genuinely apologetic...)
 Me: 	I forgive you.
-Emily:	Oh, really, [m!t]?
+Emily:	Oh, really, Dennis?
 Emily:	Thank you, thank you so much.
 Narr:	Emily jumps on you, hugging you tightly.
 Me: 	Em...
@@ -1863,30 +1863,30 @@ Me: 	(It's a pretty nice day.)
 Me: 	(Kinda getting hot, though.)
 Narr:	Emily skips a few more stones, while you relax on the dock...
 Narr:	Before Eve and Belle arrive.
-Eve:	Oh, hi [m!t].
+Eve:	Oh, hi Dennis.
 Me: 	Hey Eve.
-Belle:	Heeeey, [m!t]. What're you up to?
+Belle:	Heeeey, Dennis. What're you up to?
 Me: 	Just enjoying the lake.
 Eve:	Sorry for doing this... but, you'll need to find another spot.
 Eve:	We need some privacy for Belle's session.
 Me: 	Ah, yeah... no prob--
-Belle:	Please, Eve. Let [m!t] join us.
+Belle:	Please, Eve. Let Dennis join us.
 Me: 	(She's really roping me into this!?)
 Eve:	I don't think that's a good idea.
 Belle:	I think he'd be great support.
-Belle:	I'd feel more relaxed with [m!t] joining in the meditation.
+Belle:	I'd feel more relaxed with Dennis joining in the meditation.
 Eve:	Belle, no.
 Eve:	That would definitely distract you.
 Belle:	How is this fair?
-Belle:	Naomi had [m!t]'s support during her session...
+Belle:	Naomi had Dennis's support during her session...
 Belle:	That just doesn't seem fair to me.
 Eve:	Well...
 Eve:	*Sigh* Okay.
 Eve:	If you promise to take this seriously, Belle.
-Eve:	And, if [m!t] promises to be quiet and courteous.
+Eve:	And, if Dennis promises to be quiet and courteous.
 Me: 	Deal.
 Belle:	Thanks, Eve!
-Eve:	Belle, [m!t].
+Eve:	Belle, Dennis.
 Eve:	Please, sit down and get into a comfortable position.
 Narr:	You and Belle sit down, cross-legged.
 Eve:	Good. Now, close your eyes.
@@ -1963,7 +1963,7 @@ Narr:	Eve stands up first, then you stand.
 Me: 	Need a hand?
 Belle:	(Giving me a hand after I gave you one?)
 Narr:	You offer your hand to Belle, helping her up.
-Belle:	You're such a gentleman, [m!t].
+Belle:	You're such a gentleman, Dennis.
 Eve:	Well, that's it for your session for today, Belle.
 Eve:	Now, it's lunch time.
 Narr:	As you stand before Eve, she unfortunately notices your bulge.
@@ -1991,7 +1991,7 @@ Me: 	(What even is this?)
 Me: 	(Who makes these shows, anyway?)
 Me: 	*Yawn* (This is why TV is dead...)
 Narr:	Luckily for you, the front door opens and Kiara walks in with the groceries.
-Kiara:	Oh, hey [m!t]. How's it going?
+Kiara:	Oh, hey Dennis. How's it going?
 Me: 	Hey, Kiara. Need any help?
 Kiara:	Oh, no no. It's fine. 
 Kiara:	I'll just put these in the kitchen, and be right back.
@@ -2006,7 +2006,7 @@ Me: 	Oh, nothing really.
 Me: 	There's nothing good on right now.
 Narr:	You turn the TV off, giving you and Kiara the chance to talk.
 Me: 	Hey, Kiara...
-Kiara:	Hey, [m!t].
+Kiara:	Hey, Dennis.
 Me: 	Can I ask you something?
     Kiara:	Sure. What's up?
         Me: 	I want to cut the BS... Why did you have that rope and mask?
@@ -2025,7 +2025,7 @@ Me: 	Can I ask you something?
                 Me: 	Yeah. Specifically, it was about that rope and mask.
                     Kiara:	Oh yeah. I told you that night, though. I don't know how that stuff got under my bed.
                         Me: 	That's the big mystery now... Anyway, thanks for the help.
-Kiara:	Look, [m!t]... I really have to get going.
+Kiara:	Look, Dennis... I really have to get going.
 Kiara:	I'm supposed to prepare lunch for today, and I'm already running late.
 Me: 	(She definitely seems anxious.)
 Me: 	(My questioning probably spooked her.)
@@ -2058,7 +2058,7 @@ Me: 	Well, if you say so...
 Narr:	In a flash, Kiara is done making the sandwiches.
 Narr:	Immediately after...
 Narr:	She takes the sandwiches piled on the tray out the front door.
-Kiara:	See you at lunch, [m!t]!
+Kiara:	See you at lunch, Dennis!
 Me: 	Oh, not waiting for me?
 Kiara:	Can't! Sorry!
 Kiara:	I'm already running late. Lunch should have started 15 minutes ago...
@@ -2081,12 +2081,12 @@ Eve:	It's my pleasure.
 Narr:	Kiara distributes the rest of the sandwiches to the girls...
 Narr:	Leaving four sandwiches for the Red Falls staff.
 Narr:	Kiara approaches you cautiously, but collectedly.
-Kiara:	Here you go, [m!t].
+Kiara:	Here you go, Dennis.
 Kiara:	Bon appétit.
 Me: 	Thanks, Kiara.
 Narr:	Feeling the tension from Kiara, you decide to go eat with the girls.
 Me: 	Hey girls, enjoying lunch?
-Stacy:	Hello, [m!t].
+Stacy:	Hello, Dennis.
 Naomi:	They call this food?
 Me: 	Naomi, this is just a little snack.
 Violet:	I think it's a pretty decent sandwich.
@@ -2108,8 +2108,8 @@ Belle:	Everyone, close your eyes...
     Naomi:	You think that's exciting?
     Belle:	This isn't any key...
     Me: 	(Wait a second... is that--)
-    Belle:	This is a key I found in [m!t]'s room.
-    Violet:	You were in [m!t]'s room?
+    Belle:	This is a key I found in Dennis's room.
+    Violet:	You were in Dennis's room?
     Me: 	You went into my room?!
     Belle:	It was a happy accident.
     Belle:	I thought it was the bathroom...
@@ -2125,7 +2125,7 @@ Belle:	Everyone, close your eyes...
     Belle:	Ooooh, now I'm super curious what it goes to.
     Belle:	Are you suuuuure you don't know?
     Me: 	Yeah, I really don't know...
-    Naomi:	Ooooh, [m!t] is hiding something...
+    Naomi:	Ooooh, Dennis is hiding something...
     Belle:	Okay! You can all open your eyes now.
     Narr:	You and the girls all open your eyes.
     Narr:	Before you sits Belle, holding a pair of your boxers.
@@ -2134,9 +2134,9 @@ Belle:	Everyone, close your eyes...
     Belle:	You know what's going to excite you even more?
     Belle:	These aren't just any underwear...
     Me: 	(What the hell, are those--)
-    Belle:	These are [m!t]'s underwear!
+    Belle:	These are Dennis's underwear!
     Narr:	Violet's eyes go wide as she blushes.
-    Violet:	Y-You were in [m!t]'s room?
+    Violet:	Y-You were in Dennis's room?
     Me: 	You went into my room?!
     Belle:	It was a happy accident.
     Belle:	I thought it was the bathroom...
@@ -2190,7 +2190,7 @@ Narr:	As Belle is about to speak up again...
 Narr:	Eve approaches you and the girls.
 Narr:	Belle gives you a suspicious look, before continuing her questioning.
 Belle:	Something's fishy...
-Belle:	And, [m!t] stinks.
+Belle:	And, Dennis stinks.
 Me: 	Hey!
 Me: 	I took a shower today!
 Belle:	You know what I meant...
@@ -2218,7 +2218,7 @@ Eve:	Come with me, and you'll find out soon enough.
 Eve:	Naomi and Belle.
 Eve:	You two have free time until the barbecue.
 Belle:	Awesome, thanks!
-Eve:	As do you, [m!t].
+Eve:	As do you, Dennis.
 Eve:	Let's go, Stacy.
 Eve:	Goodbye, ladies.
 Narr:	Naomi and Belle return to their cabins as Eve walks away with Stacy.
@@ -2252,7 +2252,7 @@ Me: 	(Oh, someone's coming outside.)
 Me: 	(It's Naomi. I wonder what she's up to.)
 Me: 	Feeling energized by your walk, you greet Naomi enthusiastically.
 Me: 	Hey Naomi! What's up?
-Naomi:	Hey, [m!t]. Not much.
+Naomi:	Hey, Dennis. Not much.
 Naomi:	Have you come to entertain me?
 Me: 	You think that's the only reason I exist?
 Naomi:	I was convinced it was...
@@ -2322,14 +2322,14 @@ Me: 	Well, what would entertain you?
                                                     Naomi:	Oh, you know, haikus, sonnets... The usual.
 Narr:	You and Naomi warmly chat for a bit longer.
 Narr:	Both of you are enjoying the weather, and the company.
-Naomi:	You know, you're actually pretty cool, [m!t].
+Naomi:	You know, you're actually pretty cool, Dennis.
 Me: 	Likewise, Naomi.
 Me: 	I've learned a lot more about you...
 Naomi:	And?
 Me: 	And, I like who you are. I'm enjoying this.
 Me: 	(Why does she hide these details about herself?)
 Me: 	(Why does she maintain this ridiculous "rich girl" persona?)
-Naomi:	Thank you, [m!t].
+Naomi:	Thank you, Dennis.
 Naomi:	I'm also having a good time.
 Naomi:	But, I think our time is almost up.
 Narr:	Naomi points at Violet, walking up the path toward the campsite.
@@ -2337,11 +2337,11 @@ Naomi:	Violet's done.
 Me: 	Which means Eve will want to know where I am...
 Naomi:	Probably. She is that way.
 Me: 	Well, it was a pleasure, Naomi.
-Naomi:	Toodles, [m!t]!
+Naomi:	Toodles, Dennis!
 Narr:	You wave Naomi goodbye, as you walk back toward the house.
 Me: 	(Human beings are complex creatures...)
 Narr:	Naomi isn't happy to hear what you said.
-Naomi:	You're a dick, [m!t].
+Naomi:	You're a dick, Dennis.
 Naomi:	Get the hell out of here...
 Narr:	Naomi shoos you away before crossing her arms and walking back to her cabin.
 Me: 	(So, she doesn't appreciate honesty?)
@@ -2353,7 +2353,7 @@ Narr:	Naomi looks you in the eyes briefly, before looking away smiling.
 Narr:	You feel that this was a moment of true connection, between you two.
 Me: 	(What was that look?)
 Me: 	(It was... tender.)
-Naomi:	[m!t]...
+Naomi:	Dennis...
 Me: 	Yeah?
 Naomi:	I'm having a really great time with you.
 Me: 	Me too, Naomi.
@@ -2368,7 +2368,7 @@ Me: 	Which means Eve will want to know where I am...
 Naomi:	Probably. She is that way.
 Me: 	I hope we can spend more time like this, Naomi.
 Me: 	(Maybe, we can spend time getting even closer.)
-Naomi:	Toodles, [m!t]!
+Naomi:	Toodles, Dennis!
 Naomi:	(Let's get to know each other on a deeper level next time...)
 Narr:	You wave Naomi goodbye, as you walk back toward the house.
 Me: 	(Human beings are beautiful, complex creatures...)
@@ -2759,7 +2759,7 @@ Me: 	(Despite the house's lack of air conditioning.)
 Narr:	You enter the main house through the back door.
 Narr:	Eve is sitting on the couch, reading a book.
 Eve:	Huh?
-Eve:	Oh. Hello, [m!t].
+Eve:	Oh. Hello, Dennis.
 Eve:	Got tired of using the front door?
 Me: 	I realized this door gets neglected a lot.
 Me: 	So, I chose to take the scenic route.
@@ -2773,7 +2773,7 @@ Eve:	You'll need that energy for the days to come.
 Narr:	You open the front door, and step inside the house.
 Narr:	Immediately, you notice Eve sitting on the couch, reading a book.
 Me: 	Hey, Eve.
-Eve:	Hi, [m!t]. How's your day going?
+Eve:	Hi, Dennis. How's your day going?
 Me: 	Pretty good...
 Me: 	Happy to not be doing constant chores for once.
 Eve:	I'm glad you're enjoying your mostly-off day.
@@ -2790,7 +2790,7 @@ Me: 	That's good to hear, Eve.
 Narr:	Eve places her book on the coffee table, and turns to you.
 Eve:	Well, aren't you going to sit down?
 Me: 	Ah, if you insist.
-Eve:	Come on, [m!t]. I don't bite.
+Eve:	Come on, Dennis. I don't bite.
 Eve:	Take a load off.
 Narr:	You abide by Eve's request, and take a seat on the couch.
 Eve:	So, how's your day been?
@@ -2923,7 +2923,7 @@ Me: 	That's great to hear.
     Me: 	Nice!
     Me: 	That's one of the best ways to stick it to a teacher like that.
     Eve:	Yeah. Yeah, it is...
-    Eve:	I'm sorry to hear that, [m!t]...
+    Eve:	I'm sorry to hear that, Dennis...
     Eve:	I can sympathize with you.
     Eve:	I've had my fair share of heartbreak throughout my life...
     Me: 	Yeah?
@@ -2951,12 +2951,12 @@ Me: 	That's great to hear.
     Eve:	I won't push it...
     Eve:	Whatever it is, though... I'm sorry it happened.
     Me: 	Thanks, Eve.
-    Eve:	I'm here for you, [m!t].
+    Eve:	I'm here for you, Dennis.
     Me: 	I really appreciate it.
 Narr:	Suddenly, you both hear the beeping noise of a phone alarm...
 Narr:	Which interrupts the conversation you were having with Eve.
 Eve:	Oh, would you look at the time.
-Eve:	Sorry, [m!t]. Looks like our time is up.
+Eve:	Sorry, Dennis. Looks like our time is up.
 Me: 	(Now I feel like one of her patients...)
 Me: 	(Talking with a deadline.)
 Me: 	It's fine. What's the alarm for?
@@ -2973,7 +2973,7 @@ Narr:	Deciding to follow Stacy, you jog after her, down the path.
 Me: 	Hey, Stacy!
 Me: 	Wait up!
 Narr:	You quickly catch up to Stacy, who greets you with a happy smile.
-Stacy:	Hello, [m!t].
+Stacy:	Hello, Dennis.
 Stacy:	What are you doing running after me?
 Me: 	I saw you down the path, and decided to see what you're up to.
 Stacy:	Oh, you want to spend time with me?
@@ -3131,7 +3131,7 @@ Me: 	*Quiet gasp* Aah. Uh, hey Stacy.
 Narr:	Attempting to divert attion from what you were doing...
 Narr:	You bear hug Stacy, pulling her away from the window.
 Me: 	I'm so happy to see you!
-Stacy:	I am pleased to see you too, [m!t].
+Stacy:	I am pleased to see you too, Dennis.
 Me: 	(That was pretty smooth...)
 Me: 	(But, I'm probably not out of the woods yet.)
 Narr:	You put your arm over Stacy's shoulder and walk her to the front of the house.
@@ -3150,7 +3150,7 @@ Stacy:	I feel as though...
 Stacy:	You're being deceitful.
 Me: 	I swear, I'm telling you the truth.
 Stacy:	(The flame never lies...)
-Stacy:	I am disheartened by your actions... [m!t].
+Stacy:	I am disheartened by your actions... Dennis.
 Stacy:	It will take some time for the flame to forgive your dishonesty.
 Me: 	(Shit, I didn't convince her...)
 Me: 	I'm sorry, Stacy...
@@ -3166,7 +3166,7 @@ Narr:	Realizing you messed up, you walk over to the front steps.
 Narr:	Sitting on the front steps of the house, you collect your thoughts.
 Me: 	(I hope she'll forgive me...)
 Narr:	However, you are interrupted by Violet walking toward you.
-Violet:	Hey, [m!t]! What's wrong?
+Violet:	Hey, Dennis! What's wrong?
 Me: 	Oh, nothing. I'm just feeling a bit tired...
 Violet:	That's too bad. It's such a nice day!
 Violet:	We have a little free time before the barbecue...
@@ -3276,7 +3276,7 @@ Me: 	(Hmm... Will I?)
         Narr:	However, even in orgasm... 
         Narr:	...she makes sure to close her mouth, swallowing the rest of your load.
         Me: 	(Shit, that was intense...)
-        Stacy:	Did you enjoy this, [m!t]?
+        Stacy:	Did you enjoy this, Dennis?
         Me: 	Yeah, I really did...
         Stacy:	Did I send sparks flying through you?
         Me: 	You could say that...
@@ -3331,7 +3331,7 @@ Eve:	Where the hell have you been?!
                                     Me: 	I did. A patient stopped me, and we had a chat.
                                         Eve:	That's nice. Which patient did you talk with?
                                     Me: 	Not really. I only went there to go to the lake.
-                                Eve:	You don't have to be so vague with me, [m!t].
+                                Eve:	You don't have to be so vague with me, Dennis.
                                     Me: 	My day wasn't all that eventful. What more can I say?
                     Me: 	I walked to the lake and sat there a bit, then to the gazebo.
                 Eve:	Just walked around? Which area?
@@ -3407,7 +3407,7 @@ Eve:	Where the hell have you been?!
         Me: 	(Eve is acting strangely...)
         Narr:	Eve nervously looks down at her phone, before turning to you.
         Eve:	Well, it looks like it's nearly time to prep the stuff for the barbecue.
-        Eve:	Please, [m!t]. Follow me.
+        Eve:	Please, Dennis. Follow me.
         Eve:	Ah, that all makes sense.
         Me: 	Good... Because, usually people misunderstand me...
         Eve:	*Chuckle* Maybe you should learn to speak more clearly, then.
@@ -3446,7 +3446,7 @@ Narr:	However, as you look toward the couch, you notice Kiara relaxing there.
 Me: 	(She can't go anywhere this time...)
 Me: 	(Time to get that confession.)
 Me: 	Hey Kiara, what's up?
-Kiara:	*Gasp* Hey, [m!t].
+Kiara:	*Gasp* Hey, Dennis.
 Kiara:	You startled me.
 Me: 	Sorry, I didn't mean to sneak up on you like that.
 Narr:	You walk over to the couch, sitting down next to Kiara.
@@ -3455,13 +3455,13 @@ Kiara:	Good, good...
 Kiara:	Just relaxing before we have to prep the barbecue stuff.
 Me: 	Sounds nice.
 Me: 	Mind if I join you?
-Kiara:	No, of course I don't mind, [m!t].
+Kiara:	No, of course I don't mind, Dennis.
 Me: 	Great...
 Me: 	Hey, Kiara...
-Kiara:	Yes... [m!t]?
+Kiara:	Yes... Dennis?
 Me: 	Can I ask you something?
-Kiara:	Sure... [m!t]. What did you want to ask?
-    Kiara:	Sure... [m!t]. What did you want to ask?
+Kiara:	Sure... Dennis. What did you want to ask?
+    Kiara:	Sure... Dennis. What did you want to ask?
         Me: 	I want to talk about what I found in your room...
         Kiara:	I already told you, someone planted that stuff in my room!
             Kiara:	I already told you, someone planted that stuff in my room!
@@ -3483,7 +3483,7 @@ Kiara:	Sure... [m!t]. What did you want to ask?
                                 Me: 	Of course not. But, tying me up wasn't right, Kiara!
                         Me: 	Kiara... I just want to know why you'd go that far.
     Narr:	Kiara goes quiet, before tearing up.
-    Kiara:	I'm... so, so sorry, [m!t].
+    Kiara:	I'm... so, so sorry, Dennis.
     Kiara:	I don't know what came over me...
     Me: 	It's okay, Kiara.
     Kiara:	No, it's not! I shouldn't have done that...
@@ -3499,7 +3499,7 @@ Kiara:	Sure... [m!t]. What did you want to ask?
     Me: 	Of course not. Especially now that I know it was you.
     Me: 	I'm just really happy to know, once and for all, who did this.
     Me: 	And, to know I was in especially good hands...
-    Kiara:	*Sniff* Thank you, [m!t].
+    Kiara:	*Sniff* Thank you, Dennis.
     Narr:	Kiara wipes the remaining tears off her cheeks...
     Narr:	...and you embrace her for a hug.
     Me: 	Let's just be more honest with each other, from now on.
@@ -3527,7 +3527,7 @@ Kiara:	Sure... [m!t]. What did you want to ask?
     Kiara:	I just thought you'd react negatively...
     Me: 	You shouldn't have assumed...
     Kiara:	You're right, I shouldn't have.
-    Kiara:	Again... I'm so sorry, [m!t].
+    Kiara:	Again... I'm so sorry, Dennis.
     Me: 	It's okay...
     Me: 	I have to admit, though. I kinda liked the surprise...
     Kiara:	Oh?
@@ -3545,10 +3545,10 @@ Eve:	Sorry to break it to you though...
 Me: 	Time for work?
 Eve:	*Chuckle* Are you psychic?
 Me: 	*Chuckle* No. I just know your catchphrases.
-Eve:	I need your help in the kitchen, [m!t].
+Eve:	I need your help in the kitchen, Dennis.
 Eve:	Kiara, meet us there in 5 minutes, please.
 Eve:	Come on.
-Eve:	Follow me, [m!t].
+Eve:	Follow me, Dennis.
 Narr:	Arriving in the kitchen, Eve begins informing you what needs preparing.
 Eve:	Until Kiara arrives, I want you to take the meat out of the fridge.
 Eve:	Put it on the table, on trays, please.
@@ -3568,7 +3568,7 @@ Eve:	[m!ct], grab the bag of charcoal and the grill utensils.
 Me: 	Sure thing.
 Narr:	You, Kiara and Eve arrive at the barbecue spot, near the gazebo.
 Narr:	Kiara and Eve place the trays down on the gazebo's table.
-Eve:	Have you ever worked a grill before, [m!t]?
+Eve:	Have you ever worked a grill before, Dennis?
 Eve:	I was thinking you could be our chef today.
 Eve:	If you want, of course.
 Me: 	Sure, I'd love to!
@@ -3583,7 +3583,7 @@ Eve:	Mmmm... That smells delicious.
 Narr:	Surprised, you look in the direction Eve's voice was coming from.
 Narr:	You notice Eve, followed by the girls.
 Me: 	Hey, everyone.
-Stacy:	Hi, [m!t].
+Stacy:	Hi, Dennis.
 Stacy:	Oh, a fire was started without me?
 Eve:	Stacy, you know you shouldn't be handling fires here...
 Stacy:	Such a shame...
@@ -3597,14 +3597,14 @@ Me: 	You can all grab plates, and help yourselves.
 Narr:	[m!tc] proudly presents the trays of BBQ, and places them on the table.
 Me: 	Enjoy!
 Narr:	Allowing the girls to serve themselves first, you wait patiently.
-Eve:	Very mature, [m!t].
+Eve:	Very mature, Dennis.
 Eve:	I was worried you'd rush to grab some food the moment the dinner bell rang.
 Me: 	I was raised right, I guess.
 Eve:	It seems you were.
 Narr:	Once you see the girls have taken their food, you take yours, too.
 Me: 	Mmm. This turned out pretty good.
 Belle:	Yeah, this BBQ is delish!
-Violet:	This is amazing, [m!t]!
+Violet:	This is amazing, Dennis!
 Narr:	You all happily continue eating, and chatting.
 Narr:	Everyone is having a good time.
 Narr:	However, everyone being so preoccupied by each others' company...
@@ -3695,7 +3695,7 @@ Belle:	Jooooking.
 Me: 	Good... good.
 Belle:	Did you actually believe me?
 Me: 	Psht. No way. I was just messing with you.
-Belle:	(Sure, suuuure. I totally believe you, [m!t].)
+Belle:	(Sure, suuuure. I totally believe you, Dennis.)
 Eve:	I think we'll wrap things up for tonight.
 Eve:	Ladies, you can spend the time before bed however you'd like.
 Eve:	I'd suggest a nighttime walk.
@@ -3742,7 +3742,7 @@ Narr:	You and the girls go to the living room, in a beeline to the couch.
 Narr:	Emily is the fastest, vaulting over the back of the couch to save time.
 Emily:	Yes! Got the best spot!
 Narr:	Kiara, seeing Emily take the best spot, runs to take the second-best spot.
-Kiara:	Sorry, [m!t]!
+Kiara:	Sorry, Dennis!
 Narr:	You're the last to get to the couch, but you don't mind the spot.
 Me: 	It's fine. I don't mind this spot.
 Me: 	So, what do you guys wanna watch?
@@ -3769,8 +3769,8 @@ Me: 	Oh? You're both that tired.
 Kiara:	It's been a long day.
 Kiara:	You're not sleepy?
 Me: 	Not really. I think I'll watch TV a bit longer.
-Kiara:	Okay. Good night, [m!t].
-Kiara:	Night-night, [m!t].
+Kiara:	Okay. Good night, Dennis.
+Kiara:	Night-night, Dennis.
 Me: 	Night, guys.
 Me: 	Sleep well.
 Narr:	You hear the girls' bedroom doors close, and pick up the remote.
@@ -3796,9 +3796,9 @@ Me: 	(Might as well say hello.)
 Narr:	You enjoy your walk as you head over to the edge of the lake.
 Narr:	As you get closer, you notice them all sitting on the dock.
 Me: 	Good evening, ladies.
-Naomi:	Hey, [m!t].
+Naomi:	Hey, Dennis.
 Violet:	Hey!
-Stacy:	Hello, [m!t].
+Stacy:	Hello, Dennis.
 Belle:	You just couldn't resist, huh?
 Me: 	I wasn't tired, so I went for a walk.
 Me: 	I heard you guys talking in the distance and decided to say hello.
@@ -3841,7 +3841,7 @@ Belle:	Hey! Spoiler!
     Belle:	And?
     Me: 	I think you should just put it back where you found it...
     Belle:	Of course you do, buzzkill.
-    Belle:	(You're acting super sus, [m!t]...)
+    Belle:	(You're acting super sus, Dennis...)
     Narr:	As the girls' curiosity piques, Belle dramatically opens the box...
     Narr:	Revealing its lewd contents to everyone.
     Naomi:	Oh my god...
@@ -3854,7 +3854,7 @@ Belle:	Hey! Spoiler!
     Belle:	Boomer move from Dr. Eve.
     Belle:	I mean, who still hides their sex toys under the bed in a shoebox?
     Me: 	Belle, you can't just--
-    Naomi:	Sssh. [m!t], this is between us ladies.
+    Naomi:	Sssh. Dennis, this is between us ladies.
     Belle:	[m!ct], she'll never know they were gone.
     Me: 	Ugggh! Fine!
     Me: 	I don't want anything to do with this, anyway.
@@ -3865,7 +3865,7 @@ Belle:	Hey! Spoiler!
     Naomi:	We're not all pervs like you, Belle.
     Belle:	Hey! I'm not into that... but, some people out there are.
     Me: 	I hope you're not insinuating that someone is me...
-    Belle:	No, of cooooourse not, [m!t].
+    Belle:	No, of cooooourse not, Dennis.
     Belle:	Anyway...
     Belle:	...I'm more curious about something else.
     Me: 	Like... what?
@@ -3889,16 +3889,16 @@ Belle:	Hey! Spoiler!
     Belle:	Glass does provide the best view.
     Narr:	Staying mentally strong, you repress the images Belle is trying to conjure in your mind.
     Narr:	However, Belle eventually wears you down with her persistence.
-    Belle:	What do you think, [m!t]?
+    Belle:	What do you think, Dennis?
     Belle:	Wouldn't the glass toy be the best for seeing all of Eve's beautiful pussy?
     Belle:	*Giggles* Even the inside.
     Me: 	*Gulp* No comment. This is too fuckin' weird...
-    Violet:	Belle, ease off [m!t] a bit.
+    Violet:	Belle, ease off Dennis a bit.
     Naomi:	Why should she do that?
-    Stacy:	Because [m!t] does not look pleased...
+    Stacy:	Because Dennis does not look pleased...
     Stacy:	...and he might leave.
     Me: 	Exactly! I can walk away whenever I like...
-    Belle:	Awww... Come on, [m!t].
+    Belle:	Awww... Come on, Dennis.
     Belle:	You don't need to do that...
     Belle:	I didn't mean anything by it.
     Me: 	Yeah, I know.
@@ -3937,7 +3937,7 @@ Belle:	Hey! Spoiler!
     Stacy:	Indeed you are, Belle.
     Me: 	Belle! Where did you get that?!
     Belle:	I got it from your room. Where else?
-    Belle:	But, really? I'm sure you're big, [m!t], but not magnum big...
+    Belle:	But, really? I'm sure you're big, Dennis, but not magnum big...
     Me: 	Hey!
     Naomi:	Sssh. [m!ct], this is between us ladies.
     Me: 	Psht. Fine!
@@ -3948,7 +3948,7 @@ Belle:	Hey! Spoiler!
     Narr:	Pulling out the rolled-up magnum condom.
     Me: 	Oh come on, I was going to use that...
     Naomi:	Were you, now?
-    Belle:	I thought you weren't allowed to do those kinds of things with us, [m!t].
+    Belle:	I thought you weren't allowed to do those kinds of things with us, Dennis.
     Me: 	I didn't mean at Red Falls!
     Belle:	Aww, now I'm disappointed.
     Belle:	I would have liked to see you wearing this...
@@ -3998,7 +3998,7 @@ Naomi:	Yeah, well, I'm exhausted.
 Stacy:	I, too, hear the Sandman calling to me.
 Me: 	Ah, well. It was a pleasure, ladies.
 Naomi:	Good night everyone.
-Stacy:	Night girls. Night [m!t].
+Stacy:	Night girls. Night Dennis.
 Me: 	See you two tomorrow. Good night.
 Narr:	After looking at the stars a moment longer, Violet stands up.
 Violet:	Hey guys, I think I'm going to take a walk before sleep.
@@ -4018,7 +4018,7 @@ Belle:	Sounds great. Don't have too much fun out there...
 Belle:	...without me.
 Violet:	*Chuckle* Okay, Belle, I won't.
 Violet:	I'll make sure to have a miserable time.
-Violet:	Night, [m!t].
+Violet:	Night, Dennis.
 Me: 	Good night, Violet.
 Belle:	See ya in the morning, V!
 Narr:	Violet leaves the dock.
@@ -4048,7 +4048,7 @@ Me: 	(Heading to bed is always an option, as well.)
 Belle:	Well? What are you waiting for?
     Belle:	Well? What are you waiting for?
         Me: 	Nothing. Let's go on that walk.
-        Belle:	You made the right choice coming with me, [m!t]...
+        Belle:	You made the right choice coming with me, Dennis...
         Belle:	You'll see.
         Belle:	Just follow me.
         Narr:	Belle leads you away from the dock, but follows the lake's shoreline.
@@ -4105,7 +4105,7 @@ Belle:	Well? What are you waiting for?
         Narr:	Belle stops rubbing your now-throbbing cock, to pull down your underwear.
         Belle:	That's it... Let me see it.
         Narr:	Belle kneels down, her face right in front of your eager member.
-        Belle:	You have a nice cock, [m!t].
+        Belle:	You have a nice cock, Dennis.
         Belle:	It deserves an award...
         Narr:	Belle's tongue extends out of her mouth, and flicks your tip.
         Me: 	AAAhhh...
@@ -4127,7 +4127,7 @@ Belle:	Well? What are you waiting for?
         Narr:	You're hit by a rush of pleasure as Belle takes your cock into her mouth.
         Me: 	Ooooh shiiit...
         Belle:	(I'll melt your fucking brain.)
-        Belle:	(You'll crave me, [m!t]...)
+        Belle:	(You'll crave me, Dennis...)
         Belle:	(Like they all do.)
         Narr:	Belle sucks your cock faster, and harder.
         Narr:	You feel her tongue wrap around your cock, as she slides you deeper.
@@ -4141,7 +4141,7 @@ Belle:	Well? What are you waiting for?
         Narr:	You pull Belle's head off your shaft as a thought comes to mind.
         Me: 	How about we take this a little further?
         Belle:	Good idea.
-        Belle:	Stick it in, [m!t].
+        Belle:	Stick it in, Dennis.
         Me: 	You want it that badly?
         Belle:	YES! Fucking give it to me, already!
         Me: 	Well, if you insist...
@@ -4166,7 +4166,7 @@ Belle:	Well? What are you waiting for?
                     Me: 	Fine.
                     Me: 	Since you want me to use these on you so badly...
                     Me: 	...I will.
-                    Belle:	You made the right choice, [m!t].
+                    Belle:	You made the right choice, Dennis.
                     Belle:	Take your pick...
                     Belle:	That tiny thing?
                     Belle:	Better than nothing, I guess...
@@ -4191,7 +4191,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
-                    Belle:	Good choice, [m!t]...
+                    Belle:	Good choice, Dennis...
                     Belle:	You know I like it big, huh?
                     Belle:	Shove that huge thing into my cute little pussy.
                     Belle:	Right there...
@@ -4216,7 +4216,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
-                    Belle:	Interesting choice, [m!t]...
+                    Belle:	Interesting choice, Dennis...
                     Me: 	Did I choose... well?
                     Belle:	We'll see...
                     Belle:	Depends how you use it.
@@ -4232,7 +4232,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	No... no...
                     Belle:	I feel fucking amazing...
                     Belle:	Mmm...
-                    Belle:	Don't stop, [m!t]...
+                    Belle:	Don't stop, Dennis...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
@@ -4245,7 +4245,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
-                    Belle:	Very kinky, [m!t]...
+                    Belle:	Very kinky, Dennis...
                     Belle:	I like where your head's at.
                     Me: 	You do?
                     Belle:	Yeah...
@@ -4259,7 +4259,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	No...
                     Belle:	It feels so fucking good...
                     Belle:	Mmm... Nngh..
-                    Belle:	Don't stop, [m!t]...
+                    Belle:	Don't stop, Dennis...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
@@ -4272,7 +4272,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
-                    Belle:	Very naughty, [m!t]...
+                    Belle:	Very naughty, Dennis...
                     Belle:	I'm also feeling naughty...
                     Me: 	So, you like my choice?
                     Belle:	Yeah.
@@ -4288,7 +4288,7 @@ Belle:	Well? What are you waiting for?
                     Me: 	Too long?
                     Belle:	No... It feels so fucking good...
                     Belle:	Mmm... Nngh..
-                    Belle:	Don't stop, [m!t]...
+                    Belle:	Don't stop, Dennis...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
@@ -4301,7 +4301,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
-                    Belle:	Very kinky, [m!t]...
+                    Belle:	Very kinky, Dennis...
                     Belle:	I like where your head's at.
                     Me: 	You do?
                     Belle:	Yeah...
@@ -4315,7 +4315,7 @@ Belle:	Well? What are you waiting for?
                     Belle:	No...
                     Belle:	It feels so fucking good...
                     Belle:	Mmm... Nngh..
-                    Belle:	Don't stop, [m!t]...
+                    Belle:	Don't stop, Dennis...
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
                     Me: 	How about we try a different toy?
@@ -4329,7 +4329,7 @@ Belle:	Well? What are you waiting for?
                     Me: 	How about we try a different toy?
                     Belle:	Sounds good to me...
                     Belle:	The buttplug?
-                    Belle:	Good choice, [m!t]...
+                    Belle:	Good choice, Dennis...
                     Belle:	Shove it into my tight little ass.
                     Belle:	Right there...
                     Me: 	Like this?
@@ -4478,7 +4478,7 @@ Belle:	Well? What are you waiting for?
                     Me: 	Me too.
                     Belle:	Do it...
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4486,7 +4486,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4494,7 +4494,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4502,7 +4502,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4510,7 +4510,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4518,7 +4518,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4526,7 +4526,7 @@ Belle:	Well? What are you waiting for?
                         Belle:	You let out so much... hot jizz...
                         Me: 	Sorry.
                         Belle:	On my ass... Down my back...
-                        Belle:	Shower me in your hot load, [m!t]!
+                        Belle:	Shower me in your hot load, Dennis!
                         Me: 	If you say so.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4550,12 +4550,12 @@ Belle:	Well? What are you waiting for?
                     Me: 	Yeah, we really got the blood pumping.
                     Belle:	*Giggle* I'm sure Violet would be happy we got our exercise for the day.
                     Me: 	*Chuckle* Yeah, right.
-                    Belle:	Thanks for everything, [m!t].
+                    Belle:	Thanks for everything, Dennis.
                     Belle:	I'm gonna go get my beauty sleep, now.
                     Belle:	*Whisper* And, let this nice, natural, moisturizer soak into my skin.
                     Me: 	Okay...
                     Belle:	*Giggle* Just messing with you.
-                    Belle:	Night, [m!t].
+                    Belle:	Night, Dennis.
                     Me: 	Night, Belle.
                     Me: 	Sorry, Belle...
                     Me: 	But, I really don't want to use those on you.
@@ -4594,7 +4594,7 @@ Belle:	Well? What are you waiting for?
                     Me: 	Me too...
                     Belle:	Do it.
                     Belle:	On my ass, and down my back...
-                    Belle:	Shower me in your hot load, [m!t]!
+                    Belle:	Shower me in your hot load, Dennis!
                     Me: 	If you insist.
                     Belle:	Mmmmfff... AAAH!
                     Me: 	*Moan* Oooh... Fuuuuck!
@@ -4618,12 +4618,12 @@ Belle:	Well? What are you waiting for?
                     Me: 	Yeah, we really got the blood pumping.
                     Belle:	*Giggle* I'm sure Violet would be happy we got our exercise for the day.
                     Me: 	*Chuckle* Yeah, right.
-                    Belle:	Thanks for everything, [m!t].
+                    Belle:	Thanks for everything, Dennis.
                     Belle:	I'm gonna go get my beauty sleep, now.
                     Belle:	*Whisper* And, let this nice, natural, moisturizer soak into my skin.
                     Me: 	Okay...
                     Belle:	*Giggle* Just messing with you.
-                    Belle:	Night, [m!t].
+                    Belle:	Night, Dennis.
                     Me: 	Night, Belle.
             Belle:	How about...
             Belle:	...we use these?
@@ -4634,11 +4634,11 @@ Belle:	Well? What are you waiting for?
             Me: 	Oh, I get it...
             Belle:	Good. So... What are you waiting for?
                 Me: 	Nothing. Give those to me.
-                Belle:	Smart choice, [m!t]...
+                Belle:	Smart choice, Dennis...
                 Belle:	This little guy is one of my favorite toys...
                 Me: 	Is it?
                 Belle:	Mhm... It reaches all the right places.
-                Belle:	Stick it in my pussy, [m!t].
+                Belle:	Stick it in my pussy, Dennis.
                 Belle:	Right there...
                 Me: 	Like this?
                 Belle:	OOOooh... Shiiit...
@@ -4678,7 +4678,7 @@ Belle:	Well? What are you waiting for?
                 Me: 	Me too...
                 Belle:	Do it.
                 Belle:	Cum inside me...
-                Belle:	Fill me with your hot load, [m!t]!
+                Belle:	Fill me with your hot load, Dennis!
                 Me: 	If you insist.
                     Me: 	If you insist.
                         Belle:	Mmmmfff... AAAH!
@@ -4708,11 +4708,11 @@ Belle:	Well? What are you waiting for?
                         Me: 	Yeah, we really got the blood pumping.
                         Belle:	*Giggle* I'm sure Violet would be happy we got our exercise for the day.
                         Me: 	*Chuckle* Yeah, right.
-                        Belle:	Thanks for everything, [m!t].
+                        Belle:	Thanks for everything, Dennis.
                         Belle:	I'm gonna go get my beauty sleep, now.
                         Me: 	Okay...
                         Belle:	*Giggle* Just messing with you.
-                        Belle:	Night, [m!t].
+                        Belle:	Night, Dennis.
                         Me: 	Night, Belle.
                         Belle:	Mmmmfff... AAAH!
                         Me: 	*Moan* Oooh... Fuuuuck!
@@ -4741,11 +4741,11 @@ Belle:	Well? What are you waiting for?
                         Me: 	Yeah, we really got the blood pumping.
                         Belle:	*Giggle* I'm sure Violet would be happy we got our exercise for the day.
                         Me: 	*Chuckle* Yeah, right.
-                        Belle:	Thanks for everything, [m!t].
+                        Belle:	Thanks for everything, Dennis.
                         Belle:	I'm gonna go get my beauty sleep, now.
                         Me: 	Okay...
                         Belle:	*Giggle* Just messing with you.
-                        Belle:	Night, [m!t].
+                        Belle:	Night, Dennis.
                         Me: 	Night, Belle.
                 Me: 	Sorry, Belle...
                 Me: 	But, I'd rather be the only thing you feel.
@@ -4786,7 +4786,7 @@ Belle:	Well? What are you waiting for?
                 Me: 	Me too...
                 Belle:	Do it.
                 Belle:	Cum inside me...
-                Belle:	Fill me with your hot load, [m!t]!
+                Belle:	Fill me with your hot load, Dennis!
                 Me: 	If you insist.
                 Belle:	Mmmmfff... AAAH!
                 Me: 	*Moan* Oooh... Fuuuuck!
@@ -4816,11 +4816,11 @@ Belle:	Well? What are you waiting for?
                 Me: 	Yeah, we really got the blood pumping.
                 Belle:	*Giggle* I'm sure Violet would be happy we got our exercise for the day.
                 Me: 	*Chuckle* Yeah, right.
-                Belle:	Thanks for everything, [m!t].
+                Belle:	Thanks for everything, Dennis.
                 Belle:	I'm gonna go get my beauty sleep, now.
                 Me: 	Okay...
                 Belle:	*Giggle* Just messing with you.
-                Belle:	Night, [m!t].
+                Belle:	Night, Dennis.
                 Me: 	Night, Belle.
         Me: 	I think I'm gonna go back to the house.
         Me: 	I'm pretty tired.
@@ -4838,14 +4838,14 @@ Belle:	Well? What are you waiting for?
         Narr:	You make it to the spot Violet spoke of.
         Me: 	(I wonder where she is?)
         Me: 	(Oh, is that--)
-        Violet:	Hey, [m!t].
+        Violet:	Hey, Dennis.
         Violet:	So... You decided to join me after all?
         Me: 	I wanted to spend more of this beautiful night with a beautiful girl.
         Violet:	Do... Do you mean that?
         Me: 	Yeah, I do.
         Me: 	You're gorgeous, and kind.
         Me: 	(And, your body is a perfect 10/10.)
-            Violet:	Oh, [m!t]...
+            Violet:	Oh, Dennis...
             Violet:	I've wanted to hear you say that for so long.
             Me: 	You have?
             Violet:	I was so shy when I first got here...
@@ -4858,9 +4858,9 @@ Belle:	Well? What are you waiting for?
             Me: 	You're kind, fun to exercise with, and irresistible.
             Violet:	Irresistible?
             Me: 	Yeah.
-            Violet:	Oh, [m!t]...
+            Violet:	Oh, Dennis...
             Me: 	Violet...
-            Violet:	I've wanted you to do that for so long, [m!t]...
+            Violet:	I've wanted you to do that for so long, Dennis...
             Me: 	You have?
             Violet:	I have. I was just so shy before...
             Me: 	It's okay, Violet.
@@ -4877,10 +4877,10 @@ Belle:	Well? What are you waiting for?
             Me: 	I'm glad you feel more comfortable with me, already.
             Violet:	You are?
             Me: 	Yeah, really glad...
-            Violet:	Oh, [m!t]...
+            Violet:	Oh, Dennis...
             Violet:	Come here.
             Me: 	You're wonderful, Violet.
-            Violet:	So are you, [m!t]...
+            Violet:	So are you, Dennis...
             Me: 	Mmm...
             Violet:	Does that feel good?
             Me: 	Yeah, it does.
@@ -4905,14 +4905,14 @@ Belle:	Well? What are you waiting for?
             Violet:	Oh, it looks like I am.
             Violet:	Let me help you with that huge thing...
             Me: 	Ohhh...
-            Violet:	*Moan* Oh, yeah... [m!t]...
+            Violet:	*Moan* Oh, yeah... Dennis...
             Violet:	Touch me...
             Violet:	Touch me!
             Me: 	*Moan* Oh, Violet...
             Violet:	[m!ct]...
             Violet:	I'm... close.
             Me: 	Me too...
-            Violet:	Cum, [m!t]. Cum for me.
+            Violet:	Cum, Dennis. Cum for me.
             Me: 	You too, then.
             Violet:	Mmmff... I... will.
             Violet:	AAH! Yes!
@@ -4923,9 +4923,9 @@ Belle:	Well? What are you waiting for?
             Violet:	I'm glad you think so...
             Violet:	Maybe we can do some special yoga sometime?
             Me: 	Hopefully sooner than later.
-            Violet:	I'm glad you followed, [m!t].
+            Violet:	I'm glad you followed, Dennis.
             Me: 	I am too... I had a great time out here with you.
-            Violet:	Good night, [m!t].
+            Violet:	Good night, Dennis.
             Violet:	Sleep well, okay?
             Me: 	I will. You too, Violet.
             Violet:	I have a feeling I'll sleep wonderfully, tonight.
@@ -4958,7 +4958,7 @@ Belle:	Well? What are you waiting for?
             Violet:	[m!ct], you're so sweet...
             Me: 	So are you, Violet...
             Me: 	Compared to most of the girls here, you're the sweetest.
-            Violet:	Oh, [m!t]...
+            Violet:	Oh, Dennis...
             Me: 	*Quietly* You have beautiful eyes.
             Violet:	So do you...
             Me: 	Mm... Woah.
@@ -4966,16 +4966,16 @@ Belle:	Well? What are you waiting for?
             Me: 	Yeah, you did... But, it's okay.
             Me: 	It was the best kind of surprise...
             Violet:	I'm gla--
-            Violet:	Oh, [m!t]...
+            Violet:	Oh, Dennis...
             Violet:	Hold me.
             Violet:	Mmmm...
             Violet:	I've wanted this for so long...
             Me: 	You have?
             Violet:	Yeah, I just felt too shy before.
             Me: 	I'm glad you feel comfortable with me, Violet.
-            Violet:	I'm glad you followed, [m!t].
+            Violet:	I'm glad you followed, Dennis.
             Me: 	I am too... I had a great time out here with you.
-            Violet:	Good night, [m!t].
+            Violet:	Good night, Dennis.
             Violet:	Sleep well, okay?
             Me: 	I will. You too, Violet.
             Violet:	I have a feeling I'll sleep wonderfully, tonight.
@@ -4999,7 +4999,7 @@ Belle:	Well? What are you waiting for?
         Narr:	Now at the door of Stacy and Belle's cabin, you gently knock.
         Stacy:	Who's there?
         Me: 	It's just me, Stacy.
-        Stacy:	Oh, how wonderful. Hello, [m!t].
+        Stacy:	Oh, how wonderful. Hello, Dennis.
         Stacy:	Why are you gracing me with your presence?
         Me: 	Well, I just wanted to say good night to you before I went to bed.
         Stacy:	How sweet...
@@ -5025,13 +5025,13 @@ Belle:	Well? What are you waiting for?
             Stacy:	Good...
             Me: 	Hmm?
             Stacy:	I want to make you feel the divine flames rage.
-            Stacy:	Give me your passion, [m!t].
+            Stacy:	Give me your passion, Dennis.
             Me: 	Okay, Stacy...
             Me: 	I will.
             Stacy:	Mmm... Yes...
             Stacy:	But, it would be easier if...
             Narr:	Taking Stacy's cue, you help her take her shirt off.
-            Stacy:	Yes, [m!t]... I am yours...
+            Stacy:	Yes, Dennis... I am yours...
             Me: 	You are?
             Stacy:	Tonight, I am here to satisfy your desires.
             Stacy:	Let me help you with these...
@@ -5047,7 +5047,7 @@ Belle:	Well? What are you waiting for?
             Stacy:	What can I say? I am a scholar among my people.
             Stacy:	So, what do you desire, my prince?
             Me: 	How about... a handjob?
-            Stacy:	Anything for you, [m!t]...
+            Stacy:	Anything for you, Dennis...
             Me: 	Oh yeah...
             Stacy:	Do you like this?
             Me: 	You really know what you're doing.
@@ -5068,7 +5068,7 @@ Belle:	Well? What are you waiting for?
             Me: 	Can we try something else?
             Stacy:	As you wish, my prince.
             Me: 	A blowjob would be great...
-            Stacy:	Anything for you, [m!t]...
+            Stacy:	Anything for you, Dennis...
             Me: 	Oh yeah...
             Stacy:	Do you like this?
             Me: 	You really know what you're doing.
@@ -5090,7 +5090,7 @@ Belle:	Well? What are you waiting for?
             Me: 	Can we try something else?
             Stacy:	As you wish, my prince.
             Me: 	I'd love a titjob, Stacy.
-            Stacy:	Anything for you, [m!t]...
+            Stacy:	Anything for you, Dennis...
             Me: 	Mmm... They're so soft...
             Stacy:	Do you like this?
             Me: 	it feels amazing, Stacy...
@@ -5101,7 +5101,7 @@ Belle:	Well? What are you waiting for?
             Me: 	Stacy, your tits are amazing...
             Stacy:	You really think so?
             Me: 	Yes. They're perfect...
-            Stacy:	It warms my bosom to hear that, [m!t]...
+            Stacy:	It warms my bosom to hear that, Dennis...
             Stacy:	I'm going to make you feel even better, now.
             Stacy:	Do you like how they feel?
             Me: 	Yeah, they're so soft...
@@ -5116,15 +5116,15 @@ Belle:	Well? What are you waiting for?
             Me: 	I can't hold it much longer...
             Me: 	I'm gonna...
             Me: 	I'm gonna cum, Stacy.
-            Stacy:	Give it to me, [m!t].
+            Stacy:	Give it to me, Dennis.
             Stacy:	Give it to me here...
             Me: 	If you insist...
             Stacy:	I want it all.
             Me: 	*Moan* Oooohh... Aahhh...
             Stacy:	Mmmff... Aah!
-            Stacy:	There's so much, [m!t]...
+            Stacy:	There's so much, Dennis...
             Me: 	Sorr--
-            Stacy:	No, [m!t], that was a positive statement...
+            Stacy:	No, Dennis, that was a positive statement...
             Me: 	Oh... Okay.
             Me: 	You never cease to amaze me, Stacy...
             Stacy:	Good... You amaze me too, my prince.
@@ -5141,16 +5141,16 @@ Belle:	Well? What are you waiting for?
             Me: 	I can't hold it much longer...
             Me: 	I'm gonna...
             Me: 	I'm gonna cum, Stacy.
-            Stacy:	Give it to me, [m!t].
+            Stacy:	Give it to me, Dennis.
             Stacy:	Cover my breasts in your hot passion...
             Me: 	If you insist...
             Stacy:	I want it all.
             Me: 	*Moan* Oooohh... Aahhh...
             Stacy:	Oh! Yes...
-            Stacy:	There's so much, [m!t]...
+            Stacy:	There's so much, Dennis...
             Stacy:	And, some of it went so far...
             Me: 	Sorr--
-            Stacy:	No, [m!t], it's fine.
+            Stacy:	No, Dennis, it's fine.
             Me: 	Oh... Okay.
             Me: 	You never cease to amaze me, Stacy...
             Stacy:	Good... You amaze me too, my prince.
@@ -5166,20 +5166,20 @@ Belle:	Well? What are you waiting for?
             Me: 	Good night, beautiful.
             Stacy:	Won't you come in?
             Me: 	Sure. I didn't know I was welcome.
-            Stacy:	You're always welcome in my domain, [m!t].
+            Stacy:	You're always welcome in my domain, Dennis.
             Narr:	Having been invited in by Stacy, you enter the cabin.
             Stacy:	Come here, please...
-            Stacy:	Hello, [m!t].
+            Stacy:	Hello, Dennis.
             Stacy:	What did I do to get in the good graces of the divine flame?
             Me: 	You must have paid good tribute...
             Stacy:	Indeed...
             Narr:	Before you can say a word, she kisses you passionately on the lips.
-            Stacy:	Thank you for coming to say good night, [m!t].
+            Stacy:	Thank you for coming to say good night, Dennis.
             Me: 	No problem, I'm glad I did...
             Stacy:	Belle will arrive back here, soon...
             Stacy:	I wish we had more time.
             Me: 	I also do.
-            Stacy:	Another time, I suppose. Good night, [m!t].
+            Stacy:	Another time, I suppose. Good night, Dennis.
             Me: 	Good night, Stacy. Sleep well.
             Narr:	You linger a moment longer, looking into Stacy's longing eyes.
             Me: 	(What is that look? How badly does she want me?)
@@ -5196,7 +5196,7 @@ Belle:	Well? What are you waiting for?
         Me: 	Night, Belle.
         Belle:	Night, sexy.
         Narr:	You walk away from Belle, and head back to the house.
-        Belle:	(I'll make you my simp, [m!t].)
+        Belle:	(I'll make you my simp, Dennis.)
         Belle:	(You'll see...)
         Narr:	Arriving in your room, you feel more tired than earlier.
         Narr:	However, you still feel slightly restless...
@@ -5267,7 +5267,7 @@ Belle:	Well? What are you waiting for?
                                 Naomi:	(He's sweet...)
                                 Me: 	Didn't you want me to bring you one?
                                 Naomi:	Yeah, yeah.
-                                Naomi:	Thanks, [m!t].
+                                Naomi:	Thanks, Dennis.
                                 Naomi:	Come in. Let's chat a little.
                                 Me: 	Wouldn't we wake Violet up?
                                 Naomi:	Oh, Violet? No. She sleeps really soundly.
@@ -5287,7 +5287,7 @@ Belle:	Well? What are you waiting for?
                                             Naomi:	How sweet... And, what did you want to do with me?
                                 Naomi:	Oh, do I?
                                 Me: 	Yeah...
-                                Naomi:	Well, [m!t]...
+                                Naomi:	Well, Dennis...
                                 Naomi:	Who knew you'd grow a pair so quickly.
                                 Me: 	Hey, what the hell?
                                 Me: 	I came here to bring you a sweater...
@@ -5310,7 +5310,7 @@ Belle:	Well? What are you waiting for?
                                         Naomi:	Just relax...
                                         Naomi:	Go with the flow.
                                         Me: 	Okay...
-                                        Naomi:	Does this feel good, [m!t]?
+                                        Naomi:	Does this feel good, Dennis?
                                         Me: 	Yeah... it does.
                                         Naomi:	Good.
                                         Naomi:	Stay like that...
@@ -5357,10 +5357,10 @@ Belle:	Well? What are you waiting for?
                                         Naomi:	I'm just tired, and it's pretty late.
                                         Me: 	Yeah, it is.
                                         Me: 	I'll head out, and let you go to sleep.
-                                        Naomi:	Thanks for bringing the sweater, [m!t].
+                                        Naomi:	Thanks for bringing the sweater, Dennis.
                                         Me: 	No problem.
                                         Me: 	Night, Naomi.
-                                        Naomi:	Night, [m!t].
+                                        Naomi:	Night, Dennis.
                                         Me: 	How about you...
                                         Me: 	Just enjoy my touch?
                                         Naomi:	You want me to...
@@ -5393,7 +5393,7 @@ Belle:	Well? What are you waiting for?
                                         Me: 	Then, just enjoy this...
                                         Naomi:	*Quiet moan* Fuuu...
                                         Naomi:	Mmmm...
-                                        Naomi:	Keep going, [m!t]...
+                                        Naomi:	Keep going, Dennis...
                                         Me: 	If you insist.
                                         Naomi:	Mmmf...
                                         Me: 	You're dripping wet...
@@ -5415,7 +5415,7 @@ Belle:	Well? What are you waiting for?
                                                 Naomi:	Who knows how loud I'd be yelping...
                                                 Me: 	I don't know if I'm happy to hear that, or slightly disappointed...
                                                 Naomi:	Oh, it'll still be sexy...
-                                                Naomi:	Refocus, [m!t]...
+                                                Naomi:	Refocus, Dennis...
                                                 Naomi:	Mmmmmm... Feels amazing...
                                                 Naomi:	Keep going...
                                                 Naomi:	*Quiet moans* Fuuuuuucccckkk...
@@ -5438,10 +5438,10 @@ Belle:	Well? What are you waiting for?
                                                 Naomi:	No... I'm just tired, and it's pretty late.
                                                 Me: 	Yeah, it is.
                                                 Me: 	I'll head out, and let you go to sleep.
-                                                Naomi:	Thanks for bringing the sweater, [m!t].
+                                                Naomi:	Thanks for bringing the sweater, Dennis.
                                                 Me: 	No problem.
                                                 Me: 	Night, Naomi.
-                                                Naomi:	Night, [m!t].
+                                                Naomi:	Night, Dennis.
                                                 Me: 	I'll show you...
                                                 Me: 	...my strength.
                                                 Naomi:	Huh?
@@ -5466,16 +5466,16 @@ Belle:	Well? What are you waiting for?
                                                 Naomi:	Don't worry about it.
                                                 Me: 	If you say so...
                                                 Me: 	You're her cabinmate after all.
-                                                Naomi:	*Yawn* Just relax, [m!t]...
+                                                Naomi:	*Yawn* Just relax, Dennis...
                                                 Me: 	Oh, am I boring you?
                                                 Naomi:	No... I'm just tired, and it's pretty late.
                                                 Me: 	Yeah, it is.
                                                 Me: 	I'll head out, and let you go to sleep.
-                                                Naomi:	Thanks for bringing the sweater, [m!t].
+                                                Naomi:	Thanks for bringing the sweater, Dennis.
                                                 Naomi:	*Whisper* And, for serving me so well.
                                                 Me: 	*Quiet chuckle* It's my pleasure.
                                                 Me: 	Night, Naomi.
-                                                Naomi:	Night, [m!t].
+                                                Naomi:	Night, Dennis.
                                 Naomi:	Oh, really?
                                 Naomi:	I can't say I'm surprised to hear that...
                                 Naomi:	*Sigh* Thanks for being honest with me, though.
@@ -5490,7 +5490,7 @@ Belle:	Well? What are you waiting for?
                                 Naomi:	Just relax...
                                 Naomi:	Go with the flow.
                                 Me: 	Okay...
-                                Naomi:	Does this feel good, [m!t]?
+                                Naomi:	Does this feel good, Dennis?
                                 Me: 	Yeah... it does.
                                 Naomi:	Perfect.
                                 Naomi:	Stay like that...
@@ -5546,10 +5546,10 @@ Belle:	Well? What are you waiting for?
                                 Naomi:	No... I'm just tired, and it's pretty late.
                                 Me: 	Yeah, it is.
                                 Me: 	I'll head out, and let you go to sleep.
-                                Naomi:	Thanks for bringing the sweater, [m!t].
+                                Naomi:	Thanks for bringing the sweater, Dennis.
                                 Me: 	No problem.
                                 Me: 	Night, Naomi.
-                                Naomi:	Night, [m!t].
+                                Naomi:	Night, Dennis.
                         Narr:	You decide to stay in bed, browsing the internet a bit.
                         Narr:	Eventually, your eyes begin to burn and sleep begins to take you.
                         Me: 	(What time is it?)
@@ -5598,7 +5598,7 @@ Belle:	Well? What are you waiting for?
                             Kiara:	Huh?
                             Me: 	(Shit!)
                             Kiara:	Who's there?
-                            Me: 	Kiara, it's me. [m!t].
+                            Me: 	Kiara, it's me. Dennis.
                             Kiara:	[m!ct]? What are you doing in my room?
                             Kiara:	Why'd you wake me up?
                             Me: 	I just wanted to see if you were awake.
@@ -5612,7 +5612,7 @@ Belle:	Well? What are you waiting for?
                                 Kiara:	Honestly, I should be asking you that...
                                 Kiara:	Especially after what I did to you.
                                 Me: 	It's okay, Kiara...
-                                Kiara:	No, it's not. It's really messed up, [m!t].
+                                Kiara:	No, it's not. It's really messed up, Dennis.
                                 Kiara:	*Sigh* Sometimes, I think spending so many summers with mental patients...
                                 Kiara:	...has fucked me up a little.
                                 Me: 	You've had to deal with pretty stressful shit, Kiara.
@@ -5637,7 +5637,7 @@ Belle:	Well? What are you waiting for?
                                 Me: 	Oh, yeah...
                                 Kiara:	You like that?
                                 Kiara:	Just focus on the pleasure...
-                                Kiara:	Grab my hair, [m!t].
+                                Kiara:	Grab my hair, Dennis.
                                 Me: 	Are you sure, Kiara?
                                 Kiara:	Pull me in hard, I can take it.
                                 Kiara:	MMph. Mmm. Yeah.
@@ -5647,13 +5647,13 @@ Belle:	Well? What are you waiting for?
                                 Me: 	Ahh... Kiara...
                                 Kiara:	Mmmph. Aah!
                                 Me: 	Ah, Kiara... I'm gonna...
-                                Kiara:	Mmph. Give it to me, [m!t].
+                                Kiara:	Mmph. Give it to me, Dennis.
                                 Kiara:	(So much...)
                                 Kiara:	Did I make it up to you properly?
                                 Me: 	Yeah... I think you did.
                                 Me: 	That was amazing, Kiara.
                                 Kiara:	Good, wouldn't want you all pent-up before sleep.
-                                Kiara:	Good night, [m!t].
+                                Kiara:	Good night, Dennis.
                                 Me: 	Good night, Kiara.
                                 Me: 	(I'm glad that's behind us, now.)
                                 Me: 	(What wild shit will happen tomorrow?)
@@ -5661,7 +5661,7 @@ Belle:	Well? What are you waiting for?
                                 Kiara:	I'm just surprised to see you...
                                 Kiara:	Especially after what I did to you.
                                 Me: 	It's okay, Kiara...
-                                Kiara:	No, it's not. It's really messed up, [m!t].
+                                Kiara:	No, it's not. It's really messed up, Dennis.
                                 Kiara:	*Sigh* Sometimes, I think spending so many summers with mental patients...
                                 Kiara:	...has fucked me up a little.
                                 Me: 	You've had to deal with pretty stressful shit, Kiara.
@@ -5671,7 +5671,7 @@ Belle:	Well? What are you waiting for?
                                 Kiara:	Thanks for forgiving me...
                                 Me: 	No problem, Kiara.
                                 Me: 	I'll let you go back to sleep, now.
-                                Kiara:	Okay. Night, [m!t].
+                                Kiara:	Okay. Night, Dennis.
                                 Me: 	Night, Kiara.
                                 Me: 	(I'm glad that's behind us, now.)
                                 Me: 	(What crazy shit will happen tomorrow?)

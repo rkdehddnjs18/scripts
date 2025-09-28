@@ -32,7 +32,7 @@ Me: 	(I should check the time...)
     Me: 	(Was she blowing that kiss to...)
     Me: 	You wince at the thought of it... 
     Me: 	But, something stirs within you, deep down...
-    Me: 	(Focus, [m!t]...)
+    Me: 	(Focus, Dennis...)
     Me: 	(Did you actually take that picture of Eve?!)
     Me: 	(No...)
     Me: 	(Am I... dreaming?)
@@ -247,7 +247,7 @@ Eve:	Well, I think it's important to watch the news.
 Eve:	So I know what's happening in the world.
 Me: 	OK boomer.
 Eve:	Hey, now! I'm Gen X.
-Eve:	And, good morning to you too, [m!t].
+Eve:	And, good morning to you too, Dennis.
 Me: 	Yeah, well, "Gen X" doesn't roll off the tongue as smoothly.
 Eve:	Yeah, yeah.
 Eve:	Anyway...
@@ -268,7 +268,7 @@ Me: 	Well...
             Me: 	(I don't want any alarm bells going off in her head.)
                 Eve:	So?
                 Me: 	Well, it's just kinda weird.
-                Eve:	You know I'm not in the business of judging people, [m!t].
+                Eve:	You know I'm not in the business of judging people, Dennis.
                 Me: 	I know...
                 Me: 	It's weird, because I had a dream about the eclipse.
                 Me: 	Before I knew it would happen.
@@ -299,7 +299,7 @@ Me: 	Well...
                 Eve:	Well?
                 Me: 	Well, it was all just so vivid.
                 Me: 	But, also really surreal and strange.
-                Eve:	Would you care to go into a little more detail, [m!t]?
+                Eve:	Would you care to go into a little more detail, Dennis?
                 Me: 	I'll try, but the details are getting foggier every second that goes by.
                 Me: 	So, I woke up in my bed, thinking it was early morning.
                 Me: 	I went over to the curtains, and opened them to see...
@@ -395,7 +395,7 @@ Me: 	Well...
         Me: 	But, the feeling was so strong.
         Eve:	Deja vu usually happens to people when they're under stress.
         Me: 	Hmm...
-        Eve:	Oh, come on [m!t]...
+        Eve:	Oh, come on Dennis...
         Eve:	You don't think I'm asking too much of you, do you?
         Me: 	No, not really.
         Me: 	Maybe it's lingering stress from final exams.
@@ -430,7 +430,7 @@ Emily:	[m!ct]! I thought janitors were supposed to clean messes, not make them.
 Me: 	I was just a little distracted by the TV.
 Eve:	Emily, he's still in dreamland.
 Emily:	*Giggle* Clearly.
-Emily:	Want me to get you a refill, [m!t]?
+Emily:	Want me to get you a refill, Dennis?
 Me: 	Thanks, Em. That would be great.
 Emily:	Oh! Just promise not to spill it again.
 Me: 	*Chuckle* Yeah, yeah. Lightning doesn't strike the same place twice.
@@ -458,7 +458,7 @@ Kiara:	Ugh, never mind! I knew you'd make fun of it!
 Me: 	C'mon, Emily was just teasing you. Go on.
 Kiara:	Whatever, it's too early for Emily's nonsense.
 Emily:	So sensitive.
-Emily:	How did you sleep, [m!t]?
+Emily:	How did you sleep, Dennis?
 Emily:	Did you have an exciting dream, too?
 Me: 	(Oh, god, did she hear me?)
 Me: 	I don't remember what I dreamed of.
@@ -470,9 +470,9 @@ Me: 	What?!
 Kiara:	You did?
 Me: 	No, I didn't!
 Me: 	Stop making things up, Emily!
-Emily:	I think [m!t] has a thing for Stacy.
+Emily:	I think Dennis has a thing for Stacy.
 Me: 	That's not true!
-Emily:	Did you notice, [m!t]?
+Emily:	Did you notice, Dennis?
 Me: 	Notice what?
 Emily:	How Kiara's dream is really familiar.
 Kiara:	What are you talking about?
@@ -499,7 +499,7 @@ Emily:	Yeah, but, it's strange, no?
         Me: 	My phone was off, and the laptop...
         Emily:	Yes?
         Me: 	The laptop, um...
-        Me: 	(Think fast, [m!t]!)
+        Me: 	(Think fast, Dennis!)
         Me: 	...had a weird wallpaper.
         Eve:	Why was it weird?
         Me: 	It was of some random girl.
@@ -508,10 +508,10 @@ Emily:	Yeah, but, it's strange, no?
         Emily:	I think it was Stacy.
         Me: 	I told you to stop with that!
         Eve:	Why would pictures of Stacy be on your laptop?
-        Emily:	Because she was in [m!t]'s dream last night.
+        Emily:	Because she was in Dennis's dream last night.
         Eve:	She was?
         Me: 	Yes, I did dream about her, but not in the way Emily is suggesting.
-        Emily:	We're all ears, [m!t].
+        Emily:	We're all ears, Dennis.
         Me: 	Okay, so, at one point I looked out of the window and the sky was crimson.
         Me: 	There was a silhouette standing outside, but I couldn’t see who it was.
         Kiara:	Why was the sky crimson?
@@ -523,11 +523,11 @@ Emily:	Yeah, but, it's strange, no?
         Me: 	I went after her, but eventually she disappeared.
         Emily:	Where did she disappear?
         Me: 	You know what, I’m done with this interrogation.
-        Emily:	Oh, come on, [m!t]! We're joking. We really want to know!
-        Eve:	I'm sorry, [m!t]. I can't speak for Emily, but I'm genuinely interested.
+        Emily:	Oh, come on, Dennis! We're joking. We really want to know!
+        Eve:	I'm sorry, Dennis. I can't speak for Emily, but I'm genuinely interested.
         Me: 	I saw Stacy in my dream. I don’t know why that’s so weird!
         Me: 	I’ve been spending time with them, seeing that I'm staff here.
-        Eve:	Of course. No one’s accusing you, [m!t].
+        Eve:	Of course. No one’s accusing you, Dennis.
         Eve:	Dreams shouldn't always be interpreted literally.
         Eve:	It’s perfectly natural that one of the patients appeared in your dreams.
         Eve:	But, it depends on a lot of different factors, though.
@@ -560,7 +560,7 @@ Emily:	Yeah, but, it's strange, no?
         Me: 	My phone was off, and the laptop...
         Emily:	Yes?
         Me: 	The laptop, um...
-        Me: 	(Think fast, [m!t]!)
+        Me: 	(Think fast, Dennis!)
         Me: 	...had a weird wallpaper.
         Emily:	What kind of weird wallpaper?
         Me: 	It was of some random girl.
@@ -568,11 +568,11 @@ Emily:	Yeah, but, it's strange, no?
         Me: 	Of course not!
         Emily:	I bet it was Stacy.
         Me: 	I told you to stop with that!
-        Kiara:	Why would pictures of Stacy be on [m!t]'s laptop?
+        Kiara:	Why would pictures of Stacy be on Dennis's laptop?
         Eve:	Hmm... Stacy was the main figure in his dream.
         Kiara:	She was?
         Me: 	Yes, I did dream about her, but not in the way you think.
-        Emily:	We're all ears, [m!t].
+        Emily:	We're all ears, Dennis.
         Me: 	Okay, so, at one point I looked out of the window and the sky was crimson.
         Me: 	There was a silhouette standing outside, but I couldn’t see who it was.
         Kiara:	Why was the sky crimson?
@@ -584,14 +584,14 @@ Emily:	Yeah, but, it's strange, no?
         Me: 	I went after her, but eventually she disappeared.
         Emily:	Where did she disappear?
         Me: 	You know what, I’m done with this interrogation.
-        Emily:	Oh, come on, [m!t]! We're joking. We really want to know!
-        Eve:	I'm sorry, [m!t].
+        Emily:	Oh, come on, Dennis! We're joking. We really want to know!
+        Eve:	I'm sorry, Dennis.
         Eve:	You'll have to excuse their curiosity about your dream.
         Eve:	And, their assumptions of why Stacy was there...
         Me: 	Yeah, I saw Stacy in my dream.
         Me: 	I don’t know why that’s so weird!
         Me: 	I’ve been spending time with them, seeing that I'm staff here.
-        Eve:	Of course. No one’s accusing you of anything, [m!t].
+        Eve:	Of course. No one’s accusing you of anything, Dennis.
         Eve:	Dreams shouldn't always be interpreted literally.
         Eve:	It’s perfectly natural that one of the patients appeared in your dreams.
         Eve:	But, it depends on a lot of different factors, though.
@@ -617,15 +617,15 @@ Emily:	Yeah, but, it's strange, no?
     Emily:	That Kiara is dreaming about a forest.
     Eve:	Why would that be strange?
     Kiara:	I don't know.
-    Emily:	Well, because Kiara is dreaming about [m!t]’s experience.
+    Emily:	Well, because Kiara is dreaming about Dennis’s experience.
     Me: 	It’s not the same. You’ve been watching too many movies, Emily.
     Emily:	I’m actually more into reality shows lately.
     Eve:	What experience are you talking about?
     Kiara:	I was dreaming about being in a forest...
-    Kiara:	...and Emily quickly deduced that it’s similar to [m!t]’s experience.
+    Kiara:	...and Emily quickly deduced that it’s similar to Dennis’s experience.
     Emily:	Where he got really scared of the fluffy forest critters.
     Me: 	I actually ended up unconscious.
-    Kiara:	Maybe we should drop this, Emily. I don’t think [m!t] would like to remember it.
+    Kiara:	Maybe we should drop this, Emily. I don’t think Dennis would like to remember it.
     Emily:	Are you sure?
     Eve:	I see... Why is all of this so important?
     Eve:	(What is she getting at?)
@@ -633,7 +633,7 @@ Emily:	Yeah, but, it's strange, no?
     Me: 	People have similar dreams. It’s not so unusual, Emily.
     Eve:	That’s true.
     Eve:	On the other hand, peoples' subconscious can be woven into their narrative.
-    Emily:	Yeah. Kiara was really sympathetic to [m!t]'s experience.
+    Emily:	Yeah. Kiara was really sympathetic to Dennis's experience.
     Eve:	[m!ct], come by my office after breakfast.
     Eve:	I'll need to speak with you.
     Me: 	(Shit! Did she figure it out?)
@@ -645,7 +645,7 @@ Emily:	Yeah, but, it's strange, no?
     Emily:	I know, right?
 Emily:	I’m starving. Who’s making breakfast?
 Me: 	I vote for Emily.
-Emily:	And I vote for [m!t].
+Emily:	And I vote for Dennis.
 Kiara:	I vote for Emily, too.
 Emily:	Hey! That's not fair!
 Kiara:	Life's not fair. Get used to it.
@@ -654,7 +654,7 @@ Me: 	Whatever gets us breakfast sooner...
 Me: 	They were talking about an eclipse on TV this morning.
 Kiara:	Really? That's weird...
 Emily:	What's weird?
-Kiara:	That [m!t] dreamed of an eclipse a day before one is going to happen.
+Kiara:	That Dennis dreamed of an eclipse a day before one is going to happen.
 Emily:	When was the first time you felt your psychic powers developing?
 Me: 	What?
 Emily:	Can you tell us what will happen today?
@@ -690,7 +690,7 @@ Me: 	You sure do...
 Me: 	Anyway, see you two later. Eve's expecting me.
 Narr:	Having finished your breakfast, you go to Eve's office.
 Eve:	Come in!
-Eve:	Ah, [m!t]!
+Eve:	Ah, Dennis!
 Me: 	Hey, Eve.
 Eve:	Please, sit down.
 Eve:	How have the last couple of days been for you?
@@ -747,7 +747,7 @@ Me: 	I'm positive.
     Eve:	(It’s cute seeing him squirm like this.)
     Eve:	(I still haven’t seen him do anything suspicious, but...)
     Eve:	(I better keep an eye on him.)
-    Eve:	Relax, [m!t].
+    Eve:	Relax, Dennis.
     Eve:	I'm just teasing you.
     Eve:	It's perfectly normal.
     Me: 	It is?
@@ -762,7 +762,7 @@ Me: 	I'm positive.
     Me: 	She gets a kick out of teasing Kiara and making her uncomfortable. 
     Eve:	Why does she think Kiara was really sympathetic to your experience?
     Eve:	It seemed to me she was hinting at something.
-    Me: 	(Ah, shit! Poker face, [m!t].)
+    Me: 	(Ah, shit! Poker face, Dennis.)
     Me: 	(Poker. Face.)
     Me: 	I honestly have no idea.
     Me: 	God knows what happens in that head of hers.
@@ -801,14 +801,14 @@ Me: 	(I’ve already started doing something like that.)
 Me: 	This all sounds good to me.
 Me: 	Thank you for including me in your work.
 Me: 	I have so much to learn, and I couldn’t get a better teacher than yourself.
-Eve:	Aww, you’re really sweet, [m!t].
+Eve:	Aww, you’re really sweet, Dennis.
 Eve:	I do love teaching.
 Eve:	Anyway, I’ll have the notes prepared for you.
 Eve:	Swing by my office a bit later so we can go over them. 
 Me: 	(Sweet!)
 Me: 	Great! I'm excited!
 Me: 	See you later, Eve!
-Eve:	Bye, [m!t]!
+Eve:	Bye, Dennis!
 Stacy:	I can't...
 Stacy:	Where are you going?
 Belle:	Hmm?
@@ -880,7 +880,7 @@ Belle:	Agreed.
 Eve:	Right. We're nearly there.
 Eve:	I hope the girls got a good night's sleep.
 Emily:	I'm sure they did.
-Emily:	Unlike [m!t].
+Emily:	Unlike Dennis.
 Me: 	I'm starting to think I won't get a good night's sleep here.
 Emily:	Maybe Kiara and I put rocks in your mattress?
 Eve:	*Chuckle* Emily, did you two really do that?
@@ -932,7 +932,7 @@ Me: 	Sure, Eve.
 Me: 	I'm ready for whatever tasks you have for me.
 Eve:	Oh, don't worry. I won't go overboard.
 Me: 	Thanks, Eve.
-        Narr:	Where should [m!t] go?
+        Narr:	Where should Dennis go?
                 Narr:	Which Cabin would you like to check
     Me: 	(I wonder what Naomi and Violet have been up to.)
     Me: 	(Hopefully not bitching at each other.)
@@ -942,7 +942,7 @@ Me: 	Thanks, Eve.
     Me: 	(Nobody's home?)
     Me: 	(I wonder where Violet is. Probably doing yoga at the dock.)
     Me: 	(And, Naomi is... Somewhere.)
-            Narr:	Where should [m!t] go?
+            Narr:	Where should Dennis go?
     Me: 	(Couldn't hurt to see what Belle and Stacy are doing...)
     Narr:	Just as you're about to knock, Belle opens the door.
     Belle:	Hey handsome, looking for me?
@@ -986,9 +986,9 @@ Me: 	Thanks, Eve.
     Me: 	I don't feel anything.
     Belle:	Are you sure?
     Belle:	You feel something.
-    Belle:	Is this turning you on, [m!t]?
+    Belle:	Is this turning you on, Dennis?
     Me: 	Feeling you up? You know it is...
-    Belle:	Thank you, [m!t]. I just wanted to make sure everything is okay.
+    Belle:	Thank you, Dennis. I just wanted to make sure everything is okay.
     Belle:	You've been a great help.
     Me: 	Sure, anytime.
     Me: 	(She's just fucking with me.)
@@ -1173,7 +1173,7 @@ Me: 	Thanks, Eve.
     Kiara:	Who knows. It could be that her libido is insatiable.
     Kiara:	Or someone hurt her.
     Me: 	And that's why she's so obsessed with sex?
-    Kiara:	Ahh, [m!t]. There's a lot you don't understand about women.
+    Kiara:	Ahh, Dennis. There's a lot you don't understand about women.
     Kiara:	It's about taking control.
     Me: 	Huh.
     Kiara:	By the way, don't fret about Eve so much.
@@ -1251,11 +1251,11 @@ Me: 	Thanks, Eve.
             Narr:	Trying to forget about the dangers of being caught, you close your eyes, take a deep breath, and...
             Narr:	...go back to your zen state.
     Me: 	Hey, Violet.
-    Violet:	Hi, [m!t].
+    Violet:	Hi, Dennis.
     Violet:	You came to join me in my morning yoga?
     Me: 	Yeah.
     Me: 	I decided to finally take you up on your offer.
-    Violet:	That's wonderful, [m!t].
+    Violet:	That's wonderful, Dennis.
     Violet:	We'll keep it an easy session.
     Violet:	None of the advanced poses.
     Me: 	Oh, you think I can't handle it?
@@ -1269,7 +1269,7 @@ Me: 	Thanks, Eve.
     Me: 	(Hmm...)
         Me: 	(Hmm...)
             Me: 	I think we can take it easy.
-            Violet:	Okay, [m!t]. We can do some beginner poses.
+            Violet:	Okay, Dennis. We can do some beginner poses.
             Me: 	Great! That's better, since I'm still shaking off sleep.
             Violet:	Oh, you didn't sleep well?
             Me: 	Not really...
@@ -1280,15 +1280,15 @@ Me: 	Thanks, Eve.
             Me: 	Yeah, I'm certain it was.
             Violet:	Very weird...
             Me: 	Violet, can I ask you something?
-            Violet:	Sure, [m!t]. What's on your mind?
-                Violet:	Sure, [m!t]. What's on your mind?
+            Violet:	Sure, Dennis. What's on your mind?
+                Violet:	Sure, Dennis. What's on your mind?
                     Violet:	Stacy? Well... No, not really.
                         Violet:	Stacy? Well... No, not really.
                             Me: 	Hmm... Okay. Did you notice anything odd around camp last night?
                             Violet:	Yeah. She seemed totally fine to me.
                                 Violet:	Yeah. She seemed totally fine to me.
-                                    Violet:	I'm doing great, [m!t]. Thanks for asking.
-                                        Violet:	I'm doing great, [m!t]. Thanks for asking.
+                                    Violet:	I'm doing great, Dennis. Thanks for asking.
+                                        Violet:	I'm doing great, Dennis. Thanks for asking.
                     Violet:	Actually, yeah. It's really nice out here.
                         Violet:	Actually, yeah. It's really nice out here.
                             Me: 	I'm happy to hear that. You seem more relaxed than when you arrived.
@@ -1299,7 +1299,7 @@ Me: 	Thanks, Eve.
                                     Me: 	Did you happen to see anything on your walk last night?
             Me: 	I think I can handle the advanced poses.
             Me: 	Let's do this!
-            Violet:	If you say so, [m!t].
+            Violet:	If you say so, Dennis.
             Violet:	We'll start with this pose.
             Violet:	It'll warm your muscles up for the next poses.
             Me: 	This is easy, Violet.
@@ -1324,14 +1324,14 @@ Me: 	Thanks, Eve.
             Violet:	The name doesn't matter. Just watch my body.
             Violet:	See how my back is arched, and my arms are supporting most of the weight?
             Me: 	Uhh... Yeah.
-            Violet:	It's easy, [m!t]. You got this.
+            Violet:	It's easy, Dennis. You got this.
             Me: 	Of course. Yeah, I got this.
             Narr:	To your surprise, but nobody else's, you do not have this.
             Me: 	Ah! Shit!
             Violet:	[m!ct]! Are you okay?
             Me: 	I twisted my neck like in The Exorcist...
             Me: 	Ouch.
-            Violet:	Come here, [m!t].
+            Violet:	Come here, Dennis.
             Violet:	You need to relax the muscles you pulled in your neck.
             Me: 	It's oka--
             Me: 	Wow...
@@ -1340,7 +1340,7 @@ Me: 	Thanks, Eve.
             Violet:	I've learned some great massage techniques over the years.
             Violet:	It's a necessity for someone with my lifestyle.
             Me: 	You've got magic hands, Violet.
-            Violet:	Thank you, [m!t].
+            Violet:	Thank you, Dennis.
             Me: 	No, no. Thank you.
             Me: 	People would pay hundreds for a massage like this.
             Violet:	You think so?
@@ -1360,16 +1360,16 @@ Me: 	Thanks, Eve.
             Me: 	Yeah, I'm certain it was.
             Violet:	Very weird...
             Me: 	Violet, can I ask you something?
-            Violet:	Sure, [m!t]. What is it?
-                Violet:	Sure, [m!t]. What is it?
+            Violet:	Sure, Dennis. What is it?
+                Violet:	Sure, Dennis. What is it?
                     Violet:	Stacy? Well, no. Not really.
                         Violet:	Stacy? Well, no. Not really.
                             Me: 	Okay. Did you notice anything out of the ordinary around camp last night?
                             Violet:	Yeah, she seemed totally fine to me.
                                 Violet:	Yeah, she seemed totally fine to me.
                                     Me: 	That's good. How are you doing this morning?
-                                    Violet:	I'm doing great, [m!t]. Thanks for asking.
-                                        Violet:	I'm doing great, [m!t]. Thanks for asking.
+                                    Violet:	I'm doing great, Dennis. Thanks for asking.
+                                        Violet:	I'm doing great, Dennis. Thanks for asking.
                     Violet:	Yeah, I actually have. It's really nice out here in nature.
                         Violet:	Yeah, I actually have. It's really nice out here in nature.
                             Me: 	Happy to hear it. You do seem more relaxed than day one.
@@ -1397,7 +1397,7 @@ Me: 	Thanks, Eve.
     Me: 	(It could have been Belle...)
     Me: 	(On the prowl for some stimulation.)
     Me: 	(Or, Stacy--)
-    Violet:	Anyway, it's been really nice, [m!t].
+    Violet:	Anyway, it's been really nice, Dennis.
     Violet:	I know yoga isn't that thrilling.
     Violet:	So, thanks for following through.
     Me: 	Violet, you don't need to thank me.
@@ -1407,7 +1407,7 @@ Me: 	Thanks, Eve.
         Me: 	Another offer I'll have to take you up on?
         Violet:	That's for you to decide.
     Violet:	Right now, I'm dripping with sweat.
-    Violet:	I should really go freshen up, [m!t].
+    Violet:	I should really go freshen up, Dennis.
     Violet:	See you later.
     Me: 	See ya, Violet.
     Violet:	Hmm...
@@ -1418,11 +1418,11 @@ Me: 	Thanks, Eve.
     Violet:	I think what she's doing here is really selfless.
     Me: 	I'll be sure to tell her. I'm sure it'll make her day.
     Me: 	I'm just glad to see you finally out of your shell.
-    Violet:	Oh, [m!t]. You're too sweet...
+    Violet:	Oh, Dennis. You're too sweet...
     Me: 	You are too. You're the sweetest girl at camp.
     Violet:	Oh, stop it. You're making me blush.
     Me: 	*Chuckle* I can't help it.
-    Violet:	Anyway... it's been really nice, [m!t].
+    Violet:	Anyway... it's been really nice, Dennis.
     Violet:	I know yoga isn't that thrilling.
     Violet:	So, thanks for following through.
     Me: 	Violet, you don't need to thank me.
@@ -1433,7 +1433,7 @@ Me: 	Thanks, Eve.
         Violet:	That's for you to decide.
     Violet:	Right now, I'm dripping with sweat.
     Violet:	So, I should really go freshen up.
-    Violet:	See you later, [m!t]!
+    Violet:	See you later, Dennis!
     Me: 	See ya, Violet.
     Violet:	Well, yoga helps my body release tension.
     Violet:	It helps me balance my mind and emotions.
@@ -1447,9 +1447,9 @@ Me: 	Thanks, Eve.
     Violet:	At this point I'd rather focus on becoming an athlete again.
     Violet:	But, maybe someday I could open a yoga studio.
     Me: 	I think you'll crush it if you do.
-    Violet:	Thanks, [m!t].
+    Violet:	Thanks, Dennis.
     Violet:	Maybe I'll invite you to the grand opening some day.
-    Violet:	Anyway... It's been really nice, [m!t].
+    Violet:	Anyway... It's been really nice, Dennis.
     Violet:	I know yoga isn't that thrilling.
     Violet:	So, thanks for following through.
     Me: 	Violet, you don't need to thank me.
@@ -1460,7 +1460,7 @@ Me: 	Thanks, Eve.
         Violet:	That's for you to decide.
     Violet:	Right now, I'm dripping with sweat.
     Violet:	So, I should really go freshen up.
-    Violet:	See you later, [m!t]!
+    Violet:	See you later, Dennis!
     Me: 	See ya, Violet.
         Me: 	(It's a nice day out. I still have a couple of hours left.)
         Narr:	You don't want to disrupt this meditative flow.
@@ -1472,8 +1472,8 @@ Me: 	Thanks, Eve.
         Narr:	Hanging out with the girls has been fun, but you have a big day ahead of you.
         Narr:	Some peace and quiet might not be so bad.
         Me: 	(Let's check what the others are doing.)
-        Narr:	Where should [m!t] go?
-                Narr:	From which side should [m!t] enter house?
+        Narr:	Where should Dennis go?
+                Narr:	From which side should Dennis enter house?
         Narr:	Hanging out with the girls has been fun, but you have a big day ahead of you.
         Narr:	Some peace and quiet might not be so bad.
         Me: 	(No place at camp is as relaxing as the house...)
@@ -1504,7 +1504,7 @@ Me: 	Thanks, Eve.
     Me: 	(Someone's been watching porn in the living room?)
     Me: 	(Damn! That's hardcore.)
     Me: 	(I doubt Eve left this on. Which leaves...)
-    Emily:	Watching porn here? How dirty of you, [m!t].
+    Emily:	Watching porn here? How dirty of you, Dennis.
     Me: 	Jesus, Em!
     Me: 	This isn't what it looks like!
     Emily:	It looks like you were watching porn.
@@ -1555,7 +1555,7 @@ Me: 	Thanks, Eve.
     Me: 	(Oh, the notes!)
     Me: 	(I totally forgot about that!)
     Me: 	Sure thing.
-    Kiara:	I'll see you a bit later. [m!t].
+    Kiara:	I'll see you a bit later. Dennis.
     Kiara:	Get some rest.
     Eve:	Please, sit down.
     Eve:	Are you feeling any better?
@@ -1569,11 +1569,11 @@ Me: 	Thanks, Eve.
     Eve:	Don’t think about the bad outcomes, just think about the session itself.
     Eve:	Do you remember what the first session will be about?
         Eve:	Do you remember what the first session will be about?
-            Eve:	I’m glad you’ve been paying attention, [m!t].
+            Eve:	I’m glad you’ve been paying attention, Dennis.
             Eve:	This is one of the most important qualities a therapist should possess.
             Me: 	Good to know I’m off to a good start.
             Eve:	An excellent one.
-            Eve:	I was hoping you’d pay more attention, [m!t].
+            Eve:	I was hoping you’d pay more attention, Dennis.
             Me: 	(Ah, shit. Wrong answer.)
             Eve:	Attention to details is one of the most important qualities a therapist should possess.
             Me: 	Sorry, I haven’t slept that well.
@@ -1610,7 +1610,7 @@ Me: 	Thanks, Eve.
     Me: 	I will try my best.
     Eve:	Well, that’s about it.
     Eve:	We’ll see how it goes in the actual session.
-    Eve:	I’m having high hopes for you, [m!t].
+    Eve:	I’m having high hopes for you, Dennis.
     Me: 	I’ll try not to disappoint.
     Eve:	You won’t.
     Eve:	I’ll meet you at the cabins in some 20 minutes?
@@ -1619,7 +1619,7 @@ Me: 	Thanks, Eve.
     Eve:	Bye!
 Narr:	In the distance, you see Naomi sitting at the gazebo table.
 Me: 	Hey Naomi. What's up?
-Naomi:	Hey, [m!t].
+Naomi:	Hey, Dennis.
 Naomi:	Come to entertain me?
 Me: 	Nah, I was just curious...
 Naomi:	About?
@@ -1633,20 +1633,20 @@ Me: 	I just wanted to hang out with you for a bit.
 Me: 	See how you're doing.
 Naomi:	How thoughtful.
 Me: 	Well, I'm something of a gentleman myself.
-Naomi:	Yes, you are, [m!t].
+Naomi:	Yes, you are, Dennis.
 Naomi:	So...
 Naomi:	What's on your mind?
     Naomi:	What's on your mind?
         Me: 	I'm curious if you've noticed anything weird in the past few days.
-        Naomi:	Did my story really get to you that much, [m!t]?
-            Naomi:	Did my story really get to you that much, [m!t]?
+        Naomi:	Did my story really get to you that much, Dennis?
+            Naomi:	Did my story really get to you that much, Dennis?
                 Me: 	No... I was actually wondering if you saw or heard anything around the cabins.
                 Naomi:	Hmm... I don't think so. But...
                     Naomi:	Hmm... I don't think so. But...
                 Me: 	It was pretty spooky. Are you working on any new stories?
         Me: 	I just wanted to know how you've been doing.
-        Naomi:	How considerate of you. I'm doing well, [m!t]. But, that's not what this is really about... is it?
-            Naomi:	How considerate of you. I'm doing well, [m!t]. But, that's not what this is really about... is it?
+        Naomi:	How considerate of you. I'm doing well, Dennis. But, that's not what this is really about... is it?
+            Naomi:	How considerate of you. I'm doing well, Dennis. But, that's not what this is really about... is it?
                 Me: 	You got me. I was also wondering if you noticed anything weird around the cabins last night.
                 Naomi:	Not that I can think of right now. But maybe...
                     Naomi:	Not that I can think of right now. But maybe...
@@ -1654,7 +1654,7 @@ Naomi:	What's on your mind?
 Naomi:	I'd rather not say.
 Naomi:	What exactly did you want to learn?
 Naomi:	Something naughty about the other girls?
-Naomi:	How unprofessional, [m!t].
+Naomi:	How unprofessional, Dennis.
 Me: 	My professionalism is the reason I'm asking.
 Naomi:	Oh, really?
 Me: 	I'm just trying to make sure everyone is safe.
@@ -1689,7 +1689,7 @@ Me: 	(Oh shit... She really didn't want to hear that.)
 Naomi:	You think we're all attractive, huh?
 Naomi:	Taking the politician's approach, I see...
 Me: 	I can neither confirm nor deny that allegation.
-Naomi:	God! You're no fun, [m!t]!
+Naomi:	God! You're no fun, Dennis!
 Naomi:	Take a stance. Live a little!
 Me: 	If I said you were the most attractive, would you be pleased?
 Naomi:	Of course not.
@@ -1700,13 +1700,13 @@ Naomi:	But, I have to go.
 Naomi:	Places to be, things to do.
 Me: 	Things to do at Red Falls?
 Naomi:	I'm a busy girl.
-Naomi:	Ciao, [m!t]!
+Naomi:	Ciao, Dennis!
 Me: 	Later, Naomi.
 Me: 	(Well, that was something.)
 Me: 	(This day is full of surprises.)
 Me: 	(Some surprises were more... unexpected than others.)
 Me: 	(I honestly can't believe I'm not dreaming.)
-Naomi:	Oh, [m!t]...
+Naomi:	Oh, Dennis...
 Naomi:	You answered correctly, peon.
 Naomi:	I believe your service is worthy of a promotion.
 Me: 	Is the queen going to knight me?
@@ -1795,10 +1795,10 @@ Me: 	Okay, more than some.
 Naomi:	Anyway, I have a lot more work to do with that seed of an idea.
 Naomi:	It'll be some time before it becomes a real story.
 Me: 	Well, I volunteer to be the first person the story scares.
-Naomi:	Thank you, [m!t]. Your sacrifice will not be in vain.
+Naomi:	Thank you, Dennis. Your sacrifice will not be in vain.
 Naomi:	But, you'll have to be patient.
 Me: 	*Chuckle* I think I can manage.
-Naomi:	I think I'm needed elsewhere, [m!t].
+Naomi:	I think I'm needed elsewhere, Dennis.
 Naomi:	Bye, for now.
 Me: 	See you later, Naomi.
 Me: 	(Well, that was something.)
@@ -1806,7 +1806,7 @@ Me: 	(This day is full of surprises.)
 Me: 	(Some surprises were more... unexpected than others.)
 Me: 	(I honestly can't believe I'm not dreaming.)
     Me: 	(Naomi's probably sleeping. I shouldn't bother her.)
-            Narr:	Where should [m!t] go?
+            Narr:	Where should Dennis go?
 Belle:	Come in!
 Me: 	Did you lose something?
 Belle:	Not much to lose since we couldn't even bring anything interesting.
@@ -1829,8 +1829,8 @@ Belle:	If I minded, do you think I'd be good at what I do?
 Me: 	Point taken.
 Belle:	So?
 Me: 	Not bad!
-Belle:	So, what have you been up to, [m!t]?
-    Belle:	So, what have you been up to, [m!t]?
+Belle:	So, what have you been up to, Dennis?
+    Belle:	So, what have you been up to, Dennis?
         Me: 	Nothing much. Just walked around the camp for a bit.
         Belle:	Did you see anything interesting?
         Me: 	I mostly enjoyed the quiet morning.
@@ -1861,7 +1861,7 @@ Belle:	But, if some phantoms are visiting her during the night, I don't want to 
 Me: 	I'm sure no one is visiting Stacy in her dreams, Belle.
 Me: 	You're safe here.
 Me: 	But, I am worried about her.
-Belle:	She's a big girl, [m!t]. She can take care of herself.
+Belle:	She's a big girl, Dennis. She can take care of herself.
 Belle:	Besides, Dr. Eve would notice something is wrong with her, no?
 Me: 	Hmm, maybe.
 Belle:	If there's any more creepy talk, I'll let you know. Okay?
@@ -1884,7 +1884,7 @@ Belle:	Sex ed was always my favorite subject in school.
 Narr:	Belle's sweet lips taste like candy.
 Narr:	Unable to resist her, you slip her some tongue.
 Narr:	Her soft moans excite you even more and she kisses you harder.
-Belle:	Say [m!t], my pussy is reeeally wet.
+Belle:	Say Dennis, my pussy is reeeally wet.
 Belle:	I'm dying for you to take care of it.
 Belle:	Would you give me this pleasure?
     Belle:	Would you give me this pleasure?
@@ -1907,7 +1907,7 @@ Me: 	(This day is full of surprises.)
 Me: 	(Some surprises were more... unexpected than others.)
 Me: 	(I honestly can't believe I'm not dreaming.)
     Me: 	Of course.
-    Belle:	Excellent choice, [m!t].
+    Belle:	Excellent choice, Dennis.
 Belle:	Unzip your pants.
 Belle:	And, here comes the prize...
 Belle:	Oh, my...
@@ -1921,7 +1921,7 @@ Belle:	Lie on the bed and close your eyes.
 Narr:	You're not sure what she is planning to do, but you're getting really impatient.
 Narr:	Belle's pussy on your mouth surprises you, but then you're hit with...
 Narr:	...her lips around your cock.
-Belle:	Mmm, [m!t]. This feels aaamazing.
+Belle:	Mmm, Dennis. This feels aaamazing.
 Narr:	Without saying a word, you focus on Belle's clit, slowly circling your tongue on its surface.
 Belle:	*Glug*
 Belle:	Mmmhm...
@@ -1929,7 +1929,7 @@ Narr:	You trace your tongue up and down Belle's pussy, making her moan louder.
 Belle:	OOOoohh... Fuuuck yeeeah...
 Belle:	It feels so good...
 Belle:	Don't stop...
-Belle:	"Don't stop, [m!t]."
+Belle:	"Don't stop, Dennis."
 Kiara:	What?! Are they...?
 Kiara:	What the hell is going on here?!
 Me: 	Kiara, it's not what it--
@@ -1953,7 +1953,7 @@ Me: 	I'm not. But you're acting like a saint, and you're far from it.
 Belle:	I have a suggestion...
 Belle:	She can join in on our fun...
 Kiara:	What?! I'm not a lesbian!
-Belle:	I didn't say you were. We can share [m!t].
+Belle:	I didn't say you were. We can share Dennis.
 Belle:	I don't see why we couldn't turn this into a positive experience.
 Belle:	Instead of fighting.
 Belle:	Have you ever been with a woman?
@@ -1984,7 +1984,7 @@ Me: 	At least think about it.
     Me: 	Is that rough enough for you?
     Belle:	I'm a big girl, I can take it.
     Belle:	Mmm, that's what I wanted.
-    Belle:	Fuck me into oblivion, [m!t]. Make me more wet.
+    Belle:	Fuck me into oblivion, Dennis. Make me more wet.
     Narr:	Her words give you more momentum, and you start fucking her harder.
     Me: 	Fuck!
     Belle:	*Moans loudly*
@@ -2079,16 +2079,16 @@ Me: 	At least think about it.
     Me: 	*Grunts*
     Narr:	Your cock effortlessly slides in and out of Belle.
     Narr:	Her perfect ass rocks in unison.
-    Belle:	Stop, [m!t].
+    Belle:	Stop, Dennis.
     Me: 	What? Is something wrong?
     Belle:	No, no. But I'd like to try something else.
-    Belle:	Lie down, [m!t].
+    Belle:	Lie down, Dennis.
     Me: 	Umm, okay?
     Belle:	I'd like Kiara to sit on you.
     Kiara:	Like this?
     Belle:	Yeah.
     Me: 	*Grunts*
-    Kiara:	*Moans* Oh, [m!t]...
+    Kiara:	*Moans* Oh, Dennis...
     Kiara:	Someone's feeling feisty.
     Belle:	Why don't we try out something else?
     Kiara:	Something else?
@@ -2100,11 +2100,11 @@ Me: 	At least think about it.
     Narr:	Belle's wet pussy pressed on your face makes you fuck Kiara even harder.
         Narr:	Taking Belle's subtle hint...
         Narr:	You decide to switch things up.
-    Belle:	Oh fuck, [m!t]!
+    Belle:	Oh fuck, Dennis!
     Belle:	This is perfect...
     Narr:	You slide your tongue in Belle's pussy...
     Narr:	...while Kiara rides you, hard.
-    Kiara:	*Moans* Gah! You're in so deep, [m!t]!
+    Kiara:	*Moans* Gah! You're in so deep, Dennis!
     Kiara:	Don't...
     Kiara:	...don't stop!
     Narr:	You continue licking Belle's pussy as she slides her clitoris up and down your tongue.
@@ -2113,7 +2113,7 @@ Me: 	At least think about it.
     Kiara:	*Pant* Going...
     Belle:	MMmmmm, yeeeees...
     Me: 	Mmmffm... Fuuuck.
-    Belle:	Is this good enough for you, [m!t]?
+    Belle:	Is this good enough for you, Dennis?
     Belle:	Don't you fucking love this?
     Narr:	Taking Belle's subtle hint...
     Narr:	You decide to switch things up.
@@ -2135,13 +2135,13 @@ Me: 	At least think about it.
     Me: 	Ladies... Ladies.
     Me: 	Let's all just have a good time.
     Belle:	It was just a little teasing.
-    Belle:	I thought you like teasing, [m!t]?
+    Belle:	I thought you like teasing, Dennis?
     Me: 	I like this kind of teasing.
     Belle:	You hear that Kiara?
     Kiara:	Oh. Yeah...
-    Belle:	Come on, let's make [m!t] feel fucking amazing.
+    Belle:	Come on, let's make Dennis feel fucking amazing.
     Me: 	*Moans* Fuck... fuck yeah.
-    Belle:	Is this good enough for you, [m!t]?
+    Belle:	Is this good enough for you, Dennis?
     Belle:	Do you fucking love this?
     Narr:	Taking Belle's subtle hint...
     Narr:	You decide to switch things up.
@@ -2162,7 +2162,7 @@ Me: 	At least think about it.
     Belle:	Oh, honey...
     Belle:	This isn't a dream.
     Me: 	Fuuuck...
-    Belle:	Is this good enough for you, [m!t]?
+    Belle:	Is this good enough for you, Dennis?
     Belle:	Don't you just love this?
 Belle:	You don't need to answer that.
 Belle:	I know you love this...
@@ -2219,18 +2219,18 @@ Narr:	Belle and Kiara look deep into your eyes.
 Narr:	Not long after, you feel the rising tension of orgasm.
 Me: 	I'm gonna...
 Belle:	Do it.
-Belle:	*Moan* Unload on us, [m!t]...
+Belle:	*Moan* Unload on us, Dennis...
 Me: 	*Moan* Yesssss...
 Kiara:	This was--
 Belle:	Something. Wasn't it?
 Kiara:	I don't even know what this was.
 Narr:	After a few moments of silence...
 Kiara:	I have to go.
-Kiara:	I think you should, too, [m!t].
+Kiara:	I think you should, too, Dennis.
 Narr:	Kiara puts her clothes back on and heads out the door.
 Me: 	Kiara's right...
 Me: 	I should go, too.
-Belle:	Noooo... Come on, [m!t].
+Belle:	Noooo... Come on, Dennis.
 Belle:	Stay here a little longer.
 Belle:	It'll be worth your time.
 Me: 	Belle, Belle...
@@ -2271,11 +2271,11 @@ Belle:	Sooo...
 Belle:	Swing by anytime, handsome.
 Narr:	Still awestruck by what you just participated in...
 Narr:	you get dressed quickly and head out.
-Eve:	Hello, [m!t].
+Eve:	Hello, Dennis.
 Eve:	Having a good day?
 Me: 	I am. How are you?
 Eve:	Ready for the girls' sessions.
-Eve:	How are you, [m!t]?
+Eve:	How are you, Dennis?
 Me: 	I'm fine, thanks.
 Eve:	Hmm...
 Eve:	Can you come with me?
@@ -2298,7 +2298,7 @@ Naomi:	Me too.
 Eve:	Today we'll be doing paired therapy.
 Naomi:	A what?
 Eve:	You'll be divided into two groups for the first session today.
-Eve:	[m!t] will be joining us today.
+Eve:	Dennis will be joining us today.
 Me: 	I am?
 Violet:	Dr. Eve, I'm not sure I'll be comfortable with someone else joining the therapy.
 Eve:	I assure you it's going to be alright.
@@ -2306,14 +2306,14 @@ Eve:	[m!ct] has developed an interest in therapy, so I believe this could be a g
 Eve:	As for you, discussing your problems around someone new might help you overcome them much faster.
 Eve:	The details why you came won't be discussed in this session.
 Eve:	Is everyone okay with this?
-Belle:	I have no problem with [m!t] helping us.
+Belle:	I have no problem with Dennis helping us.
 Naomi:	Neither do I.
 Violet:	If we won't be discussing the details, I'll be okay with that.
 Eve:	Stacy?
 Stacy:	Hmm?
 Eve:	Would you be okay with that?
 Stacy:	With what?
-Eve:	With [m!t] joining our session today.
+Eve:	With Dennis joining our session today.
 Stacy:	Sure. Whatever.
 Eve:	For the first session, Belle and Stacy will come with us.
 Eve:	Naomi and Violet, you have some free time until we're finished.
@@ -2349,7 +2349,7 @@ Belle:	I never cared what anyone thought of me. It's such a waste of time.
 Eve:	Would you be bothered if someone openly disliked you?
 Belle:	Of course, but I don't see why anyone would dislike me.
 Belle:	I'm a pleasure to hang out with.
-Belle:	Right, [m!t]?
+Belle:	Right, Dennis?
 Me: 	(This isn't funny anymore. Eve's getting more suspicious...)
 Me: 	Yeah, you're fun.
 Eve:	Stacy, do you enjoy Belle's company?
@@ -2389,11 +2389,11 @@ Eve:	No, let her be. She needs to calm down.
 Eve:	Some alone time is better for her right now.
 Belle:	I'm sorry. I didn't mean to upset her.
 Eve:	It's not your fault, Belle. This was just a triggering event for her.
-Belle:	Sooo, what is [m!t]'s role in all of this?
-Eve:	Well, [m!t] seems genuinely interested in helping others.
+Belle:	Sooo, what is Dennis's role in all of this?
+Eve:	Well, Dennis seems genuinely interested in helping others.
 Eve:	I wanted him to experience the field first hand and...
 Eve:	...maybe someday join the business.
-Belle:	Ohh. I didn't know [m!t] was interested in that...
+Belle:	Ohh. I didn't know Dennis was interested in that...
 Me: 	I've thought about it. Being helpful is fulfilling.
 Belle:	Well, sign me up. You can be helpful to me anytime.
 Me: 	Umm, sure...
@@ -2412,7 +2412,7 @@ Eve:	Or would you prefer to have some time off until later?
         Me: 	I'd like to ease into this, if that's fine with you.
         Me: 	The first session has been... a bit too much.
         Me: 	I'm not feeling confident enough for another one.
-        Eve:	That's okay, [m!t]. Baby steps.
+        Eve:	That's okay, Dennis. Baby steps.
         Eve:	Take some time off, relax.
         Eve:	Catch up with you later.
         Me: 	Thanks, Eve!
@@ -2446,7 +2446,7 @@ Me: 	What's going on with you?
 Stacy:	Nothing.
 Me: 	That's not true. You can tell me.
 Me: 	You know I'll keep it between us.
-Stacy:	Thank you for caring, [m!t]. But, I don't know what to tell you.
+Stacy:	Thank you for caring, Dennis. But, I don't know what to tell you.
 Me: 	I'm listening...
 Stacy:	It doesn't matter. I told you already!
 Me: 	Fine. Then, we'll stand here in silence.
@@ -2469,7 +2469,7 @@ Me: 	I don't believe Dr. Eve would force you to do anything that makes you feel 
 Stacy:	You want me to leave?
 Me: 	No, of course not!
 Me: 	But, I'm sad and worried seeing you like this.
-Stacy:	Awww, [m!t]! You're really sweet.
+Stacy:	Awww, Dennis! You're really sweet.
 Me: 	That was unexpected...
 Stacy:	Just wanted to thank you for being here for me. It means a lot.
 Me: 	Anytime.
@@ -2479,7 +2479,7 @@ Stacy:	I owe it to myself.
 Me: 	I agree. Don't rush things.
 Me: 	If it means anything, I think you're brave for doing this.
 Me: 	For wanting to do better in your life.
-Stacy:	Thank you, [m!t].
+Stacy:	Thank you, Dennis.
 Stacy:	I'm sorry I'm such a burden.
 Me: 	You're not. Don't talk about yourself like that.
 Me: 	We can talk about less gloomy things if you want.
@@ -2512,14 +2512,14 @@ Me: 	...after wrestling with Eve over it.
 Stacy:	*Bursts out laughing*
 Me: 	I had to go to a hospital. I wore an eye patch for like a week.
 Stacy:	I haven't laughed so much in a while.
-Stacy:	Thank you, [m!t].
+Stacy:	Thank you, Dennis.
 Me: 	No problem. I'm glad my pain and suffering amused you.
 Stacy:	I'm up for funny stories anytime.
 Me: 	Oh, then I'm going to be a goldmine to you.
 Me: 	But, that'll have to wait.
 Me: 	I have to go and take care of some things at the house.
 Me: 	I'll catch you later, okay?
-Stacy:	Sure thing. Bye, [m!t]! And thank you for cheering me up.
+Stacy:	Sure thing. Bye, Dennis! And thank you for cheering me up.
 Me: 	Of course. Bye, Stacy!
 Me: 	(I think I should probably give Stacy some space...)
 Me: 	(All day people have been asking her over and over if she's okay.)
@@ -2535,7 +2535,7 @@ Me: 	Umm, okay...
 Belle:	Make yourself comfortable.
 Me: 	(I wonder what tricks Belle has planned for me now...)
 Belle:	What do you say we play a game?
-Belle:	I'd like to tap into who [m!t] really is...
+Belle:	I'd like to tap into who Dennis really is...
 Me: 	Oh, how thoughtful of you.
 Belle:	You think I'm only interested in sex?
 Me: 	Well...
@@ -2547,7 +2547,7 @@ Belle:	Heading in the right direction...
 Me: 	Full of surprises.
 Belle:	Mhm...
 Me: 	Very playful and direct.
-Belle:	Not bad, [m!t].
+Belle:	Not bad, Dennis.
 Belle:	It seems like you've been paying attention...
 Belle:	Mr. maybe-to-be-counselor, I believe I'm up next.
 Belle:	Have you ever played a game called Build a Story?
@@ -2593,8 +2593,8 @@ Belle:	Aww, don't leave now.
 Stacy:	Yeah, you can stay if you want.
 Me: 	(With a hard on? Don't think so.)
 Me: 	It's okay. Catch you guys later...
-Stacy:	Okay, [m!t]. See you later.
-Belle:	Later, [m!t].
+Stacy:	Okay, Dennis. See you later.
+Belle:	Later, Dennis.
 Me: 	Phew! That was close.
 Narr:	Having agreed to lead the second session, you head toward the gazebo.
 Narr:	Approaching the gazebo, you spot Violet and Naomi talking.
@@ -2609,7 +2609,7 @@ Naomi:	And, how is that any of your business?
 Naomi:	I have delicate skin. I'm certainly not risking any sunburns.
 Eve:	Ladies... Have you heard of the Gottman Method?
 Eve:	So that's a no.
-Eve:	How about you, [m!t]?
+Eve:	How about you, Dennis?
 Me: 	I'm with them.
 Eve:	Okay, so... The basic idea is that unresolved conflicts are a norm and...
 Eve:	...can be manageable through positive communication, rather than criticism.
@@ -2632,20 +2632,20 @@ Eve:	Don't worry.
 Narr:	Slightly nervous, but determined to do well, you go on.
 Me: 	*Clears throat*
 Me: 	Single out one positive personality trait of the other person.
-Eve:	Let's start with [m!t].
+Eve:	Let's start with Dennis.
 Me: 	Huh?
 Eve:	What do you think Naomi and Violet's best features are?
 Me: 	Umm... Ahem.
 Me: 	Violet is very polite and enjoys teaching others the beauty of physical activity.
 Me: 	Naomi seems guarded, but underneath she is tender and sweet.
-Naomi:	Awww, thank you, [m!t]!
-Eve:	You're very perceptive, [m!t]. Thoughtful, too.
+Naomi:	Awww, thank you, Dennis!
+Eve:	You're very perceptive, Dennis. Thoughtful, too.
 Eve:	(Really perceptive...)
-Eve:	Go on, [m!t].
+Eve:	Go on, Dennis.
 Me: 	(Okay. Think! What to ask them now?)
 Me: 	(Oh, I got it!)
 Me: 	Violet, it's your turn now.
-Violet:	Well, [m!t] has helped me overcome my shyness a bit. He's very sweet.
+Violet:	Well, Dennis has helped me overcome my shyness a bit. He's very sweet.
 Me: 	I meant, what's the most positive thing about Naomi?
 Violet:	Oh! Hmm... She's... nice sometimes?
 Naomi:	Sometimes?
@@ -2658,7 +2658,7 @@ Naomi:	Violet is... okay. I mean, maybe she's a bit too into sports.
 Naomi:	She's sweet, though. I like that.
 Naomi:	And yeah... I haven't tried getting to know her, either.
 Me: 	Can you tell me more about why you dislike each other?
-Eve:	Those are nice questions, [m!t].
+Eve:	Those are nice questions, Dennis.
 Me: 	Thank you, Dr. Eve.
 Me: 	(I have no idea what I'm doing...)
 Me: 	(I guess I pass as a believable therapist.)
@@ -2685,12 +2685,12 @@ Violet:	Awesome!
 Me: 	I'm glad you've decided to be more open-minded, and gentler.
 Me: 	I'd like to conclude the first part of today's sessions.
 Me: 	You're both excused, and may organize your time as you want.
-Eve:	Very professional of you, [m!t].
+Eve:	Very professional of you, Dennis.
 Eve:	What do you think, ladies!
-Eve:	Did [m!t] do well?
+Eve:	Did Dennis do well?
 Naomi:	He did really well.
 Violet:	I quite enjoyed this session, Dr. Eve.
-Violet:	I wouldn't mind [m!t] taking part in it again.
+Violet:	I wouldn't mind Dennis taking part in it again.
 Me: 	Thank you very much.
 Narr:	You cast a glance at Eve, looking to see her reaction.
 Me: 	(She seems happy.)
@@ -2712,7 +2712,7 @@ Naomi:	I was going to ask the same thing.
         Me: 	Naomi!
         Violet:	That escalated quickly.
         Violet:	Anyway...
-        Violet:	How did you like participating in the session, [m!t]?
+        Violet:	How did you like participating in the session, Dennis?
         Me: 	It was pretty interesting.
         Me: 	I'm glad you and Naomi have decided to be nicer to each other.
         Violet:	We'll see how that goes.
@@ -2777,31 +2777,31 @@ Naomi:	I was going to ask the same thing.
             Violet:	You're very welcome.
             Me: 	We should head back.
             Violet:	Okay.
-            Violet:	Eyes up, [m!t].
+            Violet:	Eyes up, Dennis.
             Me: 	Sorry, I got a bit distracted.
             Violet:	By what?
             Me: 	Well... by you in front of me. Naked.
-            Violet:	Stop it, [m!t].
+            Violet:	Stop it, Dennis.
             Me: 	I'm sorry.
         Violet:	I'll need my bikini back.
         Me: 	Oh! Almost forgot. Here you go.
         Violet:	Can you please turn around?
         Me: 	Yeah, sure.
         Violet:	All set!
-        Violet:	Thank you for the challenge, [m!t].
+        Violet:	Thank you for the challenge, Dennis.
         Me: 	Thank you for a lovely time.
         Me: 	Catch ya later?
-        Violet:	Yes! Bye, [m!t]!
+        Violet:	Yes! Bye, Dennis!
         Me: 	Bye, Violet!
         Me: 	I'll join Naomi for now. I'll come find you later, Violet.
-        Violet:	Don't be too long, [m!t].
+        Violet:	Don't be too long, Dennis.
         Me: 	I won't.
         Naomi:	How come you chose me?
         Me: 	Just felt like staying here with you.
         Me: 	Up for a walk then?
         Naomi:	Or, we could stay here and chat.
         Me: 	Let's stay here...
-        Naomi:	You rarely talk about yourself, [m!t].
+        Naomi:	You rarely talk about yourself, Dennis.
         Naomi:	I'd like to get to know you more...
         Me: 	Oh?
         Naomi:	For example...
@@ -2833,7 +2833,7 @@ Naomi:	I was going to ask the same thing.
         Naomi:	Wow... That was... unexpected. I loved it!
         Me: 	Did you really?
         Naomi:	Yes!
-        Naomi:	You're talented, [m!t]. Just keep practicing.
+        Naomi:	You're talented, Dennis. Just keep practicing.
         Me: 	Thank you, Naomi. I will!
         Me: 	What made you start writing in the first place?
         Naomi:	It was just a way out of my everyday life and...
@@ -2859,7 +2859,7 @@ Naomi:	I was going to ask the same thing.
         Naomi:	I wish we could do more now, but we're pretty exposed here.
         Naomi:	Maybe we can finish what we started later?
         Me: 	I'd love to.
-        Naomi:	Thanks for staying with me, [m!t].
+        Naomi:	Thanks for staying with me, Dennis.
         Me: 	Of course!
         Naomi:	Later!
         Me: 	See you later, Naomi!
@@ -2873,11 +2873,11 @@ Narr:	Your stomach grumbles impatiently.
 Me: 	Okay, okay... (I should also grab a bite to eat.)
 Me: 	(Either way, I should just pick a direction.)
         Me: 	(Either way, I should just pick a direction.)
-Eve:	Hey, [m!t].
+Eve:	Hey, Dennis.
 Eve:	How's your day going?
 Me: 	It's been a pretty good day.
 Eve:	I'm happy to hear that.
-Eve:	Hey, [m!t]...
+Eve:	Hey, Dennis...
 Eve:	Can I talk to you about something?
 Me: 	Sure, Eve.
 Me: 	What is it?
@@ -2896,7 +2896,7 @@ Me: 	Well, I'm having a good time working here.
 Eve:	That's good to hear.
 Eve:	I've been trying to make it go as smoothly as possible for you.
 Me: 	I've noticed. Thanks for that, Eve.
-Eve:	How are you feeling, [m!t]?
+Eve:	How are you feeling, Dennis?
 Me: 	I'm feeling kinda hungry, to be honest.
 Eve:	Oh, come on. You know what I meant.
 Eve:	How are you... emotionally?
@@ -2924,7 +2924,7 @@ Eve:	Oh, no. Psychiatry isn't something one dives into.
 Eve:	Therapy needs forethought to not damage the patients' already-fragile minds.
 Me: 	Yeah, I understand the fragility of the patients' minds.
 Me: 	I've seen that first-hand over the years...
-Eve:	You've become something like my right-hand man, [m!t].
+Eve:	You've become something like my right-hand man, Dennis.
 Eve:	So, I was thinking...
 Eve:	I can train you more directly, if you'd like.
 Me: 	Wow, Eve... I don't know what to say.
@@ -2955,7 +2955,7 @@ Me: 	(This looks like some kind of plan for the summer.)
 Me: 	(It also looks like Eve's handwriting.)
 Me: 	(What's this?)
 Me: 	(The plan for this summer?)
-Me: 	"Call [m!t] to get him onboard as staff for the summer."
+Me: 	"Call Dennis to get him onboard as staff for the summer."
 Me: 	(We can check that one off.)
 Me: 	"Welcome patients, and assess the severity of their conditions."
 Me: 	(That one can be checked off too, at this point.)
@@ -2992,7 +2992,7 @@ Eve:	For the time being, you might want to put your waiter vest on.
 Me: 	Waiter vest?
 Me: 	You never gave staff vests.
 Eve:	I'm pulling your leg.
-Eve:	Grab that tray of sandwiches for me, [m!t].
+Eve:	Grab that tray of sandwiches for me, Dennis.
 Eve:	The patients must be getting hungry by now.
 Me: 	Well, we shouldn't leave the patients waiting, then.
 Eve:	That's the attitude.
@@ -3008,12 +3008,12 @@ Eve:	We aim to provide the best experience possible.
 Naomi:	Well, you're not doing too shabby.
 Naomi:	I have to give you that.
 Eve:	Thank you, Naomi.
-Belle:	Hey, [m!t]. Eve's really making sure to use you to the fullest, huh?
+Belle:	Hey, Dennis. Eve's really making sure to use you to the fullest, huh?
 Me: 	Oh, you didn't hear?
 Me: 	I've been promoted to waiter.
 Belle:	Dr. Eve?
 Eve:	Yes, Belle?
-Belle:	Do you have a bell I can ring to have [m!t] do my bidding?
+Belle:	Do you have a bell I can ring to have Dennis do my bidding?
 Eve:	*Chuckle* Unfortunately not, Belle.
 Belle:	Such a shame.
 Belle:	I guess I'll have to be your bell.
@@ -3037,7 +3037,7 @@ Eve:	Hmm...
 Eve:	Do you want to go check in with her?
 Me: 	Me? Isn't that your job?
 Eve:	I have a feeling she'll trust you more than me.
-Eve:	She sees me as Dr. Eve. You're just [m!t] to her.
+Eve:	She sees me as Dr. Eve. You're just Dennis to her.
 Me: 	Yeah, you're on to something there.
 Me: 	I'll go check in on her.
 Eve:	If anything, she'll appreciate your concern.
@@ -3052,13 +3052,13 @@ Stacy:	Oh, no. I'm fine.
 Stacy:	You don't need to worry about me...
 Me: 	Come on, Stacy...
 Me: 	You don't need to be afraid to tell me how you're really feeling.
-Stacy:	I... I don't know, [m!t].
-    Stacy:	I... I don't know, [m!t].
+Stacy:	I... I don't know, Dennis.
+    Stacy:	I... I don't know, Dennis.
         Stacy:	I know I can... But, this feels bigger than you.
             Stacy:	I know I can... But, this feels bigger than you.
                 Me: 	Bigger than me? That's pretty rude... Like I couldn't understand?
-                Stacy:	That's not what I meant, [m!t]...
-                    Stacy:	That's not what I meant, [m!t]...
+                Stacy:	That's not what I meant, Dennis...
+                    Stacy:	That's not what I meant, Dennis...
                         Me: 	It sure sounded like you were implying that I'm an idiot.
                         Stacy:	No, I was not. I was hoping you would understand.
                             Stacy:	No, I was not. I was hoping you would understand.
@@ -3081,7 +3081,7 @@ Stacy:	I... I don't know, [m!t].
                     Stacy:	I fear consulting the heavenly flame would not be enough.
                         Me: 	Are you sure? Doesn't the HPL know nearly everything?
                         Me: 	That's even more ominous. The feeling in the pit of my stomach just got a bit bigger.
-Stacy:	[m!t]...
+Stacy:	Dennis...
 Stacy:	I would rather not dwell on these feelings.
 Me: 	I just wanted to help you, in some way...
 Stacy:	Thank you, for that.
@@ -3099,7 +3099,7 @@ Me: 	I get it.
 Me: 	I'll leave you to it, then.
 Me: 	Take care, Stacy.
 Stacy:	I will.
-Stacy:	Goodbye, [m!t].
+Stacy:	Goodbye, Dennis.
 Stacy:	Well... I think you might be able to help me, then.
 Me: 	I'm hoping I can.
 Stacy:	As am I...
@@ -3133,7 +3133,7 @@ Me: 	(Shit. I can't tell her she was in my dream...)
 Me: 	(Who knows what that information would do to her mental state.)
 Me: 	Well, I got lost in the forest.
 Me: 	Then, it got dark and I woke up.
-Stacy:	That's... very interesting, [m!t].
+Stacy:	That's... very interesting, Dennis.
 Me: 	I wouldn't think much of it normally.
 Me: 	But, when I went downstairs this morning, I saw the weather report...
 Me: 	And, they announced an eclipse will happen tomorrow.
@@ -3152,12 +3152,12 @@ Stacy:	And, I don't know why.
 Me: 	Oh, Stacy...
 Me: 	Come on.
 Me: 	Everything is going to be okay.
-Stacy:	I hope so, [m!t].
+Stacy:	I hope so, Dennis.
 Stacy:	For now, I need to think.
 Stacy:	I need to meditate...
 Me: 	Okay, Stacy. I'll leave you to it.
 Me: 	Take care, Stacy.
-Stacy:	You too, [m!t].
+Stacy:	You too, Dennis.
 Me: 	(Stacy really seems on edge...)
 Me: 	(Maybe I should report this to Eve.)
 Me: 	(It would be the smartest thing to do.)
@@ -3166,8 +3166,8 @@ Me: 	*Inhale* (What to do...)
 Narr:	You feel overburdened by the scope of your task for a brief moment.
 Me: 	(Where should I go to find out more?)
 Me: 	(Eenie, meenie, miny, moe?)
-Me: 	(Just pick one already, [m!t]!)
-        Me: 	(Just pick one already, [m!t]!)
+Me: 	(Just pick one already, Dennis!)
+        Me: 	(Just pick one already, Dennis!)
             Me: 	(This summer heat is really getting to me...)
             Me: 	(The air's probably cooler inside the house.)
             Me: 	(Where should I go...?)
@@ -3177,7 +3177,7 @@ Me: 	(Just pick one already, [m!t]!)
             Me: 	(The cabins would probably hold some answers.)
             Me: 	(But, which cabin should I check?)
             Me: 	(Eh, why not both?)
-                    Me: 	(Just pick one already, [m!t]!)
+                    Me: 	(Just pick one already, Dennis!)
 Narr:	Eve has always been a secretive person, so the curiosity gets the better of you.
 Narr:	You carefully open the door, poking your head inside.
 Me: 	(I shouldn't...)
@@ -3312,7 +3312,7 @@ Me: 	Yeah, it's been a long morning.
 Violet:	You can lie down here if you want.
 Me: 	Nah, I'll go back to my room. Maybe nap a bit.
 Me: 	Freshen up and join you ladies afterwards.
-Violet:	Can't wait! Sleep tight, [m!t]!
+Violet:	Can't wait! Sleep tight, Dennis!
 Me: 	Thank you! See you later. Bye!
 Violet:	Bye!
 Me: 	(Probably smartest to check Stacy and Belle's cabin.)

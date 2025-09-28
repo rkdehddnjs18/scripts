@@ -12,7 +12,7 @@ Narr:	Already, a prominent bulge is forming within the confines of your jeans.
 Narr:	Clearly excited at the prospect of something that has been culminating since you arrived.
 Narr:	Emily's palms sensually slide down your chest, halting only when they reach your belt.
 Narr:	Her eyes don't leave yours even for a moment.
-Emily:	You have no idea how long I've wanted this, [m!t].
+Emily:	You have no idea how long I've wanted this, Dennis.
 voice:	voice/episode10_8f0ed575.mp3
 Emily:	I want to know how you taste.
 Narr:	Meanwhile at the gazebo, your absence has not gone unnoticed.
@@ -61,7 +61,7 @@ Me: 	What?
 Emily:	What?
 Kiara:	What were you two doing in there?
 Narr:	Kiara's eyes flicker down to your crotch, her brows instantly furrowing in disapproval.
-Emily:	I was showering, and [m!t] was waiting for me it's my fault.
+Emily:	I was showering, and Dennis was waiting for me it's my fault.
 Kiara:	Uhuh, uhuh.
 Emily:	Don't get all pissy, you don't see me complaining when you shower for hours.
 Kiara:	I don't shower when I know we're about to eat and people are waiting on me!
@@ -110,7 +110,7 @@ Eve:	There you are! We've been waiting on you for ages!
 Narr:	You look at yourself, then back at Emily. Disheveled clothes, messy hair, and, not to mention, your still noticeable bulge...
 Narr:	... are all telltale signs.
 Eve:	Where were you two?
-Narr:	Come on, [m!t]! Think quick!
+Narr:	Come on, Dennis! Think quick!
 Me: 	We were, um...
 Emily:	I was taking a shower!
 Kiara:	Yeah, of course you were.
@@ -188,9 +188,9 @@ Stacy:	I guess it's just been a while since I made friends with the unlit. That'
 Narr:	You look at Stacy. She seems surprisingly focused, her mind present instead of wandering off.
 Narr:	Belle reaches out her hands, and Stacy takes them. They smile at each other.
 Eve:	That's wonderful, Stacy. I'm glad you're coming around to being here.
-Eve:	So, following this lunch, [m!t] is going to have individual sessions with Naomi and Violet.
+Eve:	So, following this lunch, Dennis is going to have individual sessions with Naomi and Violet.
 Eve:	I trust you will all follow his instructions.
-Violet:	(Alone time with [m!t]? That's pretty rare.)
+Violet:	(Alone time with Dennis? That's pretty rare.)
 Narr:	Violet smiles at you shyly. You're looking forward to having a session with her.
 Narr:	Naomi turns to you, and, unbeknownst to everyone else at the table, puts her hand on your thigh. Your pulse picks up.
 Eve:	I suppose whoever you choose first matters little, as long as you hold both sessions.
@@ -218,7 +218,7 @@ Me: 	I guess...
         Me: 	(Hm, why didn't I think of that? Better play it off though, it's actually a great idea.)
         Me: 	That's exactly what I was thinking!
         Me: 	We can talk while we work. It will keep us moving, so we'll get some exercise in, as well as some good ol' talk therapy.
-        Naomi:	I thought I was having a session with [m!t], but thanks, Violet.
+        Naomi:	I thought I was having a session with Dennis, but thanks, Violet.
         Me: 	What can I say, I think I've picked up some good habits being around her.
         Naomi:	Hm, honestly, living with her in the same cabin, I thought she'd drive me insane with that whole 'healthy life' thing.
         Naomi:	But she never forced it upon me, and now she's really warming me up to the benefits of regular exercise.
@@ -247,7 +247,7 @@ Me: 	I guess...
         Me: 	Yeah, pro athletes usually have impeccable discipline.
         Naomi:	Then Violet is a pro, through and through. I really judged the book by its cover there, didn't I?
         Me: 	Well, you are here to learn and grow. At the end of the day, I think you're doing great.
-        Naomi:	Thank you, [m!t]. It means a lot.
+        Naomi:	Thank you, Dennis. It means a lot.
         Naomi:	I think I now understand why Dr. Eve put Violet and me as bunkmates.
         Me: 	Why do you think she did that?
         Naomi:	Because she knew I'd react negatively to anyone who is so unlike me in every way.
@@ -268,7 +268,7 @@ Me: 	I guess...
         Naomi:	They pop up here and there, and we have an occasional family dinner, but on a normal day?
         Naomi:	I don't even see anyone but staff.
         Me: 	Sounds kind of lonely. I can just picture you as a child, wandering those empty corridors alone...
-        Naomi:	You make it sound like I had a bad childhood, [m!t].
+        Naomi:	You make it sound like I had a bad childhood, Dennis.
         Naomi:	I literally had a nanny with me at all times, and my every wish and whim was fulfilled.
         Naomi:	What could I have possibly wished for that wasn't provided to me?
         Me: 	A hug?
@@ -319,7 +319,7 @@ Me: 	I guess...
         Naomi:	(Wait, was he just checking me out?)
         Naomi:	(Oh, I think he was.)
         Naomi:	(I'm getting ideas~)
-        Naomi:	Hey, [m!t]! How are you not hot working in the sun? I'm dying over here!
+        Naomi:	Hey, Dennis! How are you not hot working in the sun? I'm dying over here!
         Me: 	Oh, I definitely am. I think we should've brought some water with us or something.
         Naomi:	Why don't you take that shirt off then?
         Me: 	What?!
@@ -359,7 +359,7 @@ Me: 	I guess...
                     Me: 	Happens to the best of us. I am aware of the effect I have on women.
                     Naomi:	Oh, please, do shut up! I was just teasing you, anyways, forget about it.
                     Me: 	Sure, that's the one and only reason why you did it. Of course.
-                    Naomi:	You really are something else, [m!t].
+                    Naomi:	You really are something else, Dennis.
                     Naomi:	Hm, tempting, but I think I'm good.
                     Narr:	Now you're standing there, shirtless and confused.
                     Me: 	Wait, what was all of that about?
@@ -411,7 +411,7 @@ Me: 	I guess...
                     Me: 	Haha, well it sure wasn't for my good looks.
                     Naomi:	I, on the other hand, can't wait to take a shower. Why did no one tell me work makes you sweat?
                     Me: 	This is where I leave you. It was a pleasure working with you today, Naomi.
-                    Naomi:	Thanks, [m!t]. See you later, okay?
+                    Naomi:	Thanks, Dennis. See you later, okay?
                     Me: 	Of course.
                     Me: 	You go ahead, and if you see Violet, can you please let her know I'll find her for her session in a bit?
                     Me: 	I really just need to catch my breath.
@@ -420,7 +420,7 @@ Me: 	I guess...
                     Me: 	(What's the worst thing that can happen?)
             Naomi:	Oh, am I glad to hear that.
             Me: 	God, I think I need a nap after everything today.
-            Naomi:	I think I need a shower or a nap. Maybe both. I'll go now, if you don't mind. See you around, [m!t].
+            Naomi:	I think I need a shower or a nap. Maybe both. I'll go now, if you don't mind. See you around, Dennis.
             Me: 	See ya!
             Narr:	With that, both sessions are finished. What a good job you have done. Eve is bound to be pleased.
             Me: 	(I should check in with her, then I think I'll rest. I'll burn out at this pace.)
@@ -476,13 +476,13 @@ Me: 	I guess...
         Violet:	Well, yes. There's nothing to be ashamed of.
         Me: 	Exactly! It's the same with your condition. Nothing to be ashamed of. It's what makes you, you.
         Narr:	She's silent for a moment, seemingly lost in thought. 
-        Violet:	But it's not the same thing, [m!t].
+        Violet:	But it's not the same thing, Dennis.
         Me: 	How's that not the same?
         Me: 	Both of those things are what makes you, you, Violet.
         Me: 	Okay, one thing is involuntary, and the other, purposeful, but it is you who decides how it defines you.
         Violet:	You have me at a loss here.
         Me: 	Okay, let's put it like this. After you win, you do your victory dance, right?
-        Violet:	It is called a victory dance, [m!t].
+        Violet:	It is called a victory dance, Dennis.
         Me: 	Hear me out, Vi. So, while you do the "dance", does the crowd laugh or cheer?
         Violet:	Everyone is usually cheering. I haven't heard anyone laugh.
         Me: 	Exactly. It's because you own it. You made that dance yours.
@@ -512,13 +512,13 @@ Me: 	I guess...
         Violet:	You really think that, don't you?
         Me: 	I see you, Violet. For what you are.
         Me: 	An intelligent, talented, driven, young woman. One that accomplishes whatever she puts her mind to.
-        Violet:	Thanks, [m!t]. That means a lot.
+        Violet:	Thanks, Dennis. That means a lot.
         Me: 	So? We have a deal then?
         Violet:	Haha, I can only promise to try my best.
         Me: 	That will be more than enough.
             Me: 	What do you say we finish our volleyball game?
             Me: 	We're currently tied.
-            Violet:	You're really itching for a loss there, [m!t]?
+            Violet:	You're really itching for a loss there, Dennis?
             Me: 	You ready for this?
             Violet:	It feels like you're mimicking me to get under my skin.
             Me: 	They call me Cerebral–
@@ -531,7 +531,7 @@ Me: 	I guess...
             Narr:	Maybe it's time to change the tactic?
                 Narr:	Maybe it's time to change the tactic?
                     Me: 	I'd rather we play a friendly match.
-                    Violet:	What's your angle there, [m!t]?
+                    Violet:	What's your angle there, Dennis?
                     Me: 	No angle, I just want to talk with you a bit more.
                     Me: 	Can't do that if you're super competitive.
                     Violet:	Yeah, I do get into that mode easily.
@@ -555,7 +555,7 @@ Me: 	I guess...
                     Me: 	There are cracks in the wall now, Violet.
                     Me: 	And, behind it, there's you. Unrestrained and free.
                     Me: 	Beautiful.
-                    Violet:	You've made some of those cracks, [m!t].
+                    Violet:	You've made some of those cracks, Dennis.
                     Violet:	I didn't think it was possible.
                     Me: 	I'm glad I had that effect on you.
                     Me: 	Can't wait to finally meet the real Violet.
@@ -579,7 +579,7 @@ Me: 	I guess...
                     Me: 	I got it!
                     Narr:	You manage to dig the ball, sending it flying awfully near the net. You have a chance to score.
                         Narr:	Your inner athlete emerged. Even Violet was surprised by the skill you displayed, catching the ball with precision, slamming it over the net.
-                        Violet:	Woohoo! Good game, [m!t]!
+                        Violet:	Woohoo! Good game, Dennis!
                         Narr:	With incredible zest, you try mimicking Violet's victory dance.
                         Me: 	Yes! Yes! Yes, ye–
                         Narr:	You got so caught up in your celebration that you lost your balance and fell.
@@ -605,7 +605,7 @@ Me: 	I guess...
             Violet:	Or maybe before? I'll be catching some sun at the Community patio.
             Narr:	As you turn and leave, Violet is left standing there, her eyes focused on you, watching you leave.
             Narr:	She, too, hates unfinished business and words left unspoken.
-            Violet:	Thanks, [m!t].
+            Violet:	Thanks, Dennis.
             Narr:	Violet springs to her feet with unmatched grace. It's like your talk has invigorated her.
             Violet:	So, what are you doing now? Have some free time?
                 Me: 	You heard Eve, best I go and see her.
@@ -629,7 +629,7 @@ Narr:	As you approach the front door, you spot Emily already there.
 Narr:	She doesn't seem to have noticed you yet. She seems lost in her own world.
 Me: 	Hey, Em!
 Narr:	She turns to you abruptly. It seems you've startled her a little.
-Emily:	Oh, hey, [m!t]!
+Emily:	Oh, hey, Dennis!
     Emily:	Done with the sessions already?
     Me: 	Almost, I'm just catching my breath.
     Emily:	Soo? How did it go?
@@ -666,7 +666,7 @@ Me: 	That's not what I meant. Things got really heated between you and Kiara aft
 Emily:	I can defend myself just fine, you know? Besides, I feel like I got what I asked for there.
 Me: 	What you asked for? What do you mean?
 Emily:	That I was a bitch to her, and she was a bitch to me back. I feel like this is pretty standard for us.
-Emily:	I don't think I came out of that a bigger person, [m!t]. I literally asked her why she hadn't left the camp yet.
+Emily:	I don't think I came out of that a bigger person, Dennis. I literally asked her why she hadn't left the camp yet.
 Me: 	Be that as it may, I still wanted to check on you.
 Emily:	You knew I was fine, but you wanted to check on me anyways?
 Me: 	Yes, of course I did.
@@ -720,7 +720,7 @@ Narr:	She is smiling, but she's bad at hiding her disappointment.
         Me: 	*Deep sigh*
         Me: 	(Oh, Eve better be quick with this or, I swear to Heavenly Lotus whatever, I'm gonna lose my shit.)
 Narr:	You knock on the door before entering.
-Eve:	Ah, [m!t].
+Eve:	Ah, Dennis.
 Eve:	What a pleasant surprise.
 Narr:	Eve looks at you hungrily, lips curled into the faintest of smirks.
 Narr:	There's something predatory in her eyes, but you do not mind at all.
@@ -737,7 +737,7 @@ Narr:	You sit down, holding the notebook in your hands, sheepishly flipping thro
 Me: 	I will admit, though, Eve... I wasn't the best at keeping notes.
 Eve:	Oh?
 Narr:	Her eyes visibly widen, as if caught by surprise by your admission.
-Eve:	I won't lie to you, [m!t]. That is slightly disappointing.
+Eve:	I won't lie to you, Dennis. That is slightly disappointing.
 Eve:	For a student such as yourself, taking notes is crucial. Even for professionals, it's important.
 Me: 	I have a really good explanation, though.
 Me: 	You see, most of the sessions I've led have been in practical situations.
@@ -747,14 +747,14 @@ Me: 	I would even say that some of them consider me a friend...
 Eve:	Hm, I suppose you are right.
 Eve:	Still, I want you to know that you won't always have the luxury of not documenting your process, so don't get used to it.
 Me: 	I wouldn't dream of it.
-Eve:	Well then, [m!t], the floor is yours.
+Eve:	Well then, Dennis, the floor is yours.
 Narr:	Eve leans back in her chair, observing you under her eyelids.
 Narr:	That look of hers stirs feelings within you that you've just begun to get comfortable with.
 Me: 	I would like to start with the fact that this opportunity means tremendously much to me.
 Me: 	It's nice to know you see me as an adult, Eve.
 Eve:	(You have no idea...)
 Narr:	Again, the tension momentarily misses you, but you can't help wondering why the collar of your shirt feels tighter.
-Eve:	You give me too much credit, [m!t].
+Eve:	You give me too much credit, Dennis.
 Eve:	I wouldn't have given you this chance if I thought you were not ready.
 Eve:	You've been here for many summers, through thick and thin.
 Eve:	You major in psychology and you're a hard worker, I see no reason why you shouldn't have gotten this opportunity.
@@ -780,7 +780,7 @@ Narr:	But you take her silence as a cue to continue.
     Me: 	It's safe to say that this Violet we're talking about is not the same Violet that arrived at camp.
     Eve:	Oh?
     Me: 	She's so much more open and confident, unafraid to speak her mind and show exactly how she feels.
-    Eve:	And what makes you say that, [m!t]?
+    Eve:	And what makes you say that, Dennis?
     Me: 	Well, she isn't as scared of putting me in my place as she was, that's for sure!
     Me: 	And despite starting off on the wrong foot, she and Naomi have become good friends.
     Eve:	That's good to hear.
@@ -791,7 +791,7 @@ Narr:	But you take her silence as a cue to continue.
     Me: 	I can really see that the time she spent here has helped her come out of her shell.
     Me: 	It shows best in the way she interacts with her other campmates.
     Me: 	Despite her and Naomi starting off on the wrong foot, I've noticed that, not only have they come to terms with their living arrangements, but they've also become friends.
-    Eve:	That's a keen observation, [m!t].
+    Eve:	That's a keen observation, Dennis.
     Me: 	Sure, there is still some baggage she has to deal with, her upbringing is not something we can make her get over in a week.
     Me: 	Her... clapping affliction is unfortunate, however.
     Me: 	It's one that is not easily resolvable either.
@@ -803,7 +803,7 @@ Me: 	All things considered, Violet hasn't been as difficult as some of the other
 Me: 	If we ignore her condition, her biggest behavioral issue is the fact that she's shy and withdrawn.
 Me: 	Which, honestly, isn't that big of an issue at all.
 Me: 	People come in all shapes and sizes.
-Eve:	You're absolutely right, [m!t], but we still need to get to the bottom of her compulsion.
+Eve:	You're absolutely right, Dennis, but we still need to get to the bottom of her compulsion.
 Eve:	That's why she's here.
 Me: 	Well, I firmly believe that the solution isn't curing it, but rather teaching her to accept it.
 Eve:	Hm...
@@ -837,7 +837,7 @@ Eve:	I suspected that would be the case.
     Me: 	But it was also something that made her interpersonal relationships that much harder.
     Me: 	She is accepting that her having access to the best of everything doesn't mean she is better than someone who doesn't have it.
     Me: 	And that's what signifies true growth.
-    Eve:	Excellent work, [m!t].
+    Eve:	Excellent work, Dennis.
     Me: 	I think, for Naomi, it has been really beneficial that we've nurtured her talent for storytelling.
     Eve:	She indeed has a talent.
     Me: 	Doing something as vulnerable as telling stories in front of girls she doesn't know really helped her to see them as her equals.
@@ -853,7 +853,7 @@ Eve:	I can confirm that, while being selfish is a horrible quality to have, it's
 Eve:	I believe it was her mother that sent her here.
 Me: 	Don't you think that's a little bit suspicious?
 Eve:	Yeah, when you say it like that, it does reek.
-Eve:	Thank you for bringing it up, [m!t]. I'll make sure it's sorted out.
+Eve:	Thank you for bringing it up, Dennis. I'll make sure it's sorted out.
 Narr:	Eve's pen glides toward the paper in front of her once more.
 Narr:	Even though the situation is comfortable, you can't help feeling like you're being examined.
 Narr:	Examined by a really hot teacher, but examined nonetheless.
@@ -870,7 +870,7 @@ Eve:	I know, I'm just curious as to what might have triggered it.
     Me: 	The sudden separation from her flock is what's causing certain feelings of unease, anxiety and general restlessness.
     Me: 	While it wasn't as bad when she first got here, it only got worse as she began to bond with the others.
     Me: 	Her newly found friendships reminded her of what she's missing... Her flock.
-    Eve:	Perhaps, [m!t], but is the flock really what's best for her?
+    Eve:	Perhaps, Dennis, but is the flock really what's best for her?
     Eve:	She ended up here for a reason. Arson is not a light crime.
     Eve:	The only reason she wasn't sent to prison was because of her age — and the fact that she was a first-time offender.
     Me: 	Stacy is aware that it was a mistake on her part; she was a little...overzealous.
@@ -881,7 +881,7 @@ Eve:	I know, I'm just curious as to what might have triggered it.
     Me: 	I also wondered, during our session... Have you perhaps considered that Stacy could be afflicted by parasomnia?
     Eve:	Parasomnia? No, I haven't considered it.
     Me: 	She matches the symptoms and the general description.
-    Eve:	You might be onto something here, [m!t].
+    Eve:	You might be onto something here, Dennis.
     Eve:	Excellent work.
     Me: 	Stacy worries the others as well, not just you and me.
     Me: 	Belle has really pulled through when it comes to comforting her...
@@ -891,7 +891,7 @@ Eve:	I know, I'm just curious as to what might have triggered it.
     Me: 	It's just up to us to figure it all out.
     Me: 	I'll be honest with you, Eve, I feel like I didn't dedicate enough of my time to Stacy.
     Me: 	It's just that managing four girls really scrambled my brains, and maybe I should've focused more of my attention on her.
-    Eve:	It's alright, [m!t], I never said this job was going to be easy.
+    Eve:	It's alright, Dennis, I never said this job was going to be easy.
     Eve:	I can see that you care about Stacy, but at the end of the day, you are still learning.
     Eve:	Perhaps the most important lesson that you will learn is that you can't help everyone.
     Eve:	It's also the hardest.
@@ -903,7 +903,7 @@ Me: 	One thing we can agree on is that Stacy has a lot of work ahead of her.
 Me: 	With the right support, I believe she can be fully rehabilitated.
 Me: 	Aside from the last few days, I can say that she has been making some progress.
 Me: 	I just wish we could find the root of her issue, that is all.
-Eve:	Don't beat yourself up over it, [m!t].
+Eve:	Don't beat yourself up over it, Dennis.
 Eve:	You are still learning, and you will find that, even when you dip into professional waters, you will never find an answer to everything.
 Eve:	But I really do applaud your effort above all.
 Narr:	It's nice to receive praise for your work, especially from someone you admire as much as you do Eve.
@@ -924,11 +924,11 @@ Me: 	But I believe I have figured it out.
     Me: 	This Belle that I came to know was softer, earnest and, dare I say, surprisingly talented when it came to playing the actual game.
     Me: 	Her hypersexuality comes from one thing and one thing only — the desire to attain her dreams.
     Me: 	Something that she viewed as mandatory to succeed, became an uncontrollable and inappropriate compulsion.
-    Eve:	Very interesting, [m!t], very interesting indeed.
+    Eve:	Very interesting, Dennis, very interesting indeed.
     Me: 	Now that we know this, we know how to approach her treatment.
     Me: 	This is simply the matter of her believing her talents are not enough to make her stand out...
     Me: 	Just because it's an insecurity doesn't mean we should take it lightly. It's something that we should tackle with caution.
-    Eve:	I must admit, [m!t], you were right to suggest your approach to Belle's session.
+    Eve:	I must admit, Dennis, you were right to suggest your approach to Belle's session.
     Eve:	I'm sorry I was skeptical; you have proved me wrong.
     Me: 	I really wasn't trying to prove you wrong. I just want her to get better, that is all.
     Eve:	Allow yourself to be praised every now and then.
@@ -960,7 +960,7 @@ Me: 	But I believe I have figured it out.
     Me: 	It's part of the job. I'm aware that most cases won't be a walk in the park.
     Me: 	It's better to tackle them now than be caught off guard when I graduate and get hired.
     Eve:	You can say that again.
-Eve:	Overall, [m!t], I am very proud of you.
+Eve:	Overall, Dennis, I am very proud of you.
 Eve:	You did better than I expected.
 Me: 	Oh, come on, Eve. You doubted me?
 Narr:	That elicits a chuckle from Eve.
@@ -1092,7 +1092,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Narr:	On the other end of the line you hear the rustling of leaves, the sound of birds chirping.
                         Jane:	Oh, you know... just helping my dad in the garage with stuff.
                         Me: 	Yeah, yeah, I hear ya. Looks like you're pretty busy as well.
-                        Jane:	Why did you call, [m!t]?
+                        Jane:	Why did you call, Dennis?
                         Narr:	She cuts you off entirely, not allowing you to act like nothing has happened.
                         Me: 	Seriously, Jane, I just wanted to hear how you were doing.
                         Jane:	You think this is making the whole situation any easier for me?
@@ -1158,7 +1158,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                 Narr:	You move to sit next to her, leaning onto the backrest and throwing your head back.
                 Narr:	Trying to enjoy the sun as much as Violet does, despite being clothed.
                 Narr:	She rests her legs onto your lap — laying one foot just above your crotch, pressing down on it lightly.
-                Violet:	Won't you sunbathe with me, [m!t]?
+                Violet:	Won't you sunbathe with me, Dennis?
                 Me: 	What? I am.
                 Violet:	You're clothed, that's kind of counterproductive.
                 Me: 	You want me to get into my underwear?
@@ -1250,7 +1250,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                     Narr:	You don't need to be told twice, as you grab Violet by her hair, tugging on it lightly for the sake of moving her away from your cock.
                                     Narr:	You are quick to press her lips against yours, your tongues intertwining, battling for dominance.
                                     Narr:	By pressing your palm against her chest, you push her onto the couch; Violet lands on her back and looks at you with pleading eyes.
-                                    Violet:	Please put it inside me, [m!t].
+                                    Violet:	Please put it inside me, Dennis.
                                     Me: 	You really want it?
                                     Me: 	(I want to hear you say it, Violet.)
                                     Narr:	Your brow arches at her curiously.
@@ -1275,7 +1275,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                     Narr:	Her toned behind is now fully displayed to you, and you can't help but marvel at what is presented.
                                     Me: 	You have a beautiful body, Violet.
                                     Narr:	If you could, you would certainly hear Violet blush as you said that. But instead of responding, she looks at you over her shoulder and bites her lip.
-                                    Violet:	Fuck me, [m!t].
+                                    Violet:	Fuck me, Dennis.
                                     Narr:	Her forwardness no longer catches you by surprise, and you position yourself over her entrance.
                                     Me: 	Where's the rush, Vi?
                                     Narr:	You will show to her that you are the one in control. Slowly, you push your tip in, and Violet is already moaning.
@@ -1295,7 +1295,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                     Narr:	Only then do you begin fucking her, sliding in and out of her and setting a vigorous pace.
                                     Narr:	You don't need to be told twice as you grasp Violet by her arms and yank her toward you until she's sitting on your lap.
                                     Narr:	You position yourself over her entrance, holding her by the waist.
-                                    Violet:	I'm done waiting, [m!t].
+                                    Violet:	I'm done waiting, Dennis.
                                     Narr:	Before you can prolong this, Violet drops down onto your dick and instantly releases a scream of pleasure.
                                     Violet:	AAAH!
                                     Narr:	She begins bouncing up and down on your shaft, her beautiful tits following her passionate movements.
@@ -1328,7 +1328,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                             Violet:	I missed having you inside me.
                             Narr:	You begin ramming Violet onto you with reckless abandon, enjoying every twitch and every moan that your skillful lovemaking is eliciting.
                             Me: 	Hnng.
-                            Violet:	Yes, [m!t], right there!
+                            Violet:	Yes, Dennis, right there!
                             Narr:	You and Violet continue fucking like wild animals, caring little about the passionate sounds coming out of you both.
                             Narr:	Nothing else mattered at this moment, only the fact that both of you were close to reaching your peak.
                             Eve:	Huh?
@@ -1440,7 +1440,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                     Narr:	Had it been up to you, you would've never left her office without getting what you wanted.
                     Narr:	But lady Fate seemed to have other things in store.
                     Narr:	With a deep breath, you knock on the door; wiping your sweaty palms on your jeans.
-                    Me: 	(Why are you so nervous, [m!t]?)
+                    Me: 	(Why are you so nervous, Dennis?)
                     Me: 	(It's just Eve on the other side of this door.)
                     Me: 	(You've fantasized about this since you were a boy.)
                     Narr:	Your train of thought is interrupted by a sultry voice coming from the other side of the door.
@@ -1482,7 +1482,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                     Narr:	Suddenly, that same hand that was gently pressed against your chest, holding onto you like an anchor, pushes you away.
                     Narr:	The action causes you to stumble, and Eve is already on her feet, closing the distance between you.
                     Narr:	Her hands find their way to your belt, the buckle clinking as she hastily begins to take it off.
-                    Eve:	Do you know how long I've wanted this, [m!t]?
+                    Eve:	Do you know how long I've wanted this, Dennis?
                     Narr:	You have half a mind to help her, but you are quick to stop yourself. The hungry look she has in her eyes tells you that she has it handled.
                     Eve:	The way your cock teased me when you first arrived here, like it was begging me to hold it... to suck it...
                     Narr:	She slides your jeans down, until they are hanging around your ankles. Her long, red nails travel along your legs, and it sends shivers down your spine.
@@ -1490,7 +1490,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                     Eve:	Mmm...
                     Narr:	Your cock is already bursting to get out of the prison that is your underwear, it's full might and size contained by the thin line of fabric.
                     Eve:	(It's even bigger than I thought.)
-                    Eve:	Tell me, [m!t], have you ever fantasized about me?
+                    Eve:	Tell me, Dennis, have you ever fantasized about me?
                     Narr:	Eve runs her index along your clothed erection, eliciting a light groan from you before you answer.
                     Me: 	All the time, Eve.
                     Me: 	Even before I came back this summer... I always thought of this happening.
@@ -1631,7 +1631,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                 Narr:	Your hands are stacking the dishes, but your full attention is on Kiara.
                 Kiara:	Somewhere, at the back of my mind, a stupid part of me thought you'd want to leave camp with me.
                 Me: 	Oh, Kiara, I– That is—
-                Kiara:	No, [m!t], you don't have to say anything. I know already. I know it's impossible.
+                Kiara:	No, Dennis, you don't have to say anything. I know already. I know it's impossible.
                 Kiara:	Especially now, with Eve starting to mentor you and everything.
                 Kiara:	You have a really great career opportunity here and a degree you're pursuing back at uni.
                 Kiara:	You actually have a future at Red Falls.
@@ -1767,7 +1767,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                     Narr:	But both trays of plates make it to the house intact.
                     Narr:	They fly off the tray, straight onto the grass by the path.
                     Narr:	Kiara's head snaps back so fast that, for a moment, you are concerned something might be wrong with her neck.
-                    Kiara:	What the fuck, [m!t]?!
+                    Kiara:	What the fuck, Dennis?!
                     Narr:	Plates lay in the grass, dirty, but whole.
                     Me: 	What? You think you can stack dirty, slippery plates THIS high and have them not fly all over?
                     Kiara:	I didn't feel like taking more trips from the gazebo to the kitchen. Walk slower if you can't keep up.
@@ -1807,7 +1807,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Narr:	You really haven't thought this through, have you?
                         Jane:	...Heellooo?
                         Narr:	This is getting awkward. Say something already!
-                        Me: 	Yes, uhm... Hi... Jane? It's me, [m!t]!
+                        Me: 	Yes, uhm... Hi... Jane? It's me, Dennis!
                         Jane:	I know, I have your number saved.
                         Me: 	Yes, of course...
                         Jane:	Is everything alright?
@@ -1870,7 +1870,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Naomi:	Actually, yes! You know how I was writing a lot of campfire-style stories?
                         Me: 	How could I forget? That Hector one gave me major creeps.
                         Me: 	Good job on that, by the way. Must be a mark of good horror if it haunts you after it's done, right?
-                        Naomi:	Thank you very much. That's very high praise, [m!t].
+                        Naomi:	Thank you very much. That's very high praise, Dennis.
                         Naomi:	But that's not my original story.
                         Naomi:	Be that as it may, I think I have a new idea.
                         Naomi:	It's a bit different from my short horror stories, but my brain is absolutely buzzing with inspiration right now.
@@ -1904,7 +1904,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Me: 	I mean, Naomi, you're an awesome writer. I bet you could pull it off, no sweat.
                         Naomi:	I might...
                         Me: 	Soooo, I better leave you to it then?
-                        Naomi:	I'd appreciate it, yes. Thank you, [m!t]! I love bouncing ideas off of you, you always have a fresh perspective.
+                        Naomi:	I'd appreciate it, yes. Thank you, Dennis! I love bouncing ideas off of you, you always have a fresh perspective.
                         Me: 	It's my pleasure, see you at the eclipse party tonight!
                         Naomi:	See you there!
                         Me: 	(Should I go to the gazebo and maybe help Kiara? It did look like she could use a hand.)
@@ -1921,7 +1921,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Me: 	Stacy?
                         Me: 	(Is she ignoring me or not hearing me?)
                         Me: 	Hello, Earth to Stacy?! Is anyone home?
-                        Stacy:	Oh, [m!t]! It's you!
+                        Stacy:	Oh, Dennis! It's you!
                         Stacy:	When did you come in here?
                         Me: 	Just a second ago. What are you doing?
                         Stacy:	What does it look like I'm doing, you've interrupted me!
@@ -1939,7 +1939,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Me: 	Why didn't you just write it down?
                         Stacy:	I'm not much of a writer, I'm more of a visual type.
                         Me: 	I mean, okay, that makes sense, I guess.
-                        Stacy:	How are you this casual about the nightmares, [m!t]?
+                        Stacy:	How are you this casual about the nightmares, Dennis?
                         Stacy:	Doesn't it bother you that we're both having the exact same dreams?
                         Stacy:	Also about the same weird stuff happening?!
                         Me: 	Well, a little, but I'm not worried that much.
@@ -2014,7 +2014,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                             Stacy:	You wanna move this to my bed?
                                                 Me: 	Absolutely.
                                                 Narr:	In one fell swoop, you throw her against the mattress and start kissing her neck.
-                                                Stacy:	Ahhh, [m!t]!
+                                                Stacy:	Ahhh, Dennis!
                                                 Me: 	Shhh, they'll hear us, please be quiet.
                                                 Stacy:	*Whispers* Sorry.
                                                 Stacy:	I have an idea...
@@ -2043,7 +2043,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                     Me: 	I... Hm… I wouldn't dare.
                                                         Me: 	I'm close.
                                                         Stacy:	Cum inside me.
-                                                        Stacy:	Please, [m!t]!
+                                                        Stacy:	Please, Dennis!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You feel your hot cum filling her up.
                                                         voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
@@ -2052,7 +2052,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Stacy:	Aahhhh.
                                                         Stacy:	Oh, my lord.
                                                         Me: 	I'm close.
-                                                        Stacy:	Cum for me, [m!t]!
+                                                        Stacy:	Cum for me, Dennis!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You grab her leg and pull it up, allowing you to go even deeper.
                                                         Stacy:	Aahh, aahh! Give it to me.
@@ -2081,7 +2081,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Me: 	I'm close.
                                                         voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_c3c8b269.mp3
                                                         Stacy:	Cum inside me.
-                                                        Stacy:	Please, [m!t]!
+                                                        Stacy:	Please, Dennis!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You feel your hot cum filling her up.
                                                         voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
@@ -2092,7 +2092,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Stacy:	Oh, my lord.
                                                         Me: 	I'm close.
                                                         voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
-                                                        Stacy:	Cum for me, [m!t]!
+                                                        Stacy:	Cum for me, Dennis!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You ram into her with reckless abandon.
                                                         voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_9ccc6ab3.mp3
@@ -2164,7 +2164,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                     Stacy:	So... good!
                                                         Me: 	I'm so close.
                                                         voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
-                                                        Stacy:	Cum for me, [m!t]!
+                                                        Stacy:	Cum for me, Dennis!
                                                         Me: 	Get on your knees.
                                                         Stacy:	Yes, my Ashen Prince!
                                                         Stacy:	Cum on them!
@@ -2172,12 +2172,12 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Stacy:	Oh, yeah!
                                                         Me: 	I'm so close.
                                                         voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
-                                                        Stacy:	Cum for me, [m!t]!
+                                                        Stacy:	Cum for me, Dennis!
                                                             Me: 	Turn around.
                                                             Narr:	She obeys and is met with a hot load all over her belly, just as you reach your peak.
                                                             Narr:	You pull out your shaft just as the first load comes out.
                                                             Narr:	You spray your hot cum all over her belly.
-                                                        Stacy:	Mmm, [m!t]! All of that for me?
+                                                        Stacy:	Mmm, Dennis! All of that for me?
                                                         Me: 	Just for you, babe.
                                                         Stacy:	Mmm, yeah.
                                         Narr:	The two of you put your clothes back on.
@@ -2208,7 +2208,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                         Me: 	Okay, I'll leave you to it then.
                                         Me: 	(Okay, got a little distracted there, but at least I found Emily.)
                                         Me: 	(I should probably join them, see what they are up to.)
-                                        Emily:	Hey, [m!t], come over here!
+                                        Emily:	Hey, Dennis, come over here!
                                         Narr:	As you approach, they both seem to be giggling like they are in on some sort of a joke.
                                         Belle:	Sooo... What exactly were you doing in my cabin?
                                         Me: 	I was checking on Stacy. She doesn't seem to be alright, not at all today.
@@ -2222,7 +2222,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                         Belle:	Or are you just really happy to see me?
                                         Emily:	Belle, for real, give the poor guy a break.
                                         Belle:	Fine, you can have your boy-toy, I'll go see what's up with Stacy.
-                                        Belle:	And, [m!t]?
+                                        Belle:	And, Dennis?
                                         Belle:	You know she's gonna tell me everything that happened in there, right?
                                         Me: 	Well, good thing nothing happened then.
                                         Belle:	Oh, for suure.
@@ -2258,13 +2258,13 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                 Me: 	Did you see where they went, by any chance?
                                 Stacy:	Toward the lake, I think? I wasn't paying attention.
                                 Me: 	Thank you. See you around, Stacy!
-                                Stacy:	See you around, [m!t].
+                                Stacy:	See you around, Dennis.
                                 Me: 	Okay, got a little distracted there, but —
                                 Me: 	Belle and Emily? What? When did they get here? Stacy just said—
                                 Me: 	You know what? I'm not gonna complain, this probably saved me a ton of time.
                                 Me: 	That said, I should probably join them, see what they're up to.
                                 Me: 	(I should probably join them, see what they are up to.)
-                                Emily:	Hey, [m!t], come over here!
+                                Emily:	Hey, Dennis, come over here!
                                 Narr:	As you approach them, they both seem to be giggling like they are in on some sort of a joke.
                                 Me: 	Hey, you two. What's so funny?
                                 Belle:	Oh, nothing, nothing. Don't worry about it.
@@ -2309,7 +2309,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                 Belle:	You got it, honey!
                                 Narr:	And Belle, ever so subtly, sneaks a little wink at you.
                                 Me: 	(Shit.)
-                                Belle:	What's wrong, [m!t]? Cat got your tongue?
+                                Belle:	What's wrong, Dennis? Cat got your tongue?
                                 Me: 	Khm... No, I just... don't find makeup that interesting. Sorry.
                                 Emily:	You might find you're more interested than you think.
                                 Me: 	(Belle is such a bad influence on her, I swear.)
@@ -2318,7 +2318,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                 Me: 	As I said, I am not. I just like to keep an open mind for anything.
                                 Me: 	(Wait, did that come out wrong? I think I'm kinda lost with this metaphor.)
                                 Emily:	See, I love that about you! You take interest in all of my hobbies, and I have so many.
-                                Belle:	Oh, that's sweet of you, [m!t]. Didn't see that caring side of you much.
+                                Belle:	Oh, that's sweet of you, Dennis. Didn't see that caring side of you much.
                                 Me: 	(Oh, look, an opening to change this cursed subject.)
                                 Me: 	Honestly, I didn't expect a caring side from you either. The way you look after Stacy?
                                 Me: 	It's so sweet.
@@ -2326,7 +2326,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                 Belle:	You never know what you're gonna get, but it's gonna be fun in any case.
                                 Emily:	Haha, I like that.
                                 Me: 	Yeah, what I meant is, you got through to Stacy more than I did, even in therapy. It's impressive.
-                                Belle:	Don't sing praises to me, [m!t]. It feeds my ego, and I've been told it's been chronically overfed.
+                                Belle:	Don't sing praises to me, Dennis. It feeds my ego, and I've been told it's been chronically overfed.
                                 Me: 	No, no, listen. This is giving credit where credit is due.
                                 Belle:	Speaking of the devil.
                                 Narr:	Belle stands up from the bench abruptly.
@@ -2432,7 +2432,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
     Me: 	(Say, those plates over there look like they are in a dire need of a good wipe.)
     Emily:	Well, you're done anyways. Looks like you didn't need any help.
     Kiara:	That's not the point. It's a matter of principle.
-    Kiara:	Both me and [m!t] were doing our jobs, and where were you?
+    Kiara:	Both me and Dennis were doing our jobs, and where were you?
     Emily:	Oh, I was just... keeping an eye on the patients? You know, the people we're supposed to be looking after?
     Kiara:	Oh, for sure, of course. How silly of me to ask?
     Emily:	I am feeling some animosity in the air right now. Did you want me to help you clean?
@@ -2452,14 +2452,14 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
     Me: 	Got it.
     Narr:	You make your way back to the kitchen, and, at the very same time, Emily walks into the house through the front door.
     Me: 	Oh, hey, Em!
-    Emily:	Hi, [m!t]...
+    Emily:	Hi, Dennis...
     Kiara:	Where the hell have you been?!
     Narr:	You almost shit a brick until you realize she is looking only at Emily.
     Me: 	(Oof, okay, I'm off the hook.)
     Emily:	At the campground? Why?
     Kiara:	What do you mean 'why'?!
     Kiara:	Are you on vacation right now? Or did you forget you have an actual job to do around here?!
-    Emily:	I was looking after the patients! I WAS doing my job! What about [m!t], why aren't you mad at him?
+    Emily:	I was looking after the patients! I WAS doing my job! What about Dennis, why aren't you mad at him?
     Kiara:	Because he was doing his goddamn job! Unlike some of us...
     Me: 	(If that is part of my job, I never want to retire.)
     Me: 	Yeah, Em, she has a point. You could have helped out with the dishes, you know?
@@ -2574,7 +2574,7 @@ Kiara:	Yeah, summers are the worst. See you guys, later!
     Emily:	You said you were gonna find me after you finish with Eve. Why didn't you?
         Me: 	Em, I'm sorry, I had so much work. This is literally the first time today that I don't have something to do...
         Emily:	It's okay, I understand.
-        Emily:	I think I also need to rest up, or I'll sleep right through the eclipse. Catch you later, [m!t].
+        Emily:	I think I also need to rest up, or I'll sleep right through the eclipse. Catch you later, Dennis.
         Narr:	With that, Emily goes upstairs, and you are left alone.
         Me: 	(Damn, I really hope she isn't too disappointed...)
         Me: 	(Eve really made me an offer I couldn't refuse.)
@@ -2625,7 +2625,7 @@ Narr:	The retort catches Belle visibly off guard, causing her demeanor to shift 
 Belle:	Sorry... I didn't mean it like that.
 Stacy:	Thank you.
     Stacy:	You're not wrong...
-    Stacy:	Ever since I had my session with [m!t]... I've been thinking about it.
+    Stacy:	Ever since I had my session with Dennis... I've been thinking about it.
     Stacy:	It's just difficult.
     Stacy:	The flock has been my family for the last couple of years, and I poured a lot of time and energy into it.
     Stacy:	But is it really good for me in the end?
@@ -2638,7 +2638,7 @@ Stacy:	Thank you.
     Stacy:	Especially you, Belle.
     Belle:	Me?
     Stacy:	You have no idea how much you've helped me.
-    Stacy:	I can only imagine how much worse I would've been had it not been for you and [m!t].
+    Stacy:	I can only imagine how much worse I would've been had it not been for you and Dennis.
     Stacy:	I have both of you to thank for helping me survive without my family.
     Stacy:	You think I want to be like that?
     Belle:	Stacy, I really didn't mean to—
@@ -2660,7 +2660,7 @@ Stacy:	I'm sorry, I didn't mean to upset you.
 Belle:	No, no. You didn't.
 Belle:	It's just that...
 Belle:	I didn't know I meant so much to you, Stacy.
-    Belle:	You know, [m!t]'s helped me see a lot of things from a new perspective.
+    Belle:	You know, Dennis's helped me see a lot of things from a new perspective.
     Belle:	He helped me realize that the way I'm acting isn't really appropriate.
     Belle:	I mean, I was aware that it wasn't appropriate, but I always thought that it didn't matter.
     Belle:	As long as I was desirable, that was all that mattered.
@@ -2699,7 +2699,7 @@ Belle:	I wouldn't dream of it.
         Narr:	Standing in front of the door for a second, you wonder if you should knock or just come in.
         Narr:	Ultimately, you decide to be a gentleman and knock.
         Emily:	Who is it?
-        Me: 	It's me, [m!t].
+        Me: 	It's me, Dennis.
         Narr:	The door swings open and Emily is standing inside, completely naked.
         Me: 	Em, oh my god...
         Narr:	She smiles wide and grabs you by the hand.
@@ -2778,7 +2778,7 @@ Belle:	I wouldn't dream of it.
         Narr:	Her head tilts back in pleasure. You can feel her moving with your hand, shoving your fingers deeper inside.
         Emily:	Ahh, ahh, ahhhh.
         Emily:	Sooo... Good...
-        Emily:	Uhm, [m!t]?
+        Emily:	Uhm, Dennis?
         Me: 	Yeah?
         Narr:	But, as you haven't stopped finger fucking her, she gets a little distracted and doesn't continue her line of questioning.
         Me: 	Em? Are you okay?
@@ -2841,7 +2841,7 @@ Belle:	I wouldn't dream of it.
     Narr:	Stacy gathers her composure, just so she can answer Belle.
     Stacy:	[fl!c]-[m!ct]!
     Belle:	Hah, I guess that's another thing you and I have in common~
-    Belle:	I know I'm not [m!t], but I hope I will be able to substitute him today.
+    Belle:	I know I'm not Dennis, but I hope I will be able to substitute him today.
     Narr:	She pushes her onto her back before moving her head down to face Stacy's pussy.
     Narr:	Instantly, she presses her face into it, and Stacy screams in pleasure as Belle's tongue twirls around her most sensitive spot.
     Stacy:	Oh lord!
@@ -2863,17 +2863,17 @@ Belle:	I wouldn't dream of it.
     Stacy:	Yes, please do it.
     Narr:	Without further ado, Belle rises away from the flustered Stacy and goes to her closet.
     Narr:	She pulls out her trusty toy and walks back to Stacy.
-    Belle:	I want you to think of [m!t] while I do this.
+    Belle:	I want you to think of Dennis while I do this.
     Narr:	Stacy nods in agreement before Belle plunges the toy deep into Stacy's hole.
     Stacy:	AAAah!
     Narr:	At that moment, Stacy's moans become that much louder and more intense.
     Narr:	Finally, Belle begins to thrust in and out as she fucks Stacy senselessly, leaving little room for her to catch her breath.
     Narr:	Stacy's eyes all but roll back into her head as Belle continues to pleasure her endlessly.
-    Stacy:	Yes, [m!t], harder!
+    Stacy:	Yes, Dennis, harder!
     Narr:	Belle obliges, smirking as she watches Stacy near her peak with every thrust and motion.
     Belle:	Are you close?
     Stacy:	Mhmm!
-    Belle:	Cum all over [m!t]'s dick, Stacy!
+    Belle:	Cum all over Dennis's dick, Stacy!
     Narr:	And with that, Stacy's body begins to convulse in pleasure, her pussy clenching hard around Belle's toy as she rides out her orgasm.
     Narr:	It doesn't take long until her body slumps in satisfaction. Belle pulls the toy out of her gently and sets it aside.
     Belle:	Is my debt paid off?
@@ -2911,7 +2911,7 @@ Narr:	You think on whether to answer it or not.
         Me: 	(A bad one, too. Don't they know that persistence is key to making sales?)
         Me: 	(Oh, well, whatever.)
         Narr:	You lay down on your bed, silencing your phone this time.
-        Me: 	(Sorry, [m!t] is currently unavailable. Please try again when I'm not trying to nap.)
+        Me: 	(Sorry, Dennis is currently unavailable. Please try again when I'm not trying to nap.)
 Narr:	It takes you a little bit more time to settle down, but eventually you manage to fall asleep.
 Narr:	Into sweet, sweet, peaceful sleep.
 Narr:	Well deserved rest after a full day of running around...
@@ -2960,7 +2960,7 @@ Narr:	The question is, who will you spend your time with?
         Narr:	Eve rushes to straighten her clothing and wipe off any evidence of sleep she had leftover on her features.
         Me: 	(Even like this, she looks beautiful.)
         Me: 	Would you mind if I sat next to you?
-        Eve:	Be my guest, [m!t].
+        Eve:	Be my guest, Dennis.
         Narr:	You move around the couch to sit next to her, sinking into the soft cushions. Your knee barely grazes Eve's as you reach to pick up the remote.
         Eve:	Though, I would appreciate it if you didn't turn on the TV — I'm fighting a head-crushing migraine.
             Me: 	(I suppose this is not the best time to continue where we left off...)
@@ -2999,7 +2999,7 @@ Narr:	The question is, who will you spend your time with?
             Me: 	Duly noted.
             Narr:	You continue applying the correct pressure.
             Me: 	How's the migraine now?
-        Eve:	No amount of painkillers seems to help. Have you ever had a migraine, [m!t]?
+        Eve:	No amount of painkillers seems to help. Have you ever had a migraine, Dennis?
         Eve:	Although, I suppose you are still too young to get them.
         Me: 	Hey, I had to pull an all-nighter — or two — to pass my exams, so I'm familiar with sleep-deprivation-induced headaches.
         Eve:	Except that this is stress-induced.
@@ -3050,11 +3050,11 @@ Narr:	The question is, who will you spend your time with?
         Eve:	It's one of the reasons I've given you more responsibilities this time around; I simply had no time to take care of all that myself.
         Me: 	And I am cheap labor, is that it?
         Narr:	As soon as you say that, even though you were joking, Eve's hand lands on your thigh with a worried expression.
-        Eve:	You are so much more than that, [m!t].
+        Eve:	You are so much more than that, Dennis.
             Eve:	You are an invaluable asset to me, and I would be proud to call you a colleague once you graduate.
             Eve:	Your commitment to this camp and to those girls told me so much about you as a person, not to mention about your work ethic.
             Eve:	If you continue working in this field, I am sure you will have a stellar career.
-        Eve:	But most of all, [m!t], you are the first person to see me as a woman in a long time.
+        Eve:	But most of all, Dennis, you are the first person to see me as a woman in a long time.
         Me: 	Really?
         Narr:	Eve pauses, the cogs inside her head visibly spinning as she searches for the appropriate words.
         Eve:	My work is extremely time-consuming. Maybe, it wouldn't be so if I was less passionate about it, but, this is my calling.
@@ -3240,13 +3240,13 @@ Narr:	The question is, who will you spend your time with?
                 Me: 	I'm not even all the way in.
                 sexName S-sorry, I've just never had anyone so— AAH!
                 Narr:	You continue pushing on, causing her to scream in pleasure.
-                sexName God, [m!t]!
+                sexName God, Dennis!
                 Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
                 sexName You have no idea how much I've missed this!
                 Me: 	(She's so wet.)
                 Me: 	Don't worry, I can tell.
                 Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
-                sexName Ooooh, [m!t]!
+                sexName Ooooh, Dennis!
                 Me: 	You feel so good, [sexName!t].
                 Narr:	Her long nails dig into your back, clawing at you in pleasure, and you don't mind the slight hint of pain.
                 Me: 	Aaaah, you're driving me wild!
@@ -3290,7 +3290,7 @@ Narr:	The question is, who will you spend your time with?
                         Narr:	She is gripping your leg in an attempt to pull herself together, but her yearning has come to fruition.
                         Narr:	She can barely contain herself.
                         voice:	voice/e10a38nastavak_219a1072.mp3
-                        sexName God, [m!t]!
+                        sexName God, Dennis!
                         sexName I need you inside of me, NOW!
                         Narr:	Despite her wish, she seems to be quite content with just riding your face. Although, from the way her body trembles, you can tell she really wants it.
                         Narr:	You require no further permission, and, with uncontrolled lust, you switch your positions.
@@ -3305,7 +3305,7 @@ Narr:	The question is, who will you spend your time with?
                         sexName S-sorry, I've just never had anyone so— AAH!
                         Narr:	You continue pushing on, causing her to scream in pleasure.
                         voice:	voice/e10a38nastavak_219a1072.mp3
-                        sexName God, [m!t]!
+                        sexName God, Dennis!
                         Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
                         voice:	voice/e10a38nastavak_f936222e.mp3
                         sexName You have no idea how much I've missed this!
@@ -3313,7 +3313,7 @@ Narr:	The question is, who will you spend your time with?
                         Me: 	Don't worry, I can tell.
                         Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
                         voice:	voice/e10a38nastavak_2eed5fa1.mp3
-                        sexName Ooooh, [m!t]!
+                        sexName Ooooh, Dennis!
                         Me: 	You feel so good, [sexName!t].
                         Narr:	Her long nails dig into your back, clawing at you in pleasure, and you don't mind the slight hint of pain.
                         Me: 	Aaaah, you're driving me wild!
@@ -3349,7 +3349,7 @@ Narr:	The question is, who will you spend your time with?
                                 sexName S-sorry, I've just never had anyone so — AAH!
                                 Narr:	You continue pushing on, causing her to scream in pleasure.
                                 voice:	voice/e10a38nastavak_219a1072.mp3
-                                sexName God, [m!t]!
+                                sexName God, Dennis!
                                 Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
                                 voice:	voice/e10a38nastavak_f936222e.mp3
                                 sexName You have no idea how much I've missed this!
@@ -3357,7 +3357,7 @@ Narr:	The question is, who will you spend your time with?
                                 Me: 	Don't worry, I can tell.
                                 Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her insistent moaning.
                                 voice:	voice/e10a38nastavak_2eed5fa1.mp3
-                                sexName Ooooh, [m!t]!
+                                sexName Ooooh, Dennis!
                                 Me: 	You feel so good, [sexName!t].
                                 Narr:	Her long nails dig into your back, clawing at you in pleasure, and you don't mind the slight hint of pain.
                                 Me: 	Aaaah, you're driving me wild!
@@ -3381,7 +3381,7 @@ Narr:	The question is, who will you spend your time with?
                                         sexName S-sorry, I've just never had anyone so— AAH!
                                         Narr:	You continue pushing on, causing her to scream in pleasure.
                                         voice:	voice/e10a38nastavak_219a1072.mp3
-                                        sexName God, [m!t]!
+                                        sexName God, Dennis!
                                         Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
                                         voice:	voice/e10a38nastavak_f936222e.mp3
                                         sexName You have no idea how much I've missed this!
@@ -3389,7 +3389,7 @@ Narr:	The question is, who will you spend your time with?
                                         Me: 	Don't worry, I can tell.
                                         Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
                                         voice:	voice/e10a38nastavak_2eed5fa1.mp3
-                                        sexName Ooooh, [m!t]!
+                                        sexName Ooooh, Dennis!
                                         Me: 	You feel so good, [sexName!t].
                                 sexName Wrong answer, but I'm not going to punish you just because you didn't study your materials.
                                 Narr:	Eve's patient hands guide you into position.
@@ -3401,7 +3401,7 @@ Narr:	The question is, who will you spend your time with?
                                 sexName S-sorry, I've just never had anyone so— AAH!
                                 Narr:	You continue pushing on, causing her to scream in pleasure.
                                 voice:	voice/e10a38nastavak_219a1072.mp3
-                                sexName God, [m!t]!
+                                sexName God, Dennis!
                                 Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
                                 voice:	voice/e10a38nastavak_f936222e.mp3
                                 sexName You have no idea how much I've missed this!
@@ -3409,7 +3409,7 @@ Narr:	The question is, who will you spend your time with?
                                 Me: 	Don't worry, I can tell.
                                 Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
                                 voice:	voice/e10a38nastavak_2eed5fa1.mp3
-                                sexName Ooooh, [m!t]!
+                                sexName Ooooh, Dennis!
                                 Me: 	You feel so good, [sexName!t].
                                 sexName Aaah, now— Mmmm—
                                 Me: 	Hnnng.
@@ -3444,7 +3444,7 @@ Narr:	The question is, who will you spend your time with?
                                         Narr:	You flip Eve over, positioning her onto her stomach and quickly plunging your dick back into her.
                                         Narr:	You can barely wait to be inside of her again.
                                         sexName Aaaah!
-                                        sexName Fuck me, [m!t]!
+                                        sexName Fuck me, Dennis!
                                         Narr:	You oblige her quickly, setting a ruthless rhythm.
                                 sexName Close, but no.
                                 sexName I'd have half a mind not to reward you for missing this one!
@@ -3455,7 +3455,7 @@ Narr:	The question is, who will you spend your time with?
                                 voice:	voice/e10EveSexQuestion2Continuation_c97caf7d.mp3
                                 sexName Aaaah!
                                 voice:	voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
-                                sexName Fuck me, [m!t]!
+                                sexName Fuck me, Dennis!
                                 Narr:	You oblige her quickly, setting a ruthless rhythm.
                                 sexName And— Aaah!-- Finally... last question.
                                 Me: 	Let's hear it, [sexName!t]!
@@ -3472,7 +3472,7 @@ Narr:	The question is, who will you spend your time with?
                                 Narr:	You don't need to be told twice to plunge yourself back into her.
                                 voice:	voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
                                 sexName Fuck, fuck, fuck!
-        Eve:	Aaah, [m!t], I'm going to cum!
+        Eve:	Aaah, Dennis, I'm going to cum!
         Me: 	Hnnng— Me too, [sexName!t]!
         sexName Don't stop, don't stop, don't stop!
         Narr:	You can hear Eve losing her voice because of her incessant moaning, but you are not stopping.
@@ -3500,7 +3500,7 @@ Narr:	The question is, who will you spend your time with?
                 sexName Mmm, that's it... Good boy.
                 voice:	voice/e10EveRoomSexInside_08c6f2cd.mp3
                 sexName You were excellent.
-                sexName You know what I want, [m!t]?
+                sexName You know what I want, Dennis?
                 Me: 	Mmm— What?
                 sexName I want to feel you inside my asshole!
                 sexName I want to feel your hot load all up my tight, little hole!
@@ -3591,7 +3591,7 @@ Narr:	The question is, who will you spend your time with?
         Me: 	(Eve looks like she is not in a good mood right now. I better leave her be.)
         Narr:	So, you go to the kitchen and take a seat opposite Emily.
         Narr:	As soon as you do, she looks up from her book.
-        Emily:	Oh, hi, [m!t]! How was your nap?
+        Emily:	Oh, hi, Dennis! How was your nap?
         Me: 	Not so good...
         Emily:	Oh no, what's wrong?
         Me: 	Em, I'm having nightmares again. I feel like they're only getting worse.
@@ -3747,7 +3747,7 @@ Narr:	The question is, who will you spend your time with?
             Me: 	Em, come on. Talk to me.
             Narr:	She looks away, eyes nervously darting across the room.
             Narr:	Finally, she takes a deep breath and sighs.
-            Emily:	I'm not sure that I can, [m!t].
+            Emily:	I'm not sure that I can, Dennis.
             Emily:	Sorry for dragging you all the way up here. I really thought I could say it.
             Emily:	But, I guess I really am just a tease in the end!
             Narr:	She smiles sheepishly, but you are not about to let her get away with it so easily.
@@ -3762,7 +3762,7 @@ Narr:	The question is, who will you spend your time with?
             Narr:	Your sentence is interrupted by Emily moving to sit in your lap, your hands instinctively finding their way to her waist.
             Narr:	Emily was never the one to back away from a challenge.
             Narr:	As soon as her clothed crotch makes contact with yours, your member stirs within the confines of your pants.
-            Emily:	I'm not a little kid anymore, [m!t], so stop treating me like one.
+            Emily:	I'm not a little kid anymore, Dennis, so stop treating me like one.
             Emily:	I want you to look at me the same way you look at the other girls here.
             Narr:	You stare at her speechless. Her green eyes oozing determination.
             Narr:	It is then that you realize, you have really underestimated Emily.
@@ -3782,9 +3782,9 @@ Narr:	The question is, who will you spend your time with?
             Emily:	Well... I figured out what I want.
             Me: 	Oh?
             Narr:	Emily takes a deep breath, bracing herself for what she is about to say...
-            Emily:	I saw the way you look at the other girls here, [m!t].
+            Emily:	I saw the way you look at the other girls here, Dennis.
             Emily:	I want you to... look at me the same way.
-            Emily:	I'm not a little kid anymore, [m!t], so stop treating me like one.
+            Emily:	I'm not a little kid anymore, Dennis, so stop treating me like one.
             Narr:	You stare at her speechless, her green eyes oozing pure determination.
             Narr:	It is then that you realize, you have really underestimated Emily.
             Narr:	And so, you pull her into you, her lips crashing against yours.
@@ -3796,7 +3796,7 @@ Narr:	The question is, who will you spend your time with?
             Narr:	That makes you chuckle.
             Me: 	Oh, you're certainly cocky.
             Me: 	Come on, Em, talk to me.
-            Emily:	I'm not sure that I can, [m!t].
+            Emily:	I'm not sure that I can, Dennis.
             Emily:	Sorry for dragging you all the way up here. I really thought I could say it.
             Emily:	But, I guess I really am just a tease in the end!
             Narr:	She smiles sheepishly, but you are not about to let her get away with it so easily.
@@ -3809,7 +3809,7 @@ Narr:	The question is, who will you spend your time with?
             Narr:	Your sentence is interrupted by Emily moving to sit in your lap, your hands instinctively finding their way on her waist.
             Narr:	Emily was never the one to back away from a challenge.
             Narr:	As soon as her clothed crotch makes contact with yours, your member stirs within the confines of your pants.
-            Emily:	I'm not a little kid anymore, [m!t], so stop treating me like one.
+            Emily:	I'm not a little kid anymore, Dennis, so stop treating me like one.
             Emily:	I want you to look at me the same way you look at the other girls here.
             Narr:	You stare at her speechless, her green eyes oozing determination.
             Narr:	It is then that you realize, you have really underestimated Emily.
@@ -3898,7 +3898,7 @@ Narr:	The question is, who will you spend your time with?
                 Me: 	I don't think I could be more in awe of you than I am right now.
                 Narr:	She giggles and looks away shyly.
                 Narr:	You begin to touch the inside of her thighs, working your way up as she relaxes into your touch.
-                Emily:	Mmmm, I'm so wet [m!t]...
+                Emily:	Mmmm, I'm so wet Dennis...
                 Me: 	I wanna feel it.
                 Narr:	Your hand finds its way to her panties; the fabric is soaking wet.
                 Emily:	Mmmmm...
@@ -3910,8 +3910,8 @@ Narr:	The question is, who will you spend your time with?
         Narr:	She takes a hold of your hand, gently and with care. It stops you from touching her. You look up at her, a little confused.
         Me: 	What's the matter?
         Narr:	There's a plea in her eyes; an unspoken desire, begging to break free.
-        Emily:	I want to feel you inside me, [m!t]...
-            Emily:	I want to feel you inside me, [m!t]...
+        Emily:	I want to feel you inside me, Dennis...
+            Emily:	I want to feel you inside me, Dennis...
                 Me: 	Your wish is my command.
                 Narr:	You throw her on the bed and she doesn't seem to mind.
                 Emily:	Wait, let me get this out of the way.
@@ -3970,7 +3970,7 @@ Narr:	The question is, who will you spend your time with?
                 Me: 	Like I would ever want to stop... when you feel this good.
                 Emily:	Ahhh, ahhh, ahhh!
                 Narr:	Your two bodies almost mesh together, Emily's breathing following yours.
-                Emily:	Yes, yes, I'm close [m!t]!
+                Emily:	Yes, yes, I'm close Dennis!
                 Emily:	Please, please, don't stop!
                 Narr:	You go faster and faster, until you feel like you're about to bust.
                 Emily:	AHH, AHH, AHHH!
@@ -3979,13 +3979,13 @@ Narr:	The question is, who will you spend your time with?
                         Narr:	Emily's big eyes meet yours as you reach the verge of your orgasm.
                         Emily:	Cum inside me...
                         Emily:	I wanna feel it all.
-                        Emily:	Please, [m!t]...
+                        Emily:	Please, Dennis...
                         Narr:	You continue thrusting, not breaking eye contact with Emily.
                         Me: 	Agh, fuck!
                         Emily:	Mmmmmmm...
                         Narr:	Emily pulls you into a kiss as you continue unloading into her tight pussy...
                         Narr:	You continue thrusting inside her, right on the edge of orgasm.
-                        Emily:	Ahhhh, I'm cumming [m!t]!
+                        Emily:	Ahhhh, I'm cumming Dennis!
                         Narr:	You pull out right as both of you climax, spraying your load all over her toned stomach.
                         Narr:	Emily goes limp, exhausted.
                         Emily:	Oh my god...
@@ -3996,7 +3996,7 @@ Narr:	The question is, who will you spend your time with?
                 Narr:	You smile as you pull her onto your lap. You can feel the warmth of her wet pussy on your shaft, enticing you.
                 Me: 	Oh, the things I want to do to you right now...
                 Narr:	She smirks and grabs hold of your dick placing it right between her pussy lips.
-                Emily:	Ahhh, you feel so hot, [m!t].
+                Emily:	Ahhh, you feel so hot, Dennis.
                 Narr:	She starts moving the tip across her wetness which seems to please her, but it only teases you.
                 Emily:	Can't wait till I feel you inside.
                 Me: 	Neither can I.
@@ -4055,7 +4055,7 @@ Narr:	The question is, who will you spend your time with?
                 Narr:	You tighten the grip on her hips and start thrusting your whole length inside of her with increased pace and vigor.
                 Narr:	She loses control and starts shaking, feeling your every inch.
                 Emily:	Ahhh, yes!
-                Emily:	You're gonna make me cum, [m!t]!
+                Emily:	You're gonna make me cum, Dennis!
                 Emily:	AHH, AHH, AHHH!
                 Narr:	You go faster and faster, until you feel like you're about to bust.
                 Me: 	Uhh, I'm cumming!
@@ -4065,7 +4065,7 @@ Narr:	The question is, who will you spend your time with?
                         Me: 	Agh, fuck!
                         Emily:	Mmmmmmm...
                         Narr:	Emily pulls you into a kiss as you continue unloading into her tight pussy...
-                        Emily:	I wanna know how you taste, [m!t]!
+                        Emily:	I wanna know how you taste, Dennis!
                         Narr:	She swiftly gets off of you and embraces your throbbing cock with her lips.
                         Narr:	You do a few final thrusts, trying to hold onto this feeling as long as possible.
                         Narr:	But, she pushes you over the edge by sucking you off and you unload into her mouth.
@@ -4097,7 +4097,7 @@ Narr:	The question is, who will you spend your time with?
                 Me: 	Oh, fuuuck...
                 Narr:	She arches her back as she feels you entering.
                 Emily:	I've wanted this for so long.
-                Emily:	You feel so good [m!t].
+                Emily:	You feel so good Dennis.
                 Me: 	Em, you're scorching hot.
                 Narr:	You take a moment to admire her in this position, her pussy slowly taking more of your length.
                 Emily:	Mmmmmmm, uuuuuuuhhh...
@@ -4148,7 +4148,7 @@ Narr:	The question is, who will you spend your time with?
                 Narr:	She buries her head into the sheet of the bed, biting into it, trying to muffle her screams of joy.
                 Emily:	Ahh, ahh, ahh!
                 Me: 	Emily...fuuuuuuck...
-                Emily:	You're gonna make me cum, [m!t]!
+                Emily:	You're gonna make me cum, Dennis!
                 Narr:	You go faster and faster, Emily's rapid breathing and muffled screams making you feel like you're about to bust.
                 Me: 	Uh, I'm cumming.
                     Me: 	Uh, I'm cumming.
@@ -4195,7 +4195,7 @@ Narr:	The question is, who will you spend your time with?
         Me: 	But I am really thankful she called, y'know?
         Me: 	This summer has been life changing for me.
         Narr:	Emily giggles in response in that typical Emily fashion that you've grown to love, like she's in on a joke no one else knows.
-        Emily:	I know what you mean, [m!t].
+        Emily:	I know what you mean, Dennis.
         Emily:	I didn't think it would turn out like this...
         Emily:	I never thought I would actually get to hook up with you, I was always just teasing you, not expecting anything!
         Me: 	Yeah, jumping in my lap was very funny...
@@ -4256,7 +4256,7 @@ Narr:	You look over your shoulder, neither Eve nor Emily look willing to help yo
     Narr:	Sometimes there's no winning with Kiara, and there really is no point in arguing with her about it.
     Narr:	She will cool down, you know she will.
     Narr:	As prone to outbursts as she is, she wouldn't leave camp with bad blood between the two of you.
-Belle:	I bet [m!t] was just gaming in his room.
+Belle:	I bet Dennis was just gaming in his room.
 Belle:	Or maybe he was doing something else... Something private.
 Narr:	Belle licks her lips, and you quickly avert your eyes away from her.
 Stacy:	I was hoping you would show up soon, I wanna see the sky painted red!
@@ -4264,7 +4264,7 @@ Naomi:	And Beckett, among other literary geniuses, surely is—
 Naomi:	Hey, are you guys even listening to me?!
 Narr:	Violet says nothing, only smiles at you.
 Eve:	Now that we're all here, we can get going.
-Eve:	Girls, grab as much as you can carry, leave the heavy stuff to [m!t].
+Eve:	Girls, grab as much as you can carry, leave the heavy stuff to Dennis.
 Me: 	(Of course...)
 Narr:	The girls are quick to get to work, even Emily grabs a basket to carry.
 Narr:	In a brilliant showcase of strength, you load yourself up like a mule and head towards the campfire grounds.
@@ -4282,7 +4282,7 @@ Belle:	I also got struck by inspiration, be right back!
 Narr:	Eve was just about to say something, but she sighs instead:
 Eve:	If anyone else has anything to grab from the cabins, this would be a good time.
 Narr:	No one else moves.
-Eve:	Alright, let's continue. [m!t], you stay here and wait for those two. I don't want them getting up to anything.
+Eve:	Alright, let's continue. Dennis, you stay here and wait for those two. I don't want them getting up to anything.
 Me: 	You got it, Eve.
 Narr:	So you stay back and watch everyone else carry away the party supplies.
 Narr:	You take a few steps back and forth, waiting for Naomi and Belle to return.
@@ -4344,7 +4344,7 @@ Narr:	Violet is methodically arranging the snacks and drinks so that they are wi
     Narr:	And Belle... Well, Belle is standing to the side, shifting from foot to foot as she's trying to catch your attention.
     Me: 	(What is she up to now?)
     Narr:	Acting overly casual, she struts over to you.
-    Belle:	Hey, [m!t]! Let me help you unpack your basket.
+    Belle:	Hey, Dennis! Let me help you unpack your basket.
     Me: 	That's okay, I—
     Narr:	She completely disregards you and reaches into the basket you were carrying.
     Narr:	You look about, thinking that someone would notice this very sketchy interaction, but everyone seems to be busy at the moment.
@@ -4389,12 +4389,12 @@ Narr:	Kiara's head jerks in your direction.
 Kiara:	Do I have to? I've been running around camp all day, cleaning this and cleaning that.
 Kiara:	Can't I just have a break for once?
 Me: 	It's alright, Eve, I can handle it alone.
-Belle:	I can keep [m!t] company!
+Belle:	I can keep Dennis company!
 Narr:	Belle chimes in from the side, and only now do you remember that she is standing there, doing absolutely nothing.
 Eve:	However you want, just be quick; we don't want to miss this.
 Narr:	You give a stern nod before motioning with your head for Belle to follow you.
 Narr:	She practically skips after you as you walk back to the house at a hurried pace.
-Belle:	Aren't you glad I'm coming with you, [m!t]?
+Belle:	Aren't you glad I'm coming with you, Dennis?
 Me: 	Yeah, I feel like it's been a hot minute since we hung out last.
     Belle:	Yeah, not since our last session we haven't.
     Belle:	I missed your company, y'know?
@@ -4434,7 +4434,7 @@ Narr:	You're about to grab the box when you hear Belle rummaging through the fri
 Me: 	Come on, Belle, we have food at the spot.
 Belle:	Strawberries, bananas—my favorite—chocolate aaaaaand... whipped cream.
 Narr:	She shakes something within the fridge, probably the can of whipped cream.
-Belle:	Tell me, [m!t], what meal does that make?
+Belle:	Tell me, Dennis, what meal does that make?
 Me: 	I dunno... A fruit salad?
 Belle:	A banana split!
 Narr:	She exclaims triumphantly, looking over at you with a devilish grin.
@@ -4468,7 +4468,7 @@ Belle:	Don't you want to help me clean myself up before we go back?
         Me: 	You stole Stacy's move.
         Belle:	Maybe she stole it from me?
         Me: 	Um...
-        Belle:	Relax, [m!t], I'm just messing with you, I really don't care.
+        Belle:	Relax, Dennis, I'm just messing with you, I really don't care.
         Belle:	Unless you make me wait here, whipped cream on my titties...
         Me: 	You really do enjoy giving me heart attacks, huh?
         Narr:	You say that as you grab hold of her waist, pull her close and begin licking the cream off of her right nipple.
@@ -4522,7 +4522,7 @@ Belle:	Don't you want to help me clean myself up before we go back?
                 Narr:	You grab her by one arm and turn her around, which she takes in stride.
                 Belle:	Oh yeah, now we're talking!
                 Narr:	She bends over the kitchen counter, sticking her ass up.
-                Belle:	Put it in me! I need your cock, [m!t]!
+                Belle:	Put it in me! I need your cock, Dennis!
                 Narr:	It slides inside her seamlessly, her warmth engulfing your throbbing member. You start thrusting.
                 voice:	voice/e10BelleSexKitchenFrontPose_16994b6f.mp3
                 Belle:	Ahhhh, yes, fuck me!
@@ -4583,7 +4583,7 @@ Belle:	Don't you want to help me clean myself up before we go back?
             Me: 	Belle, are you alright?
             Narr:	You approach her while buckling your pants and adjusting them one more time before placing a concerned hand on one of her shoulders.
             Narr:	Belle doesn't answer you right away.
-            Belle:	Actually, [m!t], I'm better than ever.
+            Belle:	Actually, Dennis, I'm better than ever.
             Belle:	I've made a decision.
             Me: 	A decision? What decision?
             Narr:	Belle is quiet once again, licking the corner of her lips as she ponders how exactly she should phrase it.
@@ -4795,7 +4795,7 @@ Stacy:	That's quite alright, you didn't understand, but I hope you understand be
 Eve:	Thank you for sharing that with us, Stacy.
 Stacy:	It's my pleasure to share my knowledge with you all.
     Me: 	Is there anything we can do to make you feel better about all of this?
-    Stacy:	It's so sweet of you to ask, [m!t].
+    Stacy:	It's so sweet of you to ask, Dennis.
     Stacy:	During the other eclipse, when I was with my flock, we huddled together and prayed to H.P.L. to keep us safe.
     Stacy:	Being here with you all feels very similar. You make me feel safe. So, I guess you're already making me feel better.
     Eve:	That is very good to hear.
@@ -4951,7 +4951,7 @@ Narr:	Eventually you lose track of the conversation, choosing to instead focus o
     Narr:	Seeing you pick a spot slightly away from the rest, Eve decides to join you.
     Eve:	Bon appetit.
     Me: 	Thank you, Eve. Would you like some?
-    Eve:	Oh, thank you, [m!t]. As a matter of fact, I'll take you up on the offer; I hardly had time to eat today.
+    Eve:	Oh, thank you, Dennis. As a matter of fact, I'll take you up on the offer; I hardly had time to eat today.
     Me: 	I figured that was the case, you tend to neglect yourself, put everything first — work, other people. That's not good for you, Eve.
     Narr:	She takes a chip, scooping the dip with it.
     Eve:	Tables seem to have turned — now you're lecturing me.
@@ -5112,7 +5112,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
         Me: 	You do?
         Emily:	Y-yeah.
         Me: 	Well then, the real deal is what you're gonna get.
-        Emily:	Oh [m!t], I just can't get enough of you...
+        Emily:	Oh Dennis, I just can't get enough of you...
         Narr:	You smirk against her neck.
         Me: 	Well, I'd say that's a good thing — I feel the same way about you.
         Emily:	You do?
@@ -5127,7 +5127,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
         Me: 	You're every man's dream, Em. And I want to make you realize that.
     Narr:	Your lips find hers again — her hand pulls at your hair, the other stroking your back, guiding you ever closer.
     Narr:	Your own trace the contours of her toned body, cupping her breasts, fingers running slow circles around her nipples in time with her pants.
-    Emily:	Mmm, god...[m!t], you feel so...aaah!
+    Emily:	Mmm, god...Dennis, you feel so...aaah!
     Me: 	How do I feel, Em? Tell me.
     Narr:	She breaks the kiss, exposing her neck as she throws her head back when you squeeze a hardened bud in between two fingers:
     Narr:	A soft, delicate mewl is your only answer.
@@ -5157,13 +5157,13 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
     Narr:	Your cock twitches inside her, but you halt her movements, firm hands now cupping the curve of her waist.
     Narr:	Her lips part to utter the meekest of protests... but you never hear them.
     Narr:	Because, the moment you start to thrust, she arches her back off the ground letting out the most pleasurable cry.
-    Emily:	[m!t], you're... Aaaah!
+    Emily:	Dennis, you're... Aaaah!
     Narr:	You set a steady pace — long deep strokes brushing against her very core.
     Narr:	Savoring the heat of her sex around you, the lewdness of the sounds she makes.
     Narr:	You're utterly transfixed by her: the bounce of her perfect little tits, the flush of her cheeks, the wanton look in her eyes...
     Narr:	You don't even realize that you're picking up the pace, slamming yourself harder, deeper into her sweet pussy...
     Narr:	You don't realize it until she's screaming your name like a victory chant.
-    Emily:	[m!t]! [m!t]! OHGOD, [m!ut]!
+    Emily:	Dennis! [m!t]! OHGOD, [m!ut]!
     Narr:	Instinctively, acutely aware of your proximity to the rest, your hand wraps around her throat — her cry turns to splutter in her mouth.
     Narr:	Her green eyes lock with yours — and your deed hits you.
     Narr:	Your hand recoils as if burned, hips halting their movements in alarm.
@@ -5212,7 +5212,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Me: 	Hmmm...
             Narr:	You slide your throbbing erection in between her lips, stopping only when you pin the head of your cock against her clit, rubbing it gently.
             Narr:	Emily leans into you with a gasp, her hips jerking to create more friction.
-            Emily:	*Whining* [m!t]!
+            Emily:	*Whining* Dennis!
             Me: 	I didn't say you could move, did I?
             Narr:	She cries out in answer:
             Emily:	You're being unfair!
@@ -5237,16 +5237,16 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	Emily cries out.
             Narr:	Feeling your thrusts grow shallow at every increase in volume of her moans, she covers her mouth, gnawing at her lips.
             Narr:	And to watch the color of the eclipse ripen across the underside of her cheeks.
-            Emily:	[m!t], aaaah— you're so...biiig!
+            Emily:	Dennis, aaaah— you're so...biiig!
             Narr:	You shift inside of her, the tip of your cock ramming into her most sensitive spot.
             Narr:	Your fingers travel from her waist to the heat between her legs, stopping right above her tender clit.
             Narr:	You brush your fingers against the bud, hips unfaltering.
             Narr:	Emily moans so loud you feel its vibrations against your chest as they course through her own.
-            Emily:	Aaaaaaah! [m!t], [m!t], m-make me cum!
-                Emily:	Aaaaaaah! [m!t], [m!t], m-make me cum!
+            Emily:	Aaaaaaah! Dennis, [m!t], m-make me cum!
+                Emily:	Aaaaaaah! Dennis, [m!t], m-make me cum!
             Narr:	Wordlessly, you pull out and pluck your hand from her throat.
             Narr:	A cry leaves her lips in a voice like gravel.
-            Emily:	N-no...[m!t], I was good...I was goood!
+            Emily:	N-no...Dennis, I was good...I was goood!
             Narr:	You kiss her head, sneaking a hand around her waist to pull you both to your feet.
             Narr:	Emily falls against you like a rag doll, feet faltering as her muscles still spasm from the orgasms you denied her.
             Me: 	Shhhh, you were, you were. But cumming, Em...
@@ -5267,7 +5267,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	You shift inside of her, the tip of your cock ramming into her most sensitive spot as she writhes in your arms.
             Emily:	Aaaaaah! Ohmygod, s-so... Aaaah!
             Narr:	Your fingers travel from her waist to the heat between her legs, stopping right above her tender clit.
-            Emily:	Aaaaaaah! [m!t], [m!t], I'm gonna—!
+            Emily:	Aaaaaaah! Dennis, [m!t], I'm gonna—!
             Narr:	You brush your fingers against the bud, hips unfaltering.
             Narr:	Emily moans so loud you feel its vibrations against your chest as they course through her own.
             Me: 	W-what did we say, Em? What did we say?
@@ -5312,7 +5312,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	You swing harder, fingers striking the fullest portion of her ass, leaving a kiss of red in their wake.
             Emily:	AAAH!
             Narr:	You whip the same spot — once, twice, thrice — until her legs begin to shake, her wetness gushing out, dripping on your cock.
-            Emily:	N-no more, [m!t] !
+            Emily:	N-no more, Dennis !
             Me: 	(Wow...looks like she could cum from just spanking. But where's the fun in that?
             Narr:	You stroke the crimson flesh, giving it a light tap before you utter:
             Me: 	Such a good girl.
@@ -5324,7 +5324,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	You squeeze her throat tighter, rolling your hips into her.
             Narr:	Arching them to reach ever deeper, where her constant writhing tells you she needs you the most.
             Narr:	You feel her thready moans fan across your face the moment you cock strokes her favorite spot.
-            Emily:	S-so...big...[m!t] ...so good...
+            Emily:	S-so...big...Dennis ...so good...
             Narr:	You anchor yourself to the feeling of her skin on yours.
             Narr:	Her fluttering heat, the vicious slaps of skin against skin as you power into her aching pussy.
             Emily:	Aaaaaaah! [m!ut], [m!ut], make me cum—!
@@ -5356,10 +5356,10 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	You squeeze her throat tighter, rolling your hips into her.
             Narr:	Arching them to reach ever deeper, where her constant writhing tells you she needs you the most.
             Narr:	You feel her thready moans fan across your face the moment you cock strokes her favorite spot.
-            Emily:	S-so...big...[m!t]...so good...
+            Emily:	S-so...big...Dennis...so good...
             Narr:	You anchor yourself to the feeling of her skin on yours.
             Narr:	Her fluttering heat, the vicious slaps of skin against skin as you power into her aching pussy.
-            Emily:	I'm gonna... [m!t], I'm gonna...
+            Emily:	I'm gonna... Dennis, I'm gonna...
             Narr:	You stop for a split second, buried so deep inside her, before moving again.
             Narr:	Emily moans so loud you feel its vibrations against your chest as they course through her own.
                 Narr:	You stop for a split second, buried so deep inside her, before moving again; Emily moans so loud you feel its vibrations against your chest as they course through her own.
@@ -5374,7 +5374,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
     Narr:	Disjointed words bubbling out of her mouth in a useless stream as she violently clamps around you before falling limp in your arms.
     Me: 	Fuuck, Em, fuck!
     Narr:	You lose yourself in the feel of her sex post-orgasm, mindlessly crashing yourself into her, unresponsive to anything but her pretty cries.
-    Emily:	Aaaah, [m!t]! Aaaaaah!
+    Emily:	Aaaah, Dennis! Aaaaaah!
     Me: 	Such a good girl... feels so good.
     Narr:	The stimulation grows too torturous to bear it.
             Me: 	I'm gonna cum inside you, Em.
@@ -5533,7 +5533,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
     Narr:	The moment your tongue makes contact with the soft folds of her most sensitive area, she lets out a scream followed by a curse.
     Me: 	(God, I love it when she talks dirty.)
     Narr:	Your tongue starts doing small circles, the tip focused right where it's supposed to be as you gradually increase the scale of the motion.
-    Eve:	Yes, just like that, [m!t]!
+    Eve:	Yes, just like that, Dennis!
     Narr:	You can tell she's enjoying this, her juices dripping down your chin as you continue licking, your pace increasing.
     Me: 	*lick* *lick*
     Eve:	Aaah!
@@ -5581,7 +5581,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	Wasting no time, you position yourself at her entrance and plunge yourself deep within her.
             Narr:	Her eyes go wide at your sudden entrance.
             Eve:	Aaah, yes!
-            Eve:	Give it to me, [m!t]!
+            Eve:	Give it to me, Dennis!
             Narr:	You start thrusting into her right away, resuming the relentless pace you set earlier.
             Narr:	You are not giving her a chance to recover. She needs to know she is all yours.
             Me: 	As you fuck her, you give her ass a slap, which causes her to yelp in surprise and push herself into you further.
@@ -5607,7 +5607,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             voice:	voice/e10EveSex2DoggySecond_88354d2b.mp3
             Eve:	Aaah, yes!
             voice:	voice/e10EveSex2DoggySecond_ba4fe4db.mp3
-            Eve:	Give it to me, [m!t]!
+            Eve:	Give it to me, Dennis!
             Narr:	You start thrusting into her right away, resuming the relentless pace you set earlier.
             Narr:	You are not giving her a chance to recover. She needs to know she is all yours.
             Narr:	She lowers one of her legs from your waist and places it on the ground, the other remaining wrapped around you as you fuck her.
@@ -5647,13 +5647,13 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
     Eve:	Aah— Hnngh– Me too!
                 Narr:	You waste no time with flipping Eve into the doggy position, plunging your dick back into her eagerly as you continue to ram her.
             Me: 	I'm going to fill you up!
-            Eve:	Yes, fill me up to the brim, [m!t]!
+            Eve:	Yes, fill me up to the brim, Dennis!
             Eve:	Fill my tight pussy!
             Narr:	You feel Eve clenching around your dick as she starts having her orgasm, a shrill moan escaping her as she reaches her peak.
             Narr:	It causes you to thrust harder and faster, allowing her to ride out her orgasm perfectly as her eyes roll to the back of her head.
             Narr:	The added pressure is what sends you over the edge, and you unload yourself inside her, hot loads of your cum filling her up.
             Me: 	Mmmm... Fuuuuck.
-            Eve:	I want to swallow it all, [m!t]!
+            Eve:	I want to swallow it all, Dennis!
             Me: 	Fuuuuck.
             Narr:	You continue thrusting into her until you absolutely can't thrust anymore.
                 Narr:	Eve gets on her knees as you pull out of her and plunge yourself into her mouth quickly.
@@ -5854,7 +5854,7 @@ Eve:	No one here is rushing you.
     Narr:	An uneasy feeling rests in the pit of your stomach.
     Stacy:	But the feeling of homesickness was still there; I missed my flock too much.
     Stacy:	After all, they've been my family for the last couple of years, especially since my biological family abandoned me.
-    Stacy:	Like I told [m!t] during our session, any and all choices I made while involved with the flock were mine and mine alone.
+    Stacy:	Like I told Dennis during our session, any and all choices I made while involved with the flock were mine and mine alone.
     Stacy:	I know there's a lot of stigma around it, but the flock is my pillar of support.
     Stacy:	They always will be.
     Stacy:	Although, I learned I can find pillars in other places, too... Not just in H.P.L.'s warm embrace.
@@ -5934,7 +5934,7 @@ Belle:	Heh, I suppose that's true!
     Belle:	My compulsion also drove me to commit actions that I'm not proud of.
     Narr:	It's in this moment that she turns to Eve fully, a hint of shame present in her eyes.
     Narr:	Shame and Belle are usually quite incompatible terms, but you can see that, at this moment, she is being genuine.
-    Belle:	I'm sorry I took your underwear, [m!t].
+    Belle:	I'm sorry I took your underwear, Dennis.
     Narr:	If you had a drink, you would spit it out. Fortunately, that was not the case, but her confession leaves you visibly flustered.
     Narr:	Eve notices that and arches a brow.
     Belle:	It was wrong of me to do so, and it was wrong of me to show it to the girls, too.
@@ -6023,7 +6023,7 @@ Naomi:	Right, right..
     Naomi:	I learned what good and honest work is during my time at Red Falls.
     Naomi:	It taught me to value and respect it, but, most importantly, that nothing will fall out of the sky and into my lap.
     Narr:	Naomi looks at you, smiling meekly,
-    Naomi:	Thank you for being an example to me, [m!t].
+    Naomi:	Thank you for being an example to me, Dennis.
     Naomi:	It really encouraged me to follow your lead, I don't know how long it would've taken me to pick up the rake myself.
     Me: 	Don't even worry about it, Naomi. I'm glad I could help out.
     Naomi:	I always thought that type of work was beneath me, but I learned to find gratification in doing something on my own.
@@ -6034,7 +6034,7 @@ Naomi:	Right, right..
     Naomi:	I learned what good and honest work is in my time at Red Falls.
     Naomi:	It taught me to value and respect it, but, most importantly, it taught me that nothing will fall out of the sky and into my lap.
     Narr:	Naomi looks at you, smiling meekly.
-    Naomi:	Thank you for not jumping to my aid right away, [m!t].
+    Naomi:	Thank you for not jumping to my aid right away, Dennis.
     Naomi:	I needed to learn on my own what it means to take action and get to work.
     Naomi:	Sometimes in life you will only be able to rely on yourself, people won't always have your back.
     Me: 	(Hm... Maybe I should have helped her out.)
@@ -6070,7 +6070,7 @@ Narr:	All of the girls seem to shift in their seats as Violet readies herself to
     Violet:	But comfortable in a way that... I feel like my opinion is valid and matters.
     Violet:	I only ever felt comfortable being on my own.
     Violet:	It's why I enjoyed my alone time so much, doing yoga and exercising.
-    Violet:	This is where I have to thank, [m!t], however.
+    Violet:	This is where I have to thank, Dennis, however.
     Violet:	His presence has really taught me that I don't need to be alone to enjoy myself and that company is sometimes more than appreciated.
     Violet:	I wish you could've seen him do the king dancer pose, girls...
     Belle:	Oh, you have no idea...
