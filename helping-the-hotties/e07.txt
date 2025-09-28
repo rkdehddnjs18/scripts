@@ -48,27 +48,27 @@ Me: 	(I should check the time...)
         Me: 	(Huh?)
         Me: 	(Wait a second...)
     Me: 	(I hear something...)
-    noname *Muffled* ...yeah!
+    noname:	*Muffled* ...yeah!
     Me: 	(I still can't hear that well...)
     Me: 	(Hmm... Maybe I can...)
     Me: 	(I should be able to--)
-    noname FUUUUCK! YES!
-    noname Fuck me... [m!ct]...
-    noname Punish my pussy...
+    noname:	FUUUUCK! YES!
+    noname:	Fuck me... [m!ct]...
+    noname:	Punish my pussy...
     Me: 	(Holy shit, am I hallucinating?!)
     Me: 	(This is all so surreal...)
     Me: 	(Who is that?)
     Me: 	(And...)
     Me: 	(Is she really--)
-    noname YES! FUCK ME HARDER, [m!ut]!
+    noname:	YES! FUCK ME HARDER, [m!ut]!
     Narr:	Yes, it appears that she is.
-    noname Come get me. I know you're listening to me moan for you.
+    noname:	Come get me. I know you're listening to me moan for you.
     Me: 	(How could she know?)
     Me: 	(Nothing makes sense...)
     Me: 	(This wall--)
-    noname [m!ct]...
+    noname:	[m!ct]...
     Me: 	(Kiara?)
-    noname I'm so close, yet so far away...
+    noname:	I'm so close, yet so far away...
     Me: 	(It does sound like Kiara.)
     Kiara:	Come get me. Mmmm... Ooohhh...
     Me: 	(Should I really?)
@@ -237,9 +237,9 @@ Eve:	Ahh... (Peaceful morning.)
 Eve:	(I'm relieved that the patients this year are more...)
 Eve:	(...manageable.)
 Eve:	(Hopefully it stays that way.)
-noname Inflation is nearing record highs...
+noname:	Inflation is nearing record highs...
 Eve:	Terrible...
-noname ...The Fed is discussing whether to increase the interest rate...
+noname:	...The Fed is discussing whether to increase the interest rate...
 Narr:	A creak on the stairs interrupts Eve's focus on the TV.
 Me: 	Morning, Eve.
 Me: 	Aren't you bored by that stuff?
@@ -287,9 +287,9 @@ Me: 	Well...
                 Me: 	(I need to figure out how Stacy plays into all of this.)
                 Me: 	(I should make sure she's doing okay...)
                 Eve:	*Unintelligible*
-                noname On the day of the Summer Solstice.
+                noname:	On the day of the Summer Solstice.
                 Eve:	[m!ct].
-                noname What a treat!
+                noname:	What a treat!
                 Eve:	[m!ct]!
                 Me: 	Shit!
                 Me: 	Sorry!
@@ -374,9 +374,9 @@ Me: 	Well...
                 Me: 	(I need to figure out how Stacy plays into all of this.)
                 Me: 	(I should make sure she's doing okay...)
                 Eve:	*Unintelligible*
-                noname On the day of the Summer Solstice.
+                noname:	On the day of the Summer Solstice.
                 Eve:	[m!ct].
-                noname What a treat!
+                noname:	What a treat!
                 Eve:	[m!ct]!
                 Me: 	Shit!
                 Me: 	Sorry!
@@ -409,11 +409,11 @@ Me: 	Well...
         Me: 	Good coffee as usual.
         Eve:	Yeah, I've really learned how to use that machine well.
         Me: 	Mhm.
-        noname The total solar eclipse will happen tomorrow...
+        noname:	The total solar eclipse will happen tomorrow...
         Eve:	*Unintelligible*
-        noname On the day of the Summer Solstice.
+        noname:	On the day of the Summer Solstice.
         Eve:	[m!ct].
-        noname What a treat!
+        noname:	What a treat!
         Eve:	[m!ct]!
         Me: 	Shit!
         Me: 	Sorry!

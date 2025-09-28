@@ -35,10 +35,10 @@ Me: 	You see, I...
 Kiara:	Look what the cat dragged in.
 Me: 	Hi, Kiara.
 Kiara:	Hey.
-tut This game features something called "x-ray".
-tut Use your cursor to highlight and press the left mouse button in the upper left corner.
-tut This will enter an "x-ray mode". You can leave it by pressing anywhere on the screen.
-tut Try it yourself.
+tut:	This game features something called "x-ray".
+tut:	Use your cursor to highlight and press the left mouse button in the upper left corner.
+tut:	This will enter an "x-ray mode". You can leave it by pressing anywhere on the screen.
+tut:	Try it yourself.
 Me: 	Didn't know you're back at camp.
 Kiara:	Didn't think I would be.
 Kiara:	Anyway, nice to see you, [m!t].
@@ -70,12 +70,12 @@ Emily:	Eve said you should unpack once you arrive and she'll come and find you.
 Emily:	Here's the key to your room.
 Emily:	You better get going. So we still have time to hang out afterwards.
 Me: 	Sounds good to me!
-tut This game features navigation.
-tut Use your cursor to highlight interactable objects like doors, items or characters.
-tut To interact with them, simply press the left mouse button.
-tut The game also has a HINT system. If you get stuck, click on question mark in the upper right corner to see what you need to do next.
-tut To use the map during free roam mode, click on the compass icon below the other icons in the sidebar on the right side of the screen.
-tut Upon clicking the compass icon, the map of your current location will appear on the screen.
+tut:	This game features navigation.
+tut:	Use your cursor to highlight interactable objects like doors, items or characters.
+tut:	To interact with them, simply press the left mouse button.
+tut:	The game also has a HINT system. If you get stuck, click on question mark in the upper right corner to see what you need to do next.
+tut:	To use the map during free roam mode, click on the compass icon below the other icons in the sidebar on the right side of the screen.
+tut:	Upon clicking the compass icon, the map of your current location will appear on the screen.
 Me: 	Where did I put the key?
             Me: 	Oh! Here it is!
             Me: 	Hmm, I can’t find it. Maybe if I–
@@ -169,14 +169,14 @@ Eve:	Okay. I need to get back to work, anyway.
 Eve:	See you later.
 Me: 	Later, Eve.
 Narr:	As she leaves, you turn towards your luggage...
-tut Panties are a form of collectable item scattered across the camp in various locations. Some are easier to spot...
-tut while others will be hidden away in hard to see places.
-tut Collecting panties will unlock special images in the gallery, so keep your eyes open for them in each scene!
+tut:	Panties are a form of collectable item scattered across the camp in various locations. Some are easier to spot...
+tut:	while others will be hidden away in hard to see places.
+tut:	Collecting panties will unlock special images in the gallery, so keep your eyes open for them in each scene!
 Me: 	(I should finally unpack.)
 Me: 	(And I gotta make sure not to forget about Jane's text...)
 Narr:	Around 20 minutes later...
 Me: 	(All done. Now to help Kiara finish setting up.)
-hint Go to the camp area.
+hint:	Go to the camp area.
 Me: 	Need help?
 Kiara:	I'm doing the last cabin.
 Me: 	So, yes or no?
@@ -238,7 +238,7 @@ Me: 	I remember, Kiara.
 Kiara:	*Chuckle* Sorry for doubting you.
 Kiara:	Anyway, I think I left them on the kitchen table.
 Me: 	Got it.
-hint Get the guidelines from the kitchen table.
+hint:	Get the guidelines from the kitchen table.
 Me: 	Here they are.
 Emily:	Hey, [m!t]!
 Me: 	Huh?
@@ -771,7 +771,7 @@ Eve:	(This year will be different, that's for sure.)
 Me: 	(This is gonna be interesting...)
 Narr:	Eve takes a step forward.
 Eve:	Hello, girls. Welcome to Camp Red Falls.
-noname Hi!
+noname:	Hi!
 Eve:	I'm doctor Daniels. And I will be your caretaker for the duration of your stay here.
 Eve:	You can go unpack first. Once you're done, we'll meet in front of your residences.
 Eve:	Take the girls to their cabins.
@@ -856,20 +856,20 @@ Me: 	(I better go get The Guidelines from my room.)
 Narr:	Finally managing to squeeze some words out...
 Me: 	Umm, yeah... Bye.
 Belle:	Byee!
-tut The diary will help you remember all the girls and events happening in the camp.
-tut Info about all the girls you meet can also be found here!
-tut Yellow Post-It note in the bottom-right corner is the synopsis tab.
-tut After a day ends, you can read a general recap, reminding you of all you've done.
-tut As the days pass, recap of each will be added to this tab..
-tut Each girl in Helping the Hotties has a diary page about them.
-tut As the story progresses, each decision that involves an individual girl, can be found on her diary page.
-tut If you forget what happened, this feature should help you keep track of the story and its developments.
-tut Additionally, as you progress, each girl’s page will have new images unlocked.
-tut Achievements and missions can be accessed by clicking the stars icon, under the diary icon.
-tut Achievements have a progress bar, and a hint on how to complete an achievement is listed below the achievement name.
-tut Once you fully complete the progress bar for an achievement, click the "collect" button to the right of the achievement.
-tut This will allow you to collect the reward for that achievement, which is viewable in the gallery.
-tut The achievements you have completed are marked by the crown, once you claim the reward tied to that achievement.
+tut:	The diary will help you remember all the girls and events happening in the camp.
+tut:	Info about all the girls you meet can also be found here!
+tut:	Yellow Post-It note in the bottom-right corner is the synopsis tab.
+tut:	After a day ends, you can read a general recap, reminding you of all you've done.
+tut:	As the days pass, recap of each will be added to this tab..
+tut:	Each girl in Helping the Hotties has a diary page about them.
+tut:	As the story progresses, each decision that involves an individual girl, can be found on her diary page.
+tut:	If you forget what happened, this feature should help you keep track of the story and its developments.
+tut:	Additionally, as you progress, each girl’s page will have new images unlocked.
+tut:	Achievements and missions can be accessed by clicking the stars icon, under the diary icon.
+tut:	Achievements have a progress bar, and a hint on how to complete an achievement is listed below the achievement name.
+tut:	Once you fully complete the progress bar for an achievement, click the "collect" button to the right of the achievement.
+tut:	This will allow you to collect the reward for that achievement, which is viewable in the gallery.
+tut:	The achievements you have completed are marked by the crown, once you claim the reward tied to that achievement.
     Me: 	(Where should I go?)
         Me: 	(Where should I go?)
 Me: 	(A key? Wonder what it opens...)
@@ -1318,7 +1318,7 @@ Narr:	One by one, the girls slowly congregate around Eve.
 Eve:	Hello again, everyone.
 Eve:	I see everyone has already gathered, very good.
 Eve:	We're glad you applied to Red Falls. That was probably one of the better choices you'll make in your life.
-svi *Scoff*
+svi:	*Scoff*
 Eve:	Over the course of the next two months, we'll slowly get to know each other.
 Eve:	We have lots of activities planned for you, so please, relax and enjoy your stay.
 Eve:	Get to know one another, staff included.

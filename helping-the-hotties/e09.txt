@@ -72,8 +72,8 @@ Narr:	Now, you finally see her with a newfound realization. She's beautiful.
         Emily:	You'll have to prove it to me.
         Narr:	Emily slowly approaches you as your hard-on reaches new heights.
         Me: 	(Damn, this girl's got me so hard, I'm having trouble thinking straight.)
-        noname [m!ct]! Emily!
-        noname Can you come out for a minute?
+        noname:	[m!ct]! Emily!
+        noname:	Can you come out for a minute?
         Emily:	Guess that's our cue to leave!
         Emily:	*Giggle* You coming?
         Me: 	I'll be out in a few, don't wait on me.
@@ -91,8 +91,8 @@ Narr:	Now, you finally see her with a newfound realization. She's beautiful.
         Narr:	Emily slowly approaches you with your hard-on still going strong.
         Narr:	She leans so close you almost get overpowered by that sweet smell of hers.
         Emily:	*Whispers* You'll have to prove it to me.
-        noname [m!ct]! Emily!
-        noname Can you come out for a minute?
+        noname:	[m!ct]! Emily!
+        noname:	Can you come out for a minute?
         Emily:	Guess that's our cue to leave.
         Emily:	You coming?
         Me: 	I'll be out in a few, don't wait on me.
@@ -636,7 +636,7 @@ Me: 	(Or I could go and see what Eve needs to see me about.)
                         Emily:	...
                         Violet:	...
                         Narr:	...
-                        svi Ahahahaha!
+                        svi:	Ahahahaha!
                         Violet:	Stop it, haha, I can't anymore, ahaha!
                         Emily:	Hahaha, that's so lame, [m!t].
                         Me: 	It might be lame, but I still got a laugh out of you.
@@ -690,7 +690,7 @@ Me: 	(Or I could go and see what Eve needs to see me about.)
                             Me: 	So first you have to go into a long lunge...
                             Me: 	... and then stabilize your core and raise your arms above your head, palms touching.
                             Narr:	Violet smiles at you, clearly proud that she managed to imprint some yoga knowledge onto you.
-                            voice voice/e9g2Continuation_fc712cb7.mp3
+                            voice:	voice/e9g2Continuation_fc712cb7.mp3
                             Emily:	Like...*straining*...this?
                             Violet:	Not bad, Emily! Let me just adjust your posture a bit.
                             Narr:	Violet is measured in how she touches Emily. She puts her hands on Emily's waist, correcting her pose.
@@ -701,7 +701,7 @@ Me: 	(Or I could go and see what Eve needs to see me about.)
                             Narr:	You remember this.
                             Me: 	(Oh shit, I remember this.)
                             Narr:	But, unlike you, Emily does it with ease.
-                            voice voice/e9g2Continuation_e8ffb4ce.mp3
+                            voice:	voice/e9g2Continuation_e8ffb4ce.mp3
                             Emily:	How do we look, [m!t]?
                             Me: 	(You both look incredibly delicious.)
                             Me: 	Errr, you both look great. Think you did much better than I did the first time.
@@ -755,7 +755,7 @@ Me: 	(Or I could go and see what Eve needs to see me about.)
                         Narr:	Stacy and Belle are still a no-show, but it's time to gather at the campground and be on our way.
                         Narr:	Eve's not keen on being kept waiting.
                         Me: 	Think this is enough workout, for now. We better be on our way soon.
-                        voice voice/e9g2Continuation_c991f805.mp3
+                        voice:	voice/e9g2Continuation_c991f805.mp3
                         Emily:	This was so much fun! Thanks for letting us join you, Violet!
                         Violet:	Hey, no problem. I'm glad you had fun. And I'm glad [m!t] joined in as well!
                         Narr:	She blushes, but not in discomfort. She's really glad you were there.
@@ -1720,7 +1720,7 @@ Narr:	One would wrongfully presume that the walk toward the house would be fille
 Narr:	But, in fact, you enjoy spending time with Violet.
 Narr:	Almost as much as she enjoys spending it with you.
     Me: 	Good morning, girls!
-    svi Hi, [m!t]!
+    svi:	Hi, [m!t]!
     Narr:	Emily hurries ahead of the other girls and you think she's gonna throw herself into your arms.
     Narr:	She suddenly stops, mere inches from you.
     Emily:	We missed you at the campground, [m!t].
@@ -1749,7 +1749,7 @@ Narr:	Almost as much as she enjoys spending it with you.
     Emily:	No idea, I didn't ask. I'm not the one to pry.
     Narr:	Same couldn't be said for you.
     Me: 	(I'll have to ask either Stacy or Belle what happened.)
-    svi Hi, Kiara!
+    svi:	Hi, Kiara!
     Kiara:	Hey girls! Going to see Eve?
     Me: 	Yeah, we're supposed to meet her at the Community area. Are you gonna join us later?
     Narr:	She ignores you and carries the supplies inside the house.
@@ -1800,7 +1800,7 @@ Narr:	Almost as much as she enjoys spending it with you.
         Naomi:	Maybe it would be best if Eve handled it.
         Me: 	(I better find out what's happening, before Eve finds out more than what she's supposed to.)
     Narr:	As you approach the house, you spot Kiara carrying what looks to be the last of the supplies toward the house.
-    svi Hi, Kiara!
+    svi:	Hi, Kiara!
     Me: 	(Kiara is back with the supplies. And, hopefully, tortilla wraps. I'm so scared it's gonna be sandwiches all over again.)
     Me: 	(I might go check in with her after I bring the girls to Eve.)
     Eve:	Morning girls, hope you had enough sleep.
@@ -1846,7 +1846,7 @@ Narr:	Almost as much as she enjoys spending it with you.
 Eve:	Thank you all for joining me so we can finally start.
 Eve:	Before tonight's event, and, in case anyone's forgotten, we're having an eclipse viewing party.
 Eve:	I would like for everyone to join me inside for a short lecture.
-svi *Sigh*
+svi:	*Sigh*
 Eve:	I know, I know. You've all just woken up and I'm already pestering you.
 Eve:	During the lecture, we'll serve breakfast and refreshments, so you won't starve.
 Eve:	I'm certain I can hold your interest for some time. We have an interesting topic to discuss.
@@ -2216,7 +2216,7 @@ Me: 	(But, the idea of just chilling in the house does sound tempting... I could
                                     Naomi:	Is everything okay? Are you in trouble?
                                     Me: 	*Whispering* I better not linger, we'll talk later.
                                     Me: 	See you girls outside in a bit, stay here and wait for Dr. Eve.
-                                    svi See ya' [m!t]!
+                                    svi:	See ya' [m!t]!
                                     Me: 	Well, shit.
                                     Me: 	(Guess it was only a matter of time.)
                                     Me: 	(Dunno what got me more stressed, having a session with Eve later or Eve clearly hitting on me and making me hard!)
@@ -2744,9 +2744,9 @@ Me: 	(But, the idea of just chilling in the house does sound tempting... I could
             Kiara:	NOT YET PLEASE, KEEP FUCKING ME!
             Kiara:	FUCK ME!
                 Me: 	Oh, I don't intend to stop...
-                voice voice/e9KiaraSexDoggystylePosition_2d7b91a1.mp3
+                voice:	voice/e9KiaraSexDoggystylePosition_2d7b91a1.mp3
                 Kiara:	What... What do you have in-
-                voice voice/e9KiaraSexDoggystylePosition_e6637084.mp3
+                voice:	voice/e9KiaraSexDoggystylePosition_e6637084.mp3
                 Kiara:	-in mind?
             Narr:	You can feel her muffled screams of ecstasy resonate as her eyes roll over.
             Me: 	You're gonna cum for me?
@@ -3660,7 +3660,7 @@ Eve:	*Smiles* I know, I know.
 Eve:	We worked with what we had at the time.
 Eve:	But, we CAN and WILL do better.
 Eve:	Today we'll have tortilla wraps for lunch—both regular wraps, with meat, and vegetable-only wraps will be available.
-svi Yaaaaay!
+svi:	Yaaaaay!
 Eve:	But, before lunch, we'll hold today's first sessions.
 Eve:	We'll start with Cabin 2, Stacy and Belle.
 Belle:	Can't wait to spend some alone time with you again, Dr. Eve.
@@ -3751,7 +3751,7 @@ Eve:	I would have it no other way. So, which girl do you want to have a session 
                 Narr:	No pun intended...
                 Me: 	Now, as for the location of the session, it will be–
                 Narr:	Belle is quick to interrupt you, never one to mince words.
-                voice voice/e9SessionBelle_81ec0470.mp3
+                voice:	voice/e9SessionBelle_81ec0470.mp3
                 Belle:	You can have me wherever you want.
                 Narr:	Eve visibly rolls her eyes at that comment while you squirm uncomfortably in your seat.
                 Me: 	(Damn that Belle, she always knows how to get me going.)
@@ -3759,15 +3759,15 @@ Eve:	I would have it no other way. So, which girl do you want to have a session 
                 Me: 	I think the best possible approach is to have the session somewhere where you feel comfortable, at home even.
                 Narr:	Eve observes you intently, like a mentor eagerly waiting to see how her mentee was going to handle this situation.
                 Me: 	Belle, you mentioned you enjoy gaming?
-                voice voice/e9SessionBelle_b18c1cda.mp3
+                voice:	voice/e9SessionBelle_b18c1cda.mp3
                 Belle:	Duh, I thought you were already familiar with my vocation.
                 Me: 	Yes, but I remember you mentioning that you have a speedrunning channel.
-                voice voice/e9SessionBelle_a9ca9f9a.mp3
+                voice:	voice/e9SessionBelle_a9ca9f9a.mp3
                 Belle:	Oh...
                 Narr:	Belle pauses, as if caught off guard by your comment.
-                voice voice/e9SessionBelle_1825824f.mp3
+                voice:	voice/e9SessionBelle_1825824f.mp3
                 Belle:	(I can't believe [m!t] remembered that.)
-                voice voice/e9SessionBelle_dde9bb15.mp3
+                voice:	voice/e9SessionBelle_dde9bb15.mp3
                 Belle:	I do... What about it?
                 Me: 	Where would you feel more relaxed than in front of a computer screen, playing one of the games you enjoy?
                 Narr:	You glance at Eve, the woman giving you a nod of approval.
@@ -3802,7 +3802,7 @@ Eve:	I would have it no other way. So, which girl do you want to have a session 
                 Narr:	Belle practically jumps to her feet as she gets ready to depart, but it's cut off by Eve's stern voice.
                 Eve:	And, Belle, I'll repeat myself if I wasn't clear enough—you are to be on your best behavior.
                 Narr:	A mischievous smile appears on Belle's features, but she gives Eve a salute.
-                voice voice/e9SessionBelle_0bce5856.mp3
+                voice:	voice/e9SessionBelle_0bce5856.mp3
                 Belle:	Roger that!
                 Eve:	Alright then, you have my blessing.
                 Narr:	You give Eve a nod and steadily begin to walk back into the house.

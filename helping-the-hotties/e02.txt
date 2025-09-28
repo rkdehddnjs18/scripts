@@ -3,7 +3,7 @@ Violet:	What!?
 Belle:	(Mmmm, just what I like...)
 Eve:	I'm joking. Just strip down to your underwear.
 Narr:	Although, someone didn't waste any time...
-svi Stacy!
+svi:	Stacy!
 Stacy:	What? Didn't she say naked?
 Belle:	*Laughs*
 Eve:	*Sigh* Please, leave your top on.
@@ -122,9 +122,9 @@ Narr:	Turning towards the girls, you consider whose cabin to inspect first.
         Naomi:	Just name it...
         Me: 	Hmm... (A favor might come in handy, sooner or later...)
         Naomi:	Maybe I could even reward you later... I'll just need your phone number.
-            tut Unsure what do to?
-            tut Pressing 'W' on your keyboard will open an ingame walkthrough and selecting Suggested pages will help you make a decision!
-            tut Walkthrough explains how to access all the lewd scenes and where to find all collectibles.
+            tut: Unsure what do to?
+            tut: Pressing 'W' on your keyboard will open an ingame walkthrough and selecting Suggested pages will help you make a decision!
+            tut: Walkthrough explains how to access all the lewd scenes and where to find all collectibles.
             Naomi:	Maybe I could even reward you later... I'll just need your phone number.
                 Narr:	You gently push Naomi away and take a step back.
                 Me: 	Very flattering, but I told you, I'm seeing someone.
@@ -179,9 +179,9 @@ Narr:	Turning towards the girls, you consider whose cabin to inspect first.
         Belle:	Ooops, looks like you found my silicone friend...
         Belle:	How embarrassing? *Chuckle*
         Me: 	(I'd say you're enjoying yourself...)
-            tut Unsure what do to?
-            tut Pressing 'W' on your keyboard will open an ingame walkthrough and selecting Suggested pages will help you make a decision!
-            tut Walkthrough explains how to access all the lewd scenes and where to find all collectibles.
+            tut: Unsure what do to?
+            tut: Pressing 'W' on your keyboard will open an ingame walkthrough and selecting Suggested pages will help you make a decision!
+            tut: Walkthrough explains how to access all the lewd scenes and where to find all collectibles.
             Me: 	(I'd say you're enjoying yourself...)
                 Me: 	Well, it's not like your "friend" is a weapon...
                 Me: 	(Although, I've heard of a few cases where it ended up being used as one... Lethal, at that...)
@@ -463,7 +463,7 @@ Me: 	Anyway... (What should I do with the rest of my day?)
     Me: 	(I wonder if anyone's inside. I should knock.)
     Narr:	Gently, you knock on the door.
     Narr:	Almost instantly, you hear a soft yet irritated voice.
-    noname Come in.
+    noname:	Come in.
     Narr:	As you open the door and enter the cabin...
     Narr:	From the corner of the room, Naomi pops up with a displeased expression on her face.
     Naomi:	Oh, [m!t], it's you again. (Great, spares me the trouble of looking for him.)

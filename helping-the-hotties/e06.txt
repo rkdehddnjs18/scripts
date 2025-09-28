@@ -2474,14 +2474,14 @@ Me: 	(What to do... What to do...)
         Stacy:	Why would people be dishonest?
         Eve:	To hide themselves from their therapist.
         Eve:	Usually due to personal anxieties or neuroses.
-        voice voice/e6MCFollBore_539522c4.mp3
+        voice:	voice/e6MCFollBore_539522c4.mp3
         Stacy:	Well, my flock and I are honest.
-        voice voice/e6MCFollBore_1164e125.mp3
+        voice:	voice/e6MCFollBore_1164e125.mp3
         Stacy:	That is one of our core tenants.
         Me: 	(Thankfully she's only doing Rorschach testing...)
         Me: 	(I doubt Stacy would even be able to spill anything critical.)
         Eve:	So, do you have any questions?
-        voice voice/e6MCFollBore_87f2abdd.mp3
+        voice:	voice/e6MCFollBore_87f2abdd.mp3
         Stacy:	Nope. We can begin.
         Eve:	Excellent.
         Narr:	Eve's hand moves down toward the pile of cards, pulling the top one.
@@ -2489,32 +2489,32 @@ Me: 	(What to do... What to do...)
         Me: 	(Crap, I can't see what the ink blotch looks like...)
         Me: 	(Oh well. Her responses are all that matter, anyway.)
         Eve:	What do you see?
-        voice voice/e6MCFollBore_07383f23.mp3
+        voice:	voice/e6MCFollBore_07383f23.mp3
         Stacy:	I see... A warmly glowing light.
         Eve:	Okay.
         Eve:	What do you see now?
-        voice voice/e6MCFollBore_e395f6d9.mp3
+        voice:	voice/e6MCFollBore_e395f6d9.mp3
         Stacy:	I see a crimson lotus emerging from a bed of ashes.
         Eve:	Interesting...
         Eve:	And, now?
         Narr:	Stacy looks at the card, glances in your direction quickly, then back, and answers.
-        voice voice/e6MCFollBore_41ed9463.mp3
+        voice:	voice/e6MCFollBore_41ed9463.mp3
         Stacy:	I see... A young man peeking through the crack in a door.
         Me: 	(WHAT?!)
         Narr:	A sudden, sharp feeling of terror strikes you in the chest.
         Me: 	(SHIT, SHIT, SHIT!)
         Eve:	Hmm?
-        voice voice/e6MCFollBore_1ffe8975.mp3
+        voice:	voice/e6MCFollBore_1ffe8975.mp3
         Stacy:	I'm just joking about that one.
         Narr:	Your panic subsides, as you realize Stacy won't rat you out.
-        voice voice/e6MCFollBore_2ae07b46.mp3
+        voice:	voice/e6MCFollBore_2ae07b46.mp3
         Stacy:	I see... A golden sunset, and a trail of rising smoke.
         Eve:	Okay. That's it for today.
         Eve:	I think I got enough, from you.
         Eve:	This will be extremely valuable in your therapy.
-        voice voice/e6MCFollBore_b9596b59.mp3
+        voice:	voice/e6MCFollBore_b9596b59.mp3
         Stacy:	That's great...
-        voice voice/e6MCFollBore_bc6cccd9.mp3
+        voice:	voice/e6MCFollBore_bc6cccd9.mp3
         Stacy:	(I don't need therapy...)
         Narr:	You watch as Eve stands, beckoning Stacy to follow-suit.
         Eve:	Let me walk you to the door.
@@ -2529,7 +2529,7 @@ Me: 	(What to do... What to do...)
         Narr:	Eve closes the office door, and Stacy exits the Community Area onto the deck.
         Eve:	You have a bit of time before the barbecue tonight.
         Eve:	Enjoy yourself, until then.
-        voice voice/e6MCFollBore_fe3ef262.mp3
+        voice:	voice/e6MCFollBore_fe3ef262.mp3
         Stacy:	Thank you. Bye, Eve.
         Narr:	Stacy walks away from the Community Area.
         Narr:	As she does, she spots Violet approaching and they stop to talk.
@@ -2539,7 +2539,7 @@ Me: 	(What to do... What to do...)
         Narr:	...you lie down behind the outdoor couch.
         Stacy:	My session was interesting. Very enlightening.
         Violet:	That's good. Well, I gotta go.
-        voice voice/e6MCFollBore_94712097.mp3
+        voice:	voice/e6MCFollBore_94712097.mp3
         Violet:	Don't want to keep Eve waiting...
         Stacy:	Goodbye, Violet. See you later!
         Narr:	Violet continues on toward the deck...

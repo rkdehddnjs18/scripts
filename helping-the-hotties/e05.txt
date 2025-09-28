@@ -2223,7 +2223,7 @@ Narr:	And back to your room.
     Me: 	(Why isn't my door shut?)
     Me: 	(Has someone been snooping through my room?)
     Me: 	*Whispering* Who's there?
-    noname Why did you make me wait so long, [m!t]?
+    noname:	Why did you make me wait so long, [m!t]?
     Narr:	You step inside your room. And, as your eyes adjust to the darkness...
     Narr:	You're greeted by Stacy, lying on your bed...
     Narr:	In nothing but sexy lingerie.

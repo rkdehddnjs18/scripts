@@ -13,7 +13,7 @@ Narr:	Clearly excited at the prospect of something that has been culminating sin
 Narr:	Emily's palms sensually slide down your chest, halting only when they reach your belt.
 Narr:	Her eyes don't leave yours even for a moment.
 Emily:	You have no idea how long I've wanted this, [m!t].
-voice voice/episode10_8f0ed575.mp3
+voice:	voice/episode10_8f0ed575.mp3
 Emily:	I want to know how you taste.
 Narr:	Meanwhile at the gazebo, your absence has not gone unnoticed.
 Narr:	The girls seem to be growing impatient while waiting for you to return.
@@ -197,7 +197,7 @@ Eve:	I suppose whoever you choose first matters little, as long as you hold both
 Eve:	Just don't forget to meet me in my office after you're done.
 Me: 	Will do, Eve.
 Eve:	Girls, I'll see you all later.
-svi Goodbye, Dr. Eve.
+svi:	Goodbye, Dr. Eve.
 Me: 	I guess...
     Me: 	I guess...
             Narr:	You pause, thinking your next choice over.
@@ -209,7 +209,7 @@ Me: 	I guess...
             Narr:	You spot Naomi sitting in the gazebo, waiting for you patiently. The rest of the girls are nowhere to be seen.
             Me: 	(God, I hope I don't look too sweaty right now.)
             Me: 	Hey, Naomi! Violet and I have just finished up. Are you ready for our session?
-            voice voice/e10NaomiSession_91367c54.mp3
+            voice:	voice/e10NaomiSession_91367c54.mp3
             Naomi:	Of course, lead the way.
         Naomi:	So, are we continuing our little gardening venture?
         Me: 	Sorry?
@@ -614,9 +614,9 @@ Me: 	I guess...
                 Narr:	As she's leaving, she turns toward you, one last time. You're hit with deja vu.
                 Me: 	(Woah, that threw me for a loop. It's almost like I've seen that look on Violet before.)
                 Me: 	You heard Eve, I still need to have a session with Naomi.
-                voice voice/e10g1GameContinuation_a71eca9a.mp3
+                voice:	voice/e10g1GameContinuation_a71eca9a.mp3
                 Violet:	I understand. I'll try to use up what time we have left before the party and find a place to unwind.
-                voice voice/e10g1GameContinuation_62d195b6.mp3
+                voice:	voice/e10g1GameContinuation_62d195b6.mp3
                 Violet:	Might even sunbathe a bit on the Community patio.
                 Narr:	As she's leaving she turns toward you, one last time. You're hit by deja vu.
                 Me: 	(Woah, talk about weird. I feel like I've seen that look on Vi before.)
@@ -649,7 +649,7 @@ Emily:	Oh, hey, [m!t]!
     Me: 	I hope Eve will be too.
     Emily:	Oh, are you headed to her now?
     Me: 	I was, but I'm glad I caught you. We need to talk.
-    voice voice/e10GoToTheHouse_f8853b76.mp3
+    voice:	voice/e10GoToTheHouse_f8853b76.mp3
     Emily:	I wanted to do more than talk, but that's a good start, I guess.
     Me: 	Em, I'm being serious.
 Narr:	Emily seems to deflate a little. She looks down.
@@ -1193,7 +1193,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                 Narr:	Her toned stomach, long hair that you could just imagine yourself pulling at—
                 Narr:	No, you should conserve your energy for Eve.
                 Me: 	I should get going, Violet. I heard someone tumbling in the kitchen so they might need help.
-                    voice voice/e10CommunityAreaNode_95dea9da.mp3
+                    voice:	voice/e10CommunityAreaNode_95dea9da.mp3
                     Violet:	Really?
                     Narr:	It is then that Violet rises, her perfect, large breasts staring back at you. She arches her back so they come into full view.
                     Narr:	She knows exactly what she's doing.
@@ -1537,7 +1537,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Narr:	Unable to contain yourself any longer, you pull your dick out of her mouth, and, almost instantly, thick ropes of cum begin shooting out of it.
                         Me: 	Fuuuuck, Eve!
                         Narr:	It coats the entirety of Eve's face, and she closes her eyes and takes it all eagerly — even opening her mouth and sticking her tongue out.
-                        voice voice/e10EveSexCumContinuation_f784658d.mp3
+                        voice:	voice/e10EveSexCumContinuation_f784658d.mp3
                         Eve:	Mmm..
                         Narr:	She hums pleasurably as you shower her, her eyes opening only when you are done unloading.
                         Eve:	Aren't you a real snack..
@@ -1548,7 +1548,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                         Narr:	Unable to contain yourself any longer, you pull your dick out of her mouth, and, almost instantly, thick ropes of cum begin shooting out of it.
                         Me: 	Fuuuuck, Eve!
                         Narr:	It coats Eve's chest, saturating her plump breasts. She closes her eyes and takes it all eagerly, the sticky cum dripping into her cleavage.
-                        voice voice/e10EveSexCumContinuation_f784658d.mp3
+                        voice:	voice/e10EveSexCumContinuation_f784658d.mp3
                         Eve:	Mmm...
                         Narr:	She hums pleasurably as you shower her, her finger reaching to scoop a little bit of your cum off her chest to then lick it off.
                         Narr:	She does all that while maintaining eye contact.
@@ -2046,7 +2046,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Stacy:	Please, [m!t]!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You feel your hot cum filling her up.
-                                                        voice voice/e10StacySexAfterBedMissionary_68145e86.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
                                                         Stacy:	Mmm.
                                                         Narr:	You feel her pussy tightening around your pulsating shaft.
                                                         Stacy:	Aahhhh.
@@ -2062,7 +2062,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                     Me: 	I have an idea. Turn around for me, please.
                                                     Stacy:	Of course.
                                                     Narr:	You take the tip of your member and rub it against her pussy lips to the tune of Stacy's barely contained moans.
-                                                    voice voice/e10StacySexAfterBedMissionary_68145e86.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
                                                     Stacy:	Mmm.
                                                     Stacy:	Put it inside me already!
                                                     Narr:	You continue teasing her wet pussy.
@@ -2073,29 +2073,29 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                     Me: 	This better?
                                                     Stacy:	Ahhh, oh yeah.
                                                     Stacy:	Don't stop!
-                                                    voice voice/e10StacySexAfterBedMissionary_99ed0289.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_99ed0289.mp3
                                                     Stacy:	Mmm, mmm.
                                                     Narr:	She's trying to contain her pleasure, but it doesn't seem like she can help herself.
                                                     Stacy:	Ahh, ahhh, ahh!
                                                     Stacy:	So good!
                                                         Me: 	I'm close.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_c3c8b269.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_c3c8b269.mp3
                                                         Stacy:	Cum inside me.
                                                         Stacy:	Please, [m!t]!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You feel your hot cum filling her up.
-                                                        voice voice/e10StacySexAfterBedMissionary_68145e86.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
                                                         Stacy:	Mmm.
                                                         Narr:	You feel her pussy tightening around your pulsating shaft.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_4acf866e.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_4acf866e.mp3
                                                         Stacy:	Aahhhh.
                                                         Stacy:	Oh, my lord.
                                                         Me: 	I'm close.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
                                                         Stacy:	Cum for me, [m!t]!
                                                         Me: 	You don't have to tell me twice.
                                                         Narr:	You ram into her with reckless abandon.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_9ccc6ab3.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_9ccc6ab3.mp3
                                                         Stacy:	Aahh, aahh! Give it to me.
                                                         Narr:	You pull out your shaft just as the first load comes out.
                                                         Narr:	You can't help admiring that perfect ass in the air, covered in your jizz.
@@ -2111,59 +2111,59 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                 Stacy:	*Chuckles* Nope!
                                                 Me: 	Now, isn't that lovely?
                                                     Narr:	You take the tip of your member and rub it against her pussy lips to the tune of Stacy's barely contained moans.
-                                                    voice voice/e10StacySexAfterBedMissionary_68145e86.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
                                                     Stacy:	Mmm
-                                                    voice voice/e10StacySexAfterBedDoggyPose_b01e5188.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_b01e5188.mp3
                                                     Stacy:	Put it inside me already!
                                                     Narr:	You continue teasing her wet pussy.
                                                     Me: 	Only if you ask nicely.
-                                                    voice voice/e10StacySexAfterBedDoggyPose_5dded62b.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_5dded62b.mp3
                                                     Stacy:	Please?
                                                     Me: 	Please, what?
-                                                    voice voice/e10StacySexAfterBedDoggyPose_2b82b03d.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_2b82b03d.mp3
                                                     Stacy:	Please, fuck me!
                                                     Stacy:	Ahh, ahh.
                                                     Stacy:	Fuuck.
                                                     Stacy:	Just like that!
                                                     Me: 	Will I have to shut you up myself?
                                                     Stacy:	No, sir!
-                                                    voice voice/e10StacySexAfterBedMissionary_99ed0289.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_99ed0289.mp3
                                                     Stacy:	Mmm, mmm.
                                                     Narr:	She's trying to contain her pleasure, but it doesn't seem like she can help herself.
-                                                    voice voice/e10StacySexAfterBedDoggyPose_5ca98d81.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_5ca98d81.mp3
                                                     Stacy:	Ahh, ahhh, ahh!
                                                     Stacy:	So... good!
                                                     Narr:	You grab her hips and turn her around. She slams her hand against the closet, smiling.
                                                     Narr:	You take the tip of your member and rub it against her pussy lips to the tune of Stacy's barely contained moans.
-                                                    voice voice/e10StacySexAfterBedMissionary_68145e86.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_68145e86.mp3
                                                     Stacy:	Mmm.
-                                                    voice voice/e10StacySexAfterBedDoggyPose_b01e5188.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_b01e5188.mp3
                                                     Stacy:	Put it inside me already!
                                                     Narr:	You continue teasing her wet pussy.
                                                     Me: 	Only if you ask nicely.
-                                                    voice voice/e10StacySexAfterBedDoggyPose_5dded62b.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_5dded62b.mp3
                                                     Stacy:	Please?
                                                     Me: 	Please, what?
-                                                    voice voice/e10StacySexAfterBedDoggyPose_2b82b03d.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_2b82b03d.mp3
                                                     Stacy:	Please, fuck me!
-                                                    voice voice/e10StacyRightHereFromTheFrontPose_ee7b7f2d.mp3
+                                                    voice:	voice/e10StacyRightHereFromTheFrontPose_ee7b7f2d.mp3
                                                     Stacy:	Ahh, ahh.
-                                                    voice voice/e10StacyRightHereFromTheFrontPose_4f3834c7.mp3
+                                                    voice:	voice/e10StacyRightHereFromTheFrontPose_4f3834c7.mp3
                                                     Stacy:	Fuuck.
-                                                    voice voice/e10StacyRightHereFromTheFrontPose_70616e85.mp3
+                                                    voice:	voice/e10StacyRightHereFromTheFrontPose_70616e85.mp3
                                                     Stacy:	Just like that!
                                                     Me: 	Will I have to shut you up myself?
-                                                    voice voice/e10StacyRightHereFromTheFrontPose_febdb4f1.mp3
+                                                    voice:	voice/e10StacyRightHereFromTheFrontPose_febdb4f1.mp3
                                                     Stacy:	No, sir!
-                                                    voice voice/e10StacySexAfterBedMissionary_99ed0289.mp3
+                                                    voice:	voice/e10StacySexAfterBedMissionary_99ed0289.mp3
                                                     Stacy:	Mmm, mmm.
                                                     Narr:	She's trying to contain her pleasure, but it doesn't seem like she can help herself.
-                                                    voice voice/e10StacySexAfterBedDoggyPose_5ca98d81.mp3
+                                                    voice:	voice/e10StacySexAfterBedDoggyPose_5ca98d81.mp3
                                                     Stacy:	Ahh, ahhh, ahh!
-                                                    voice voice/e10StacyRightHereFromTheFrontPose_7d22aa85.mp3
+                                                    voice:	voice/e10StacyRightHereFromTheFrontPose_7d22aa85.mp3
                                                     Stacy:	So... good!
                                                         Me: 	I'm so close.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
                                                         Stacy:	Cum for me, [m!t]!
                                                         Me: 	Get on your knees.
                                                         Stacy:	Yes, my Ashen Prince!
@@ -2171,7 +2171,7 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                                         Narr:	You shoot load after load, all over her perfect tits.
                                                         Stacy:	Oh, yeah!
                                                         Me: 	I'm so close.
-                                                        voice voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
+                                                        voice:	voice/e10StacySexAfterBedMissionaryCumContinuation_75f22792.mp3
                                                         Stacy:	Cum for me, [m!t]!
                                                             Me: 	Turn around.
                                                             Narr:	She obeys and is met with a hot load all over her belly, just as you reach your peak.
@@ -2349,14 +2349,14 @@ Me: 	(Either way, I'm sure that, no matter the choice, I will be more than happy
                                 Emily:	I'm so glad you're not mad at me.
                                 Me: 	Nah, I couldn't be mad at you.
                                 Me: 	So, did she say anything about it or...?
-                                voice voice/e10BenchHangoutBrenchGathering_c4bd868e.mp3
+                                voice:	voice/e10BenchHangoutBrenchGathering_c4bd868e.mp3
                                 Emily:	Who? Belle?
                                 Me: 	Yes.
-                                voice voice/e10BenchHangoutBrenchGathering_ea21a4f6.mp3
+                                voice:	voice/e10BenchHangoutBrenchGathering_ea21a4f6.mp3
                                 Emily:	*Giggle* And you said you didn't care, huh?
                                 Me: 	(God damn it.) Yeah, okay, you're right, I'll quit being nosey.
                                 Me: 	You wanna head back to the house with me?
-                                voice voice/e10BenchHangoutBrenchGathering_6ec49336.mp3
+                                voice:	voice/e10BenchHangoutBrenchGathering_6ec49336.mp3
                                 Emily:	Sure, let's go.
                                 Me: 	(Belle and Emily discussing stuff in private about me? What could go wrong there, I wonder?)
                         Narr:	The two of you walk back toward the house.
@@ -2785,7 +2785,7 @@ Belle:	I wouldn't dream of it.
         Emily:	Shit, more than okay... Give me a second, uh...
         Emily:	You're really distracting me here!
         Me: 	Okay, okay, take your time.
-        voice voice/e10replayemilyshowersex_e6769df7.mp3
+        voice:	voice/e10replayemilyshowersex_e6769df7.mp3
         Emily:	Ahhh, yeah!
         Narr:	But you don't stop moving your fingers, and it takes her a whole other minute before she's able to stumble out what she was trying to say...
         Emily:	I was gonna ask you... Can I finish sucking you off now?
@@ -2809,7 +2809,7 @@ Belle:	I wouldn't dream of it.
             Narr:	You physically cannot fight against the sensation of her tight little throat against your cock, which sends you into ecstasy.
             Me: 	I'm cumming!
             Narr:	You fill her mouth with your cum; a little seems to be spilling over. The load might have been a little too big for her.
-            voice voice/e10EmilyShoweSexSceneCumContinuation_28bd966b.mp3
+            voice:	voice/e10EmilyShoweSexSceneCumContinuation_28bd966b.mp3
             Emily:	You taste so sweet!
             Narr:	She remarks while wiping her mouth.
         Narr:	You stand under the warm water, both breathing heavily.
@@ -2845,7 +2845,7 @@ Belle:	I wouldn't dream of it.
     Narr:	She pushes her onto her back before moving her head down to face Stacy's pussy.
     Narr:	Instantly, she presses her face into it, and Stacy screams in pleasure as Belle's tongue twirls around her most sensitive spot.
     Stacy:	Oh lord!
-    voice voice/e10replaybelleandstacysex_0bd55328.mp3
+    voice:	voice/e10replaybelleandstacysex_0bd55328.mp3
     Belle:	Mmmm.
     Narr:	Belle continues to pleasure Stacy, Stacy's hand finding its place at the back of her head as she writhes in pleasure.
     Belle:	I can't take it any longer.
@@ -3289,7 +3289,7 @@ Narr:	The question is, who will you spend your time with?
                         Narr:	As soon as you start, Eve's moaning becomes louder and much more insistent.
                         Narr:	She is gripping your leg in an attempt to pull herself together, but her yearning has come to fruition.
                         Narr:	She can barely contain herself.
-                        voice voice/e10a38nastavak_219a1072.mp3
+                        voice:	voice/e10a38nastavak_219a1072.mp3
                         sexName God, [m!t]!
                         sexName I need you inside of me, NOW!
                         Narr:	Despite her wish, she seems to be quite content with just riding your face. Although, from the way her body trembles, you can tell she really wants it.
@@ -3299,20 +3299,20 @@ Narr:	The question is, who will you spend your time with?
                         Narr:	Teasingly, you rub her pussy lips with your tip before aligning yourself with her entrance.
                         Me: 	Are you ready?
                         Narr:	She doesn't answer, only smiles and nods her head. It's only when you begin to push the head of your dick in, that Eve yells...
-                        voice voice/e10a38nastavak_5c5e5503.mp3
+                        voice:	voice/e10a38nastavak_5c5e5503.mp3
                         sexName FUCK, YOU'RE BIG!
                         Me: 	I'm not even all the way in.
                         sexName S-sorry, I've just never had anyone so— AAH!
                         Narr:	You continue pushing on, causing her to scream in pleasure.
-                        voice voice/e10a38nastavak_219a1072.mp3
+                        voice:	voice/e10a38nastavak_219a1072.mp3
                         sexName God, [m!t]!
                         Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
-                        voice voice/e10a38nastavak_f936222e.mp3
+                        voice:	voice/e10a38nastavak_f936222e.mp3
                         sexName You have no idea how much I've missed this!
                         Me: 	(She's so wet.)
                         Me: 	Don't worry, I can tell.
                         Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
-                        voice voice/e10a38nastavak_2eed5fa1.mp3
+                        voice:	voice/e10a38nastavak_2eed5fa1.mp3
                         sexName Ooooh, [m!t]!
                         Me: 	You feel so good, [sexName!t].
                         Narr:	Her long nails dig into your back, clawing at you in pleasure, and you don't mind the slight hint of pain.
@@ -3335,7 +3335,7 @@ Narr:	The question is, who will you spend your time with?
                         sexName What do you say?
                             sexName What do you say?
                                 Me: 	Screw the rules, I want you. I've waited long enough.
-                                voice voice/e10a38nastavak_82f1b1f2.mp3
+                                voice:	voice/e10a38nastavak_82f1b1f2.mp3
                                 sexName Then take me.
                                 Narr:	You require no further permission, and, with uncontrolled lust, you switch your positions.
                                 Narr:	Eve is now laying on her back while you are looming over her.
@@ -3343,26 +3343,26 @@ Narr:	The question is, who will you spend your time with?
                                 Narr:	Teasingly, you rub her pussy lips with your tip before aligning yourself with her entrance.
                                 Me: 	Are you ready?
                                 Narr:	She doesn't answer, only smiles and nods her head. It's only when you begin to push the head of your dick in, that Eve yells...
-                                voice voice/e10a38nastavak_5c5e5503.mp3
+                                voice:	voice/e10a38nastavak_5c5e5503.mp3
                                 sexName FUCK, YOU'RE BIG!
                                 Me: 	I'm not even all the way in.
                                 sexName S-sorry, I've just never had anyone so — AAH!
                                 Narr:	You continue pushing on, causing her to scream in pleasure.
-                                voice voice/e10a38nastavak_219a1072.mp3
+                                voice:	voice/e10a38nastavak_219a1072.mp3
                                 sexName God, [m!t]!
                                 Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
-                                voice voice/e10a38nastavak_f936222e.mp3
+                                voice:	voice/e10a38nastavak_f936222e.mp3
                                 sexName You have no idea how much I've missed this!
                                 Me: 	(She's so wet.)
                                 Me: 	Don't worry, I can tell.
                                 Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her insistent moaning.
-                                voice voice/e10a38nastavak_2eed5fa1.mp3
+                                voice:	voice/e10a38nastavak_2eed5fa1.mp3
                                 sexName Ooooh, [m!t]!
                                 Me: 	You feel so good, [sexName!t].
                                 Narr:	Her long nails dig into your back, clawing at you in pleasure, and you don't mind the slight hint of pain.
                                 Me: 	Aaaah, you're driving me wild!
                                 Me: 	Yes, [sexName!t].
-                                voice voice/e10a38nastavak_6240d9ff.mp3
+                                voice:	voice/e10a38nastavak_6240d9ff.mp3
                                 sexName Good.
                                 sexName Now, don't worry, you won't be bored.
                                 Narr:	She grabs your member eagerly, stroking along its length while staring deep into your eyes.
@@ -3375,40 +3375,40 @@ Narr:	The question is, who will you spend your time with?
                                         Narr:	Eve smiles as the two of you shift into the position.
                                         Me: 	Are you ready?
                                         Narr:	She doesn't answer, only smiles and nods her head. It's only when you begin to push the head of your dick in, that Eve yells...
-                                        voice voice/e10a38nastavak_5c5e5503.mp3
+                                        voice:	voice/e10a38nastavak_5c5e5503.mp3
                                         sexName FUCK, YOU'RE BIG!
                                         Me: 	I'm not even all the way in.
                                         sexName S-sorry, I've just never had anyone so— AAH!
                                         Narr:	You continue pushing on, causing her to scream in pleasure.
-                                        voice voice/e10a38nastavak_219a1072.mp3
+                                        voice:	voice/e10a38nastavak_219a1072.mp3
                                         sexName God, [m!t]!
                                         Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
-                                        voice voice/e10a38nastavak_f936222e.mp3
+                                        voice:	voice/e10a38nastavak_f936222e.mp3
                                         sexName You have no idea how much I've missed this!
                                         Me: 	(She's so wet.)
                                         Me: 	Don't worry, I can tell.
                                         Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
-                                        voice voice/e10a38nastavak_2eed5fa1.mp3
+                                        voice:	voice/e10a38nastavak_2eed5fa1.mp3
                                         sexName Ooooh, [m!t]!
                                         Me: 	You feel so good, [sexName!t].
                                 sexName Wrong answer, but I'm not going to punish you just because you didn't study your materials.
                                 Narr:	Eve's patient hands guide you into position.
                                 Me: 	Are you ready?
                                 Narr:	She doesn't answer, only smiles and nods her head. It's only when you begin to push the head of your dick in, that Eve yells...
-                                voice voice/e10a38nastavak_5c5e5503.mp3
+                                voice:	voice/e10a38nastavak_5c5e5503.mp3
                                 sexName FUCK, YOU'RE BIG!
                                 Me: 	I'm not even all the way in.
                                 sexName S-sorry, I've just never had anyone so— AAH!
                                 Narr:	You continue pushing on, causing her to scream in pleasure.
-                                voice voice/e10a38nastavak_219a1072.mp3
+                                voice:	voice/e10a38nastavak_219a1072.mp3
                                 sexName God, [m!t]!
                                 Narr:	Only when you find yourself buried within her entirely do you halt your movement, allowing her to adjust.
-                                voice voice/e10a38nastavak_f936222e.mp3
+                                voice:	voice/e10a38nastavak_f936222e.mp3
                                 sexName You have no idea how much I've missed this!
                                 Me: 	(She's so wet.)
                                 Me: 	Don't worry, I can tell.
                                 Narr:	Finally, you start rocking your hips, setting a steady rhythm that you can tell she enjoys by her incessant moaning.
-                                voice voice/e10a38nastavak_2eed5fa1.mp3
+                                voice:	voice/e10a38nastavak_2eed5fa1.mp3
                                 sexName Ooooh, [m!t]!
                                 Me: 	You feel so good, [sexName!t].
                                 sexName Aaah, now— Mmmm—
@@ -3427,16 +3427,16 @@ Narr:	The question is, who will you spend your time with?
                                 Narr:	She gently pulls herself away from you and uses her own body to guide you into the correct position, her pussy now pressing against your face.
                                 Narr:	Wasting time in making a meal out of her is not on your agenda, so your tongue is quick to get to work licking against her most sensitive area.
                                 Me: 	*lick* *lick*
-                                voice voice/e10EveSexQuestion1Continuation_2fbf1cd2.mp3
+                                voice:	voice/e10EveSexQuestion1Continuation_2fbf1cd2.mp3
                                 sexName Aaaah, good, veeeery good!
-                                voice voice/e10EveSexQuestion1Continuation_967fb3ff.mp3
+                                voice:	voice/e10EveSexQuestion1Continuation_967fb3ff.mp3
                                 sexName You're driving me wild!
                                 Narr:	You hum in approval against her pussy, which sends even more pleasurable sensations through her.
                                 sexName M-Moving on...
                                 sexName This is the most primitive position out of the four and it focuses on the male satisfaction...
                                 sexName I-I think it's only fair that you— Mmm— That you get some pleasure!
                                 Me: 	Oh, don't you worry. I'm getting pleasure.
-                                voice voice/e10a38nastavak_6240d9ff.mp3
+                                voice:	voice/e10a38nastavak_6240d9ff.mp3
                                 sexName Good.
                                     sexName Good.
                                         sexName Well, well, well... Someone really knows their materials.
@@ -3452,9 +3452,9 @@ Narr:	The question is, who will you spend your time with?
                                 Narr:	She pulls away from your talented mouth and lays flat on her stomach, lifting her ass into the air.
                                 Narr:	You waste little time in plunging your dick back into her.
                                 Narr:	You can barely wait to be inside of her again.
-                                voice voice/e10EveSexQuestion2Continuation_c97caf7d.mp3
+                                voice:	voice/e10EveSexQuestion2Continuation_c97caf7d.mp3
                                 sexName Aaaah!
-                                voice voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
+                                voice:	voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
                                 sexName Fuck me, [m!t]!
                                 Narr:	You oblige her quickly, setting a ruthless rhythm.
                                 sexName And— Aaah!-- Finally... last question.
@@ -3470,7 +3470,7 @@ Narr:	The question is, who will you spend your time with?
                                 sexName I don't care, just get inside of me!
                                 Narr:	She practically barks out as she slips you out of herself, motioning you into a standing position as she gets onto her stomach.
                                 Narr:	You don't need to be told twice to plunge yourself back into her.
-                                voice voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
+                                voice:	voice/e10EveSexQuestion2Continuation_cfa0550a.mp3
                                 sexName Fuck, fuck, fuck!
         Eve:	Aaah, [m!t], I'm going to cum!
         Me: 	Hnnng— Me too, [sexName!t]!
@@ -3488,17 +3488,17 @@ Narr:	The question is, who will you spend your time with?
                 sexName Aaaah! I'm all yours!
                 Narr:	Just as she begins to convulse around your dick, you pull out and spray load after load all over her beautiful chest.
                 Narr:	It drips down her nipples and trickles down her breasts.
-                voice voice/e10EveRoomSexInside_d06aae0d.mp3
+                voice:	voice/e10EveRoomSexInside_d06aae0d.mp3
                 sexName Mmm, that's it... Good boy.
-                voice voice/e10EveRoomSexInside_08c6f2cd.mp3
+                voice:	voice/e10EveRoomSexInside_08c6f2cd.mp3
                 sexName You were excellent.
                 Me: 	I want to spray myself all over your ass, like a champagne bottle!
                 Eve:	Aah, be my guest!
                 Narr:	Just as she begins to convulse around your dick, you pull out and spray load after load all over her plump buttocks.
                 Narr:	It drips over her ample mounds.
-                voice voice/e10EveRoomSexInside_d06aae0d.mp3
+                voice:	voice/e10EveRoomSexInside_d06aae0d.mp3
                 sexName Mmm, that's it... Good boy.
-                voice voice/e10EveRoomSexInside_08c6f2cd.mp3
+                voice:	voice/e10EveRoomSexInside_08c6f2cd.mp3
                 sexName You were excellent.
                 sexName You know what I want, [m!t]?
                 Me: 	Mmm— What?
@@ -4524,19 +4524,19 @@ Belle:	Don't you want to help me clean myself up before we go back?
                 Narr:	She bends over the kitchen counter, sticking her ass up.
                 Belle:	Put it in me! I need your cock, [m!t]!
                 Narr:	It slides inside her seamlessly, her warmth engulfing your throbbing member. You start thrusting.
-                voice voice/e10BelleSexKitchenFrontPose_16994b6f.mp3
+                voice:	voice/e10BelleSexKitchenFrontPose_16994b6f.mp3
                 Belle:	Ahhhh, yes, fuck me!
-                voice voice/e10a75nastavak_2878391a.mp3
+                voice:	voice/e10a75nastavak_2878391a.mp3
                 Belle:	Ahhh, ahhh, ahhh.
-                voice voice/e10a75nastavak_54ff4e42.mp3
+                voice:	voice/e10a75nastavak_54ff4e42.mp3
                 Belle:	Ahhhh! I'm cumming!
                 Narr:	Her legs shake, and you feel her pussy tightening around your cock as you continue to thrust.
                 Narr:	Soon, she's lying on the counter, catching her breath, and you pull out, your dick still standing as hard as ever.
-                voice voice/e10a75nastavak_fe52a57a.mp3
+                voice:	voice/e10a75nastavak_fe52a57a.mp3
                 Belle:	Oh wow, you didn't cum?!
                 Me: 	No, not yet.
                 Narr:	She turns around and smirks at you. She seems genuinely impressed.
-                voice voice/e10a75nastavak_00f2fc90.mp3
+                voice:	voice/e10a75nastavak_00f2fc90.mp3
                 Belle:	Stick it in my ass, then.
         Belle:	You have good endurance, why wouldn't I take advantage of that?
         Me: 	You want it in your ass?
@@ -4555,7 +4555,7 @@ Belle:	Don't you want to help me clean myself up before we go back?
                 Belle:	Ahhhh, yeah.
                 Me: 	Uh, I'm close, I'm gonna cum.
                 Belle:	Fuck yes, cum all over me!
-                voice voice/e10BellSexCumInAss_01a6c576.mp3
+                voice:	voice/e10BellSexCumInAss_01a6c576.mp3
                 Belle:	Ahhhh, yeah.
         Narr:	Without skipping a beat, Belle turns around and smiles at you.
         Belle:	Okay, now we can go back to the party.
@@ -4720,7 +4720,7 @@ Eve:	Do you want us to go and talk privately about this?
 Stacy:	No, there's no need. I'm fine.
 Narr:	Eve furrows her brow in concern but decides to let her be.
 Eve:	Alright. I am right here if you need me. Now, let's try something fun, shall we?
-svi *Groans* *Mumbles*
+svi:	*Groans* *Mumbles*
 Eve:	We could try sharing some fun stories while we're waiting for the eclipse? Bonus points if they are eclipse related.
 Narr:	No one seems too eager to speak first.
 Eve:	How about you, Naomi? Any interesting stories about those other eclipses you mentioned?
@@ -4919,25 +4919,25 @@ Narr:	Eventually you lose track of the conversation, choosing to instead focus o
             Me: 	You just learn that life is easier if you do not take yourself too seriously.
             Me: 	I mean, don't get me wrong, you should be responsible when it comes to the serious stuff, like a job or school. But life in general...
             Me: 	I think we all forget that the most important thing is to enjoy it — and although I'm spewing shit right now, I don't really live by it.
-            voice voice/e10BelleSexCumOnAss_2f294c68.mp3
+            voice:	voice/e10BelleSexCumOnAss_2f294c68.mp3
             Emily:	That's really psychologist of you.
             Me: 	*Chuckling* Yeah, it really is.
             Narr:	Silence nestles in the space between you, Emily's eyes study you, lips spreading into a fond smile.
-            voice voice/e10BelleSexCumOnAss_9f651511.mp3
+            voice:	voice/e10BelleSexCumOnAss_9f651511.mp3
             Emily:	You know, if you were a flower, I think you'd be a gladiolus.
             Me: 	You're...flowerprofiling me? Flowerfiling me? And what's a gladiolus?
-            voice voice/e10BelleSexCumOnAss_051dc8dd.mp3
+            voice:	voice/e10BelleSexCumOnAss_051dc8dd.mp3
             Emily:	I was flowerfiling you, buuut now I've made up my mind — you're definitely a gladiolus, a sword lily.
-            voice voice/e10BelleSexCumOnAss_1f0b4d00.mp3
+            voice:	voice/e10BelleSexCumOnAss_1f0b4d00.mp3
             Emily:	The name gladiolus means 'little sword' and well, it stems from the fact that its leaves resemble, well, swords a bit.
-            voice voice/e10BelleSexCumOnAss_d319efdf.mp3
+            voice:	voice/e10BelleSexCumOnAss_d319efdf.mp3
             Emily:	Gladioli — plural — represent strength and hope... And I think that sums you up pretty well.
-            voice voice/e10BelleSexCumOnAss_a612c226.mp3
+            voice:	voice/e10BelleSexCumOnAss_a612c226.mp3
             Emily:	You're strong—
             Me: 	You flex your bicep, making her smile.
-            voice voice/e10BelleSexCumOnAss_22b7089b.mp3
+            voice:	voice/e10BelleSexCumOnAss_22b7089b.mp3
             Emily:	I meant mentally, like...personality-wise, but sure, that too.
-            voice voice/e10BelleSexCumOnAss_a98fea10.mp3
+            voice:	voice/e10BelleSexCumOnAss_a98fea10.mp3
             Emily:	And you well... You give people hope. Your patients, me, Kiara...because you make us feel seen.
             Narr:	Her doe eyes widen slightly as she realizes what she's just said.
             Narr:	Emily looks at the ground, cheeks on fire — you scoot closer, lifting her chin up.
@@ -4970,27 +4970,27 @@ Narr:	Eventually you lose track of the conversation, choosing to instead focus o
     Eve:	Aside from being a fine person, I think you will make a fine colleague of mine one day.
     Narr:	You place your hand on hers, eyes fixed on hers, studying her microexpressions — the way her lids lift up, her pupils dilate.
     Me: 	Thank you, Eve, that means a lot coming from someone I admire.
-    voice voice/e10BelleSexCumOnAss_2d29ca8d.mp3
+    voice:	voice/e10BelleSexCumOnAss_2d29ca8d.mp3
     Eve:	Oh?
     Me: 	What? I thought that was obvious.
-    voice voice/e10BelleSexCumOnAss_a1db3011.mp3
+    voice:	voice/e10BelleSexCumOnAss_a1db3011.mp3
     Eve:	Well, I had my suspicions, but it is indeed nice to have them confirmed.
-    voice voice/e10BelleSexCumOnAss_71d7e082.mp3
+    voice:	voice/e10BelleSexCumOnAss_71d7e082.mp3
     Eve:	Some... other suspicions as well.
     Narr:	She plucks her hand from yours with a knowing smile, reaching for another chip.
     Me: 	Other suspicions?
-    voice voice/e10BelleSexCumOnAss_6c8ea238.mp3
+    voice:	voice/e10BelleSexCumOnAss_6c8ea238.mp3
     Eve:	I'm afraid I cannot discuss anything right now — I am here to enjoy myself.
     Me: 	Touche, Eve, touche.
     Narr:	You smile at her words, reaching for the food yourself.
     Me: 	You didn't tell me what you think about the food.
-    voice voice/e10BelleSexCumOnAss_4eb8d9ac.mp3
+    voice:	voice/e10BelleSexCumOnAss_4eb8d9ac.mp3
     Eve:	My compliments to the chef, whoever they are, the paste is just delicious.
     Me: 	Well, the head chef thanks you for the compliments and says you should try his other... meals sometime. I hear they're foodgasmic.
-    voice voice/e10BelleSexCumOnAss_026a6c1a.mp3
+    voice:	voice/e10BelleSexCumOnAss_026a6c1a.mp3
     Eve:	Really? I suppose his restaurant has a Michelin star then?
     Me: 	No. But I can tell he'd really like to get an Evechelin star.
-    voice voice/e10BelleSexCumOnAss_06689a12.mp3
+    voice:	voice/e10BelleSexCumOnAss_06689a12.mp3
     Eve:	Well, he already has one.
     Narr:	You cheer at her with your chip.
     Me: 	One down, four more to go.
@@ -5513,7 +5513,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	It elicits a sultry moan out of her.
             Me: 	And now, you're finally mine for the taking.
             Me: 	I've been thinking about your taste ever since we left your room, you know?
-            voice voice/e10a81nastavak_fce2aec0.mp3
+            voice:	voice/e10a81nastavak_fce2aec0.mp3
             Eve:	Have you now?
             Me: 	Mhmmm...
             Narr:	You drag the confirmation on as you lightly press your finger over Eve's dripping slit.
@@ -5565,7 +5565,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	Without so much as a word, you grab Eve by the waist and flip her around, so that she's on her knees.
             Narr:	You position yourself over her entrance, teasing her with the tip slightly.
             Me: 	Are you ready?
-            voice voice/e10EveFinalSexStandingPoseFirst_a140ed15.mp3
+            voice:	voice/e10EveFinalSexStandingPoseFirst_a140ed15.mp3
             Eve:	What do you think?
             Narr:	You hesitate no more and slide yourself into Eve, both of you moaning in unison as the sensation overwhelms you.
             Eve:	You're going to get me addicted.
@@ -5593,7 +5593,7 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Me: 	Are you ready?
             Eve:	What do you think?
             Narr:	You hesitate no more and slide yourself into Eve, both of you moaning in unison as you finally feel her around you, and she feels you, filling her up.
-            voice voice/e10EveFinalSexDoggyStyleFirst_dea61d40.mp3
+            voice:	voice/e10EveFinalSexDoggyStyleFirst_dea61d40.mp3
             Eve:	You're going to get me addicted.
             Me: 	Well, I would hope so, because I intend to come back for more.
             Narr:	It is then that you begin thrusting into her, your bodies meshing together and creating the most wonderful of symphonies.
@@ -5604,9 +5604,9 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Narr:	With impressive strength, you pick her up, her legs wrapping around you.
             Narr:	You carry her over to the closest tree and press her into it, the rough, dark bark in stark contrast with her marble skin.
             Narr:	Wasting no time, you position yourself at her entrance and plunge yourself deep within her, causing her eyes to go wide at your sudden entrance.
-            voice voice/e10EveSex2DoggySecond_88354d2b.mp3
+            voice:	voice/e10EveSex2DoggySecond_88354d2b.mp3
             Eve:	Aaah, yes!
-            voice voice/e10EveSex2DoggySecond_ba4fe4db.mp3
+            voice:	voice/e10EveSex2DoggySecond_ba4fe4db.mp3
             Eve:	Give it to me, [m!t]!
             Narr:	You start thrusting into her right away, resuming the relentless pace you set earlier.
             Narr:	You are not giving her a chance to recover. She needs to know she is all yours.
@@ -5620,11 +5620,11 @@ Narr:	Slowly, she heads toward the trees to be swallowed by the darkness.
             Me: 	Are you ready?
             Eve:	What do you think?
             Narr:	You hesitate no more and slide yourself into Eve, both of you moaning in unison as you finally feel her around you, and she feels you filling her up.
-            voice voice/e10EveFinalSexDoggyStyleFirst_dea61d40.mp3
+            voice:	voice/e10EveFinalSexDoggyStyleFirst_dea61d40.mp3
             Eve:	You're going to get me addicted.
             Me: 	Well, I would hope so, because I intend to come back for more.
             Narr:	It is then that she begins bouncing in your lap, your bodies meshing together and creating the most wonderful of symphonies.
-            voice voice/e10a86nastavak_e9ce3e25.mp3
+            voice:	voice/e10a86nastavak_e9ce3e25.mp3
             Eve:	Aaah, I love that big dick of yours!
             Narr:	While she does her part, you are free to kiss her neck before moving onto those juicy breasts your dick was buried between not too long ago.
             Narr:	You suck on a nipple, which only causes her to moan louder.
@@ -5870,7 +5870,7 @@ Eve:	No one here is rushing you.
     Stacy:	Who is Stacy? What does she enjoy doing aside from recruiting new members and praying around the fire?
     Stacy:	Once I find answers to those questions, I will be able to practice my religion in healthy parameters.
 Narr:	With that, Stacy concludes her monologue.
-svi Woo, go Stacy!
+svi:	Woo, go Stacy!
 Narr:	You can't help noting that this was in stark contrast to her original reluctance to open up.
 Narr:	To the girls' reluctance to open up.
 Eve:	Thank you for sharing, Stacy.
@@ -5993,10 +5993,10 @@ Naomi:	Right, right..
     Naomi:	You know what crossed my mind when I first arrived here?
     Naomi:	Wow, they really sent me to a shithole..
     Naomi:	Honestly, nothing was up to standard.
-    voice voice/e10a90nastavak_ef568e40.mp3
+    voice:	voice/e10a90nastavak_ef568e40.mp3
     Naomi:	These shabby little cabins, the community area; honestly, it felt like I'd entered Addicts Anonymous.
     Naomi:	And the food.. UGH! Don't get me started on the food—
-    voice voice/e10a90nastavak_2155358e.mp3
+    voice:	voice/e10a90nastavak_2155358e.mp3
     Eve:	I think we got the point, Naomi.
     Narr:	Eve interrupts, and you can see the girls giggling among each other.
     Narr:	In a way, Naomi's snobbism has become endearing.
@@ -6008,9 +6008,9 @@ Naomi:	Right, right..
     Naomi:	Most importantly, I learned how to properly treat people around me, even if they don't necessarily belong to the same circle as I do.
     Naomi:	I'm especially sorry about the way I treated you, Violet.
     Narr:	You see Violet become visibly flustered.
-    voice voice/e10a90nastavak_52d53b35.mp3
+    voice:	voice/e10a90nastavak_52d53b35.mp3
     Violet:	Oh, come on, Naomi. It's all water off a duck's back.
-    voice voice/e10a90nastavak_9f29b32c.mp3
+    voice:	voice/e10a90nastavak_9f29b32c.mp3
     Naomi:	Thank you.
         Naomi:	And, I'm also sorry for texting during your lecture Dr. Eve.
         Naomi:	It was... unprofessional.
@@ -6043,9 +6043,9 @@ Naomi:	Right, right..
     Naomi:	I always thought that type of work was beneath me, but I learned to find gratification in doing something on my own.
     Naomi:	I felt good after sweating the entire afternoon, and I will say that I'm really proud of what the area has become.
     Naomi:	By the time new patients arrive, the area will be completely clean.
-    voice voice/e10a90nastavak_9c516cba.mp3
+    voice:	voice/e10a90nastavak_9c516cba.mp3
     Eve:	That's wonderful news, Naomi.
-    voice voice/e10a90nastavak_0d0e568e.mp3
+    voice:	voice/e10a90nastavak_0d0e568e.mp3
     Eve:	I'm proud of you.
     Naomi:	And, finally, I have an announcement to make!
     Narr:	Her proclamation causes a stir among those gathered.
@@ -6113,11 +6113,11 @@ Narr:	All of the girls seem to shift in their seats as Violet readies herself to
     Narr:	Only for a fleeting moment, not long enough for anyone around you to notice.
     Me: 	You're so brave, Violet.
     Violet:	But I suppose none of you really know why I'm here...
-    voice voice/e10a90nastavak_d782b177_1.mp3
+    voice:	voice/e10a90nastavak_d782b177_1.mp3
     Violet:	Being shy and timid is not enough for someone to be sent to an institution like this one, now is it?
-    voice voice/e10a90nastavak_102993f4.mp3
+    voice:	voice/e10a90nastavak_102993f4.mp3
     Naomi:	You don't have to share if you don't want to, Violet.
-    voice voice/e10a90nastavak_915ff146.mp3
+    voice:	voice/e10a90nastavak_915ff146.mp3
     Stacy:	Yeah... I don't think anyone here's forcing you.
     Violet:	Thank you, girls, but I think that I should.
     Narr:	Violet takes a deep breath, bracing herself for what she is about to reveal.
@@ -6127,12 +6127,12 @@ Narr:	All of the girls seem to shift in their seats as Violet readies herself to
     Narr:	The girls stare at her in wonder, and you can certainly see a couple of jaws dropping.
     Narr:	You even see Belle inconspicuously raising her hands, as if she is going to clap.
     Narr:	Fortunately, before she can, Stacy makes her lower them with her hand, shaking her head in disapproval.
-    voice voice/e10a90nastavak_0f4e68aa.mp3
+    voice:	voice/e10a90nastavak_0f4e68aa.mp3
     Naomi:	Are you serious?
     Violet:	Unfortunately.
-    voice voice/e10a90nastavak_47bfba58.mp3
+    voice:	voice/e10a90nastavak_47bfba58.mp3
     Belle:	I have SO many questions.
-    voice voice/e10a90nastavak_ebe5ab12.mp3
+    voice:	voice/e10a90nastavak_ebe5ab12.mp3
     Stacy:	Now's not the time, Belle.
     Violet:	I understand that it's... weird.
     Violet:	I was ashamed of it for so long, but I feel comfortable sharing it with you all.
