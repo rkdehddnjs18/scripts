@@ -317,7 +317,7 @@ Eve:	*...*
 Me: 	I really can't come. You'll have to find someone else.
 Eve:	*I need you here, Dennis. Tomorrow.*
 Me: 	Tomorrow?! What the--
-Eve:	*[m!ct], I'm depending on you.*
+Eve:	*Dennis, I'm depending on you.*
 Jane:	(Seriously?! Tomorrow?!)
 Me: 	Ugh!
 Eve:	*I can't do this without you, Dennis. I need someone here that I can depend on.*

@@ -204,7 +204,7 @@ Narr:	With that, you leave the house...
     Naomi:	And horny.
     Me: 	Uhh... You're already dressed? (She's too close.)
     Naomi:	Of course, I must look dashing at all times.
-    Naomi:	And your reaction tells me I'm doing a good job. (You're cracking, [m!ct]... I can feel it.)
+    Naomi:	And your reaction tells me I'm doing a good job. (You're cracking, Dennis... I can feel it.)
     Me: 	Right, well, could you "look dashing" at the Community Area?
     Naomi:	Hmm? What for?
     Me: 	We're having a briefing.
@@ -313,7 +313,7 @@ Me: 	Mhm... Very vague.
         Me: 	You should attend when you're done.
         Violet:	Just about done anyway.
         Me: 	Great. I'll see ya'...
-        Violet:	[m!ct]?
+        Violet:	Dennis?
         Me: 	Yeah?
         Violet:	Thanks for the compliments, and...
         Violet:	You're not bad yourself.
@@ -590,7 +590,7 @@ Belle:	Did you miss us?
 Me: 	Partially...
 Belle:	Only the good bits, I hope.
 Eve:	Alright everyone, let's get inside and get comfortable, we're about to start.
-Eve:	Not you, [m!ct]. This is for patients' ears only.
+Eve:	Not you, Dennis. This is for patients' ears only.
 Me: 	Sooo, what should I do?
 Eve:	You're free, for now.
 Me: 	Cool. (Later, suckers!)
@@ -632,7 +632,7 @@ Narr:	You enter the main house hoping to get some rest.
     Me: 	WHAT!?
     Narr:	Entering the living room, you spot Kiara chilling on the couch, having a bowl of cereal.
     Me: 	Hey, Kiara.
-    Kiara:	Hey [m!ct], been busy?
+    Kiara:	Hey Dennis, been busy?
     Me: 	Barely had breakfast.
     Kiara:	Everything's normal, then.
     Me: 	Don't tell me it's like this all the time...
@@ -655,7 +655,7 @@ Narr:	You enter the main house hoping to get some rest.
 Narr:	Suddenly, you hear loud footsteps behind you.
 Emily:	BOMBS AWAAAAAY!
 Me: 	Oooompf--
-Emily:	Hello, [m!ct]. I missed you! (I need to iron out that last conversation, if I want him to think of me in a better light.)
+Emily:	Hello, Dennis. I missed you! (I need to iron out that last conversation, if I want him to think of me in a better light.)
 Me: 	*Wheezing* Hi, Emily.
 Emily:	I'm not that heavy, am I?
 Me: 	*Still wheezing* No, no, feather-light...
@@ -680,7 +680,7 @@ Narr:	And it gets big, and hard, enough for Emily to notice.
 Emily:	(Oh, what's this? Something's poking my butt?)
 Narr:	She squirmed a bit more, like trying to find a comfortable position on your lap.
 Emily:	*Chuckle* (He got hard! Because of me?)
-Emily:	So, [m!ct]... What are you doing with the rest of your day? (I'm definitely gonna tease you a bit more...)
+Emily:	So, Dennis... What are you doing with the rest of your day? (I'm definitely gonna tease you a bit more...)
 Me: 	Oh, you know, nothing much. (Shit! She can feel it now, for sure.)
 Emily:	Maybe we could have some fun together?
 Narr:	Emily moves and shifts as she talks...
@@ -749,7 +749,7 @@ Me: 	I-I don't know. I'll probably be busy. (I need to get her off me somehow.)
         Emily:	Hi!
         Eve:	I'd appreciate it immensely if you could help out with this.
         Eve:	I know this wasn't what you had in mind, but...
-        Emily:	[m!ct] would be happy to do it, right?
+        Emily:	Dennis would be happy to do it, right?
         Eve:	You're a sweetheart, Dennis.
         Me: 	Great, thanks.
         Narr:	With that, Eve leaves the room.
@@ -839,13 +839,13 @@ Me: 	(I have what I need.)
                             Naomi:	You're right, you probably don't need one.
                             Me: 	Naomi?
                             Naomi:	Yes, it's Naomi.
-                            Naomi:	[m!ct]?
+                            Naomi:	Dennis?
                             Naomi:	[m!ut]!
                             Me: 	Huh, yeah?
                             Naomi:	Are you hurt?
                             Me: 	I-Ugh...
                             Me: 	(Wow, nice view...)
-                            Naomi:	[m!ct]?
+                            Naomi:	Dennis?
                             Me: 	(I wouldn't mind dying like this.)
                             Naomi:	[m!ut]?!
                             Me: 	Huh? Sorry, what did you say?
@@ -951,7 +951,7 @@ Me: 	*Sigh* (What a redundant effort.)
             Me: 	Whoops!
             Narr:	You underestimate your own strength, and squeeze the bottle way too hard...
             Narr:	Spraying a geyser of sunscreen all over Violet’s back.
-            Violet:	[m!ct]!
+            Violet:	Dennis!
             Me: 	Sorry! I didn’t think this would happen.
             Violet:	It’s fine, it was an accident.
             Violet:	But, now I have to go wash this all off.
@@ -1044,7 +1044,7 @@ Me: 	But at the end of the day, you're sitting on a log, and I'm holding the axe
 Me: 	*High-pitched voice* Nooooo!
 Me: 	I'm sorry.
 Me: 	And... Mr. Tree?
-Me: 	*High-pitched voice* Y-Yes, [m!ct]?
+Me: 	*High-pitched voice* Y-Yes, Dennis?
 Me: 	For what it's worth, you were the best of us.
 Me: 	May Gaia have mercy on your soul...
 Narr:	As you say this, you lift the axe up, above your head...
@@ -1131,9 +1131,9 @@ Me: 	*Pant* I give up. *Pant*
 Me: 	(Should be enough to last us through the whole summer...)
 Me: 	(And if Eve's not satisfied, she can "build character" herself.)
 Narr:	You open the office door and enter.
-Belle:	Hey, [m!ct].
+Belle:	Hey, Dennis.
 Me: 	Woah!
-Eve:	[m!ct]! Are you allergic to knocking?
+Eve:	Dennis! Are you allergic to knocking?
 Me: 	Runs in the family.
 Eve:	We're having a private session here.
 Me: 	My bad, I thought everyone finished already.
@@ -1232,7 +1232,7 @@ Belle:	I'm ready for you, and you obviously like me.
 Me: 	N-N-No! Stop!
 Belle:	Awww, too direct?
 Me: 	Too everything!
-Belle:	Oh, come on, [m!ct]... Would you really deny me this pleasure?
+Belle:	Oh, come on, Dennis... Would you really deny me this pleasure?
 Belle:	How can you say no to this?
 Me: 	I have my reasons.
 Belle:	Who are you trying to fool with that bulge?
@@ -1434,7 +1434,7 @@ Naomi:	Shut up! You're not doing anything.
 Belle:	Hahaha, that's what makes it even funnier!
 Me: 	So, Violet's been destroying you?
 Violet:	Hellooo.
-Naomi:	Listen, [m!ct], I don't care about winning or anything. 
+Naomi:	Listen, Dennis, I don't care about winning or anything. 
 Naomi:	I just want to score at least one point against that gorilla. Just one.
 Naomi:	I can't let her humiliate me like this.
 svi:	Weeeee!
@@ -1473,12 +1473,12 @@ Narr:	Her bare tit ends up in your mouth, pressed down on your face.
 Narr:	You get a good taste of her nipple in that brief moment.
 Narr:	It was enjoyable as much as it was surprising...
 Belle:	Hahaha! Violet, look!
-Belle:	[m!ct]'s being breastfed!
+Belle:	Dennis's being breastfed!
 Violet:	*Chuckle* How embarrassing.
 Violet:	(We scored, but it feels like Naomi won...)
 Naomi:	S-S-Sorry...
 Me: 	I'm sorry, it was a complete accident!
-Belle:	I'm sure [m!ct]'ll want to play again tomorrow.
+Belle:	I'm sure Dennis'll want to play again tomorrow.
 Belle:	*Wink* But he's definitely playing on my team.
 Naomi:	*Silently* Fuck this... (This is so humiliating.)
 Narr:	Clutching her breasts firmly, Naomi gets up and starts leaving.
@@ -1526,7 +1526,7 @@ Naomi:	It brings back bad memories.
 Me: 	What memories?
 Naomi:	You really want to know?
 Me: 	Yeah, I wouldn't ask otherwise.
-Naomi:	Hmm, you're full of surprises, [m!ct].
+Naomi:	Hmm, you're full of surprises, Dennis.
 Naomi:	*Sigh* If you must know...
 Naomi:	They remind me of my mom.
 Me: 	Did she do something to you?
@@ -1635,7 +1635,7 @@ Belle:	Come, give me your hand.
 Stacy:	Huh, what for?
 Violet:	*In the distance* Guuuys, hellooo!?
 Me: 	*Inhale* Belle! *Gurgle*
-Belle:	Wanna touch [m!ct]'s dick?
+Belle:	Wanna touch Dennis's dick?
 Stacy:	Hmm...
 Stacy:	Why not?
 Narr:	You resurface for air just as Belle lets go of your hard-on.
@@ -1689,7 +1689,7 @@ Belle:	What a scaredy-cat...
 Stacy:	*Meow*
 Narr:	Out of nowhere, Naomi shows up.
 Naomi:	What's with all this noise? What are you guys doing?
-Belle:	[m!ct]'s got a boner, and we're checking it out.
+Belle:	Dennis's got a boner, and we're checking it out.
 Naomi:	Seriously!?
 Stacy:	It's remarkable, really.
 Naomi:	HOLD HIM DOWN! I'll be right there!
@@ -1768,7 +1768,7 @@ Me: 	*Sigh* Can't they entertain themselves?
 Eve:	Oh, come now. It's not that bad.
 Eve:	You get to hang out with pretty girls.
 Me: 	Pretty unstable girls.
-Eve:	[m!ct]...
+Eve:	Dennis...
 Me: 	I'm joking, I'm joking... I'll do it.
 Eve:	I knew I could count on you.
 Me: 	*Chuckle* Always.
@@ -1799,7 +1799,7 @@ Eve:	Everyone works as hard as they can.
 Eve:	Ladies! I'm back! Can I borrow all of you for a second!?
 Narr:	Not long after being called out, the girls gather around Eve again...
 Eve:	Excellent, everyone's here.
-Eve:	So, I have some errands to run. [m!ct] will keep an eye on all of you.
+Eve:	So, I have some errands to run. Dennis will keep an eye on all of you.
 Eve:	We were hoping you ladies could fix up the camping spot out back, a little.
 Belle:	Sure, I'm down.
 Violet:	Me too.
@@ -1830,7 +1830,7 @@ Stacy:	He'd be a good follower.
 Violet:	Come on, I think it's sweet.
 Me: 	You done?
 Belle:	Just about.
-Belle:	But you can't really blame [m!ct]...
+Belle:	But you can't really blame Dennis...
 Belle:	Even I could never say no to those massive, milky tits of hers!
 Me: 	...
 Belle:	Okay, now I'm done.
@@ -1913,7 +1913,7 @@ Stacy:	Best guardian ever!
 Violet:	*Chuckle* Most handsome guardian.
 Naomi:	And the size of his... Oof! *Shivers*
 Me: 	Good thing I didn't confiscate that bottle, I’m not sure how I'd handle you girls otherwise.
-Belle:	*Chuckle* Aww, [m!ct] likes us.
+Belle:	*Chuckle* Aww, Dennis likes us.
 Me: 	I'm sorry, did you mishear me?
 svi:	Hahahaha!
 Narr:	The booze lifts everyone's spirits, naturally.
@@ -2025,7 +2025,7 @@ Naomi:	Yeah, yeah, perfect tits. Now get to the good part.
 Belle:	She had this lovely dress, tight-fit.
 Belle:	It made her curves look extra sensual...
 Me: 	And?
-Belle:	[m!ct]? Is that you showing interest?
+Belle:	Dennis? Is that you showing interest?
 Me: 	It's the vodka.
 Belle:	*Chuckle* If you say so.
 Belle:	So, the next thing...
@@ -2077,7 +2077,7 @@ Stacy:	But this wouldn't last, at least not forever.
 Stacy:	The void, Apeiron, at one point, became conscious...
 Stacy:	And this consciousness was like a baby, a different entity.
 Me: 	Heavenly-Phoenix Lotus?
-Stacy:	You're rushing the story, [m!ct]...
+Stacy:	You're rushing the story, Dennis...
 Stacy:	Just 'cause you know parts of it, doesn't mean you should spoil it for the rest.
 Narr:	Everyone slightly chuckles at her remark.
 Me: 	Sorry...
@@ -2269,14 +2269,14 @@ Me: 	Any volunteers?
 Narr:	After a moment of silence...
 Me: 	Thought so.
 Me: 	Then I'll go get some. Be right back.
-Naomi:	Wait, [m!ct]! That's how all horror stories begin! The protagonists split up!
+Naomi:	Wait, Dennis! That's how all horror stories begin! The protagonists split up!
 Me: 	If I'm not back within fifteen minutes, consider me murdered by some weird, shambling abomination.
 Stacy:	Sounds fair.
 Violet:	Shouldn't we go with him? It's pretty dark out.
 Belle:	It's his backyard, he'll be fine.
 Naomi:	Maybe Hector pops up to hunt and torture him.
 Violet:	Oh, no...
-Violet:	Be careful, [m!ct]!
+Violet:	Be careful, Dennis!
 Narr:	With that, you leave to get some more wood...
 Me: 	("Be careful"... Did she really buy Naomi's story?)
 Me: 	(It's just a story... What's got them shaking in their boots so much?)

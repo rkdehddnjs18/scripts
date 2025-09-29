@@ -53,7 +53,7 @@ Me: 	(I should check the time...)
     Me: 	(Hmm... Maybe I can...)
     Me: 	(I should be able to--)
     noname:	FUUUUCK! YES!
-    noname:	Fuck me... [m!ct]...
+    noname:	Fuck me... Dennis...
     noname:	Punish my pussy...
     Me: 	(Holy shit, am I hallucinating?!)
     Me: 	(This is all so surreal...)
@@ -66,7 +66,7 @@ Me: 	(I should check the time...)
     Me: 	(How could she know?)
     Me: 	(Nothing makes sense...)
     Me: 	(This wall--)
-    noname:	[m!ct]...
+    noname:	Dennis...
     Me: 	(Kiara?)
     noname:	I'm so close, yet so far away...
     Me: 	(It does sound like Kiara.)
@@ -288,9 +288,9 @@ Me: 	Well...
                 Me: 	(I should make sure she's doing okay...)
                 Eve:	*Unintelligible*
                 noname:	On the day of the Summer Solstice.
-                Eve:	[m!ct].
+                Eve:	Dennis.
                 noname:	What a treat!
-                Eve:	[m!ct]!
+                Eve:	Dennis!
                 Me: 	Shit!
                 Me: 	Sorry!
                 Me: 	I guess I zoned out a little bit.
@@ -375,9 +375,9 @@ Me: 	Well...
                 Me: 	(I should make sure she's doing okay...)
                 Eve:	*Unintelligible*
                 noname:	On the day of the Summer Solstice.
-                Eve:	[m!ct].
+                Eve:	Dennis.
                 noname:	What a treat!
-                Eve:	[m!ct]!
+                Eve:	Dennis!
                 Me: 	Shit!
                 Me: 	Sorry!
                 Me: 	I guess I zoned out a little bit.
@@ -412,9 +412,9 @@ Me: 	Well...
         noname:	The total solar eclipse will happen tomorrow...
         Eve:	*Unintelligible*
         noname:	On the day of the Summer Solstice.
-        Eve:	[m!ct].
+        Eve:	Dennis.
         noname:	What a treat!
-        Eve:	[m!ct]!
+        Eve:	Dennis!
         Me: 	Shit!
         Me: 	Sorry!
         Me: 	I guess I zoned out a little bit.
@@ -426,7 +426,7 @@ Emily:	Good to see the janitor is on duty so early!
 Me: 	Morning, Em.
 Emily:	Whose spill are you cleaning up?
 Eve:	*Chuckle* His own.
-Emily:	[m!ct]! I thought janitors were supposed to clean messes, not make them.
+Emily:	Dennis! I thought janitors were supposed to clean messes, not make them.
 Me: 	I was just a little distracted by the TV.
 Eve:	Emily, he's still in dreamland.
 Emily:	*Giggle* Clearly.
@@ -486,12 +486,12 @@ Emily:	Yeah, but, it's strange, no?
     Eve:	What's not true?
     Me: 	Oh, nothing. Emily's imagination is running wild.
     Eve:	About what?
-    Emily:	[m!ct] has been dreaming about the patients.
+    Emily:	Dennis has been dreaming about the patients.
     Me: 	I told you, that's not what happened!
         Eve:	Oh, is this the dream you spoke to me about earlier?
         Me: 	Yeah, it is.
         Emily:	But, Eeeve... We didn't get to hear it, yet.
-        Eve:	Oh, I'm sorry. [m!ct], you may continue telling them.
+        Eve:	Oh, I'm sorry. Dennis, you may continue telling them.
         Me: 	Sure thing.
         Me: 	So, I woke up in my room, but everything was off.
         Me: 	Nothing was working like it should have.
@@ -533,7 +533,7 @@ Emily:	Yeah, but, it's strange, no?
         Eve:	But, it depends on a lot of different factors, though.
         Me: 	What are you saying?
         Eve:	Nothing, really. It's just a thought.
-        Eve:	[m!ct], come by my office after breakfast.
+        Eve:	Dennis, come by my office after breakfast.
         Eve:	I'll need to speak with you.
         Eve:	I’ll see you later guys!
         Me: 	(Shit! Did she figure it out?)
@@ -552,7 +552,7 @@ Emily:	Yeah, but, it's strange, no?
         Eve:	Oh, is this the dream you spoke to me about earlier?
         Me: 	Yeah, it is.
         Emily:	But, Eeeve... We didn't get to hear it, yet.
-        Eve:	Oh, I'm sorry. [m!ct], you may continue telling them.
+        Eve:	Oh, I'm sorry. Dennis, you may continue telling them.
         Me: 	Sure thing.
         Me: 	So, I woke up in my room, but everything was off.
         Me: 	Nothing was working like it should have.
@@ -597,7 +597,7 @@ Emily:	Yeah, but, it's strange, no?
         Eve:	But, it depends on a lot of different factors, though.
         Me: 	What are you saying?
         Eve:	Nothing, really. It's just a thought.
-        Eve:	[m!ct], come by my office after breakfast.
+        Eve:	Dennis, come by my office after breakfast.
         Eve:	I'll need to speak with you.
         Eve:	I’ll see you later guys!
         Me: 	(Shit! Did she figure it out?)
@@ -634,7 +634,7 @@ Emily:	Yeah, but, it's strange, no?
     Eve:	That’s true.
     Eve:	On the other hand, peoples' subconscious can be woven into their narrative.
     Emily:	Yeah. Kiara was really sympathetic to Dennis's experience.
-    Eve:	[m!ct], come by my office after breakfast.
+    Eve:	Dennis, come by my office after breakfast.
     Eve:	I'll need to speak with you.
     Me: 	(Shit! Did she figure it out?)
     Me: 	Sure thing. See you soon.
@@ -922,7 +922,7 @@ Eve:	As usual.
 Eve:	Anyway, I think that covers it.
 Eve:	Thank you for your cooperation, ladies.
 Eve:	We'll see you all very soon.
-Eve:	[m!ct], you also have some free time.
+Eve:	Dennis, you also have some free time.
 Eve:	You should spend it wisely.
 Emily:	Like waking up fully.
 Me: 	*Chuckle* I'm awake now!
@@ -1328,7 +1328,7 @@ Me: 	Thanks, Eve.
             Me: 	Of course. Yeah, I got this.
             Narr:	To your surprise, but nobody else's, you do not have this.
             Me: 	Ah! Shit!
-            Violet:	[m!ct]! Are you okay?
+            Violet:	Dennis! Are you okay?
             Me: 	I twisted my neck like in The Exorcist...
             Me: 	Ouch.
             Violet:	Come here, Dennis.
@@ -1346,8 +1346,8 @@ Me: 	Thanks, Eve.
             Violet:	You think so?
             Me: 	Yeah.
             Me: 	This is so relaxing I could...
-            Violet:	[m!ct]?
-            Violet:	[m!ct]!
+            Violet:	Dennis?
+            Violet:	Dennis!
             Me: 	What?
             Violet:	Did you just fall asleep?
             Me: 	Nah, I was just resting my eyes for a second.
@@ -1548,10 +1548,10 @@ Me: 	Thanks, Eve.
     Kiara:	"You know I'd miss you guys like crazy, too."
     Eve:	"I’m here to talk whenever. You know that."
     Kiara:	"I do. I’ll take you up on that offer, for sure."
-    Kiara:	[m!ct]? What are you doing here?
+    Kiara:	Dennis? What are you doing here?
     Me: 	I was out and about, but I wanted to get some rest...
     Me: 	...since I didn't sleep that well.
-    Eve:	[m!ct], can I see you for a minute?
+    Eve:	Dennis, can I see you for a minute?
     Me: 	(Oh, the notes!)
     Me: 	(I totally forgot about that!)
     Me: 	Sure thing.
@@ -1731,7 +1731,7 @@ Me: 	What do you want?
 Naomi:	What do I want...
 Naomi:	What do I want?
 Me: 	I don't know, probably something that goes against The Guidelines?
-Naomi:	[m!ct], I thought we were past that.
+Naomi:	Dennis, I thought we were past that.
 Me: 	Well, I mean--
 Naomi:	Ssshh. I'm just messing with you.
 Naomi:	I did hear something...
@@ -2302,7 +2302,7 @@ Eve:	Dennis will be joining us today.
 Me: 	I am?
 Violet:	Dr. Eve, I'm not sure I'll be comfortable with someone else joining the therapy.
 Eve:	I assure you it's going to be alright.
-Eve:	[m!ct] has developed an interest in therapy, so I believe this could be a great learning opportunity for him.
+Eve:	Dennis has developed an interest in therapy, so I believe this could be a great learning opportunity for him.
 Eve:	As for you, discussing your problems around someone new might help you overcome them much faster.
 Eve:	The details why you came won't be discussed in this session.
 Eve:	Is everyone okay with this?
@@ -2322,7 +2322,7 @@ Eve:	...so we can have some privacy.
 Violet:	Of course, Dr. Eve.
 Eve:	Lets begin, shall we?
 Eve:	Let me just take a seat, ladies.
-Belle:	[m!ct], you can squeeze between us.
+Belle:	Dennis, you can squeeze between us.
 Me: 	Umm, I'll sit next to Dr. Eve. Three's a crowd.
 Belle:	Not always. I like threesomes.
 Belle:	I mean, hanging out with two more people.
@@ -2402,7 +2402,7 @@ Eve:	You have some time until the next session so use it as you will.
 Eve:	Bye, Belle!
 Belle:	Bye, Dr. Eve!
 Me: 	Bye!
-Eve:	[m!ct], would you like to lead the second session?
+Eve:	Dennis, would you like to lead the second session?
 Eve:	Or would you prefer to have some time off until later?
     Eve:	Or would you prefer to have some time off until later?
         Me: 	That sounds great!
@@ -2624,7 +2624,7 @@ Naomi:	Of course, but...
 Eve:	Then that is our goal here.
 Eve:	Attachment bonding between patients has proven to aid the success of therapy itself.
 Eve:	So let's start with something simple.
-Eve:	[m!ct], You can take it from here.
+Eve:	Dennis, You can take it from here.
 Me: 	(Oh, shit!)
 Eve:	Remember what we spoke about earlier.
 Eve:	You'll do great.
@@ -2696,7 +2696,7 @@ Narr:	You cast a glance at Eve, looking to see her reaction.
 Me: 	(She seems happy.)
 Me: 	(More points earned.)
 Eve:	Ladies, you're free until the next session.
-Eve:	[m!ct], are you going back to the house or?
+Eve:	Dennis, are you going back to the house or?
 Me: 	It’s a nice day out, I was thinking of spending it outside.
 Eve:	Very well. Have fun!
 Eve:	I expect you to be on your best behavior, of course.
@@ -2705,7 +2705,7 @@ Eve:	Bye!
 Me: 	Bye, Dr. Eve!
 Naomi:	Bye!
 Violet:	Bye, Dr. Eve!
-Violet:	[m!ct], would you like to join me for a walk?
+Violet:	Dennis, would you like to join me for a walk?
 Naomi:	I was going to ask the same thing.
         Me: 	I'll join Violet for now. I'll come find you later, Naomi.
         Naomi:	No need. You had your pick.

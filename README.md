@@ -108,6 +108,7 @@ sed -i 's/^\(\s*\w\+\) \"/\1 /' *.txt
 
 # 캐릭터 약어를 전체 이름으로 변경 (예: 'mo' -> 'Eve:')
 sed -i 's/\[m!t\]/Dennis/' *
+sed -i 's/\[m!ct\]/Dennis/' *
 sed -i 's/^\(\s*\)mo /\1Eve: /' *.txt
 sed -i 's/^\(\s*\)m /\1Me: /' *.txt
 sed -i 's/^\(\s*\)j /\1Jane: /' *.txt
